@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<chapter-questions>
+<chapter name = "PRESENTATION" number="09">
+<question>
+<questionId>TNHSCS01090001</questionId>
+<question-text>You can enhance appearance of the...........by inserting charts and tables, adding background images, slide animation and transition effects,</question-text>
+<answer0>presentation</answer0>
+<answer1>spread sheet</answer1>
+<answer2>database</answer2>
+<answer3>wordprocessor</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>presentation</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090002</questionId>
+<question-text>...........is the staroffice application that allows you create and attractive and professional-looking presentations,</question-text>
+<answer0>Star Office Writer</answer0>
+<answer1>Star Office Base</answer1>
+<answer2>Star Office Draw</answer2>
+<answer3>Star Office Impress</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star Office Impress</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090003</questionId>
+<question-text>You can create a new impress presentation from within any staroffice application by choosing ...........</question-text>
+<answer0>file new presentations</answer0>
+<answer1>start all programs star officeS star office impress</answer1>
+<answer2>file new -> text document</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>file new presentations</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090004</questionId>
+<question-text>The first page of the presentation wizard displays........... options.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>three</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090005</questionId>
+<question-text>In the second page,the left side of the presentation wizard provides ........... categories of presentation backgrounds.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>three</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090006</questionId>
+<question-text>........... option allows you to specify the duration for each slide and will automatically flip through the slides at the specified speed</question-text>
+<answer0>Manual</answer0>
+<answer1>Automatic</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Automatic</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090007</questionId>
+<question-text>Checking the...........checkbox will display the message, “Created with star office” during the pause between each presentation.</question-text>
+<answer0>create</answer0>
+<answer1>duration of page</answer1>
+<answer2>show logo</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>show logo</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090008</questionId>
+<question-text>...........command is used to create a new presentation using template.</question-text>
+<answer0>File -> new -> templates and documents</answer0>
+<answer1>File new presentations</answer1>
+<answer2>Start -> all programs -> star office 8 star office impress</answer2>
+<answer3>File new text document</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>File -> new -> templates and documents</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090009</questionId>
+<question-text>...........is the short cut key to create new presentation using template.</question-text>
+<answer0>Shift + ctrl + N</answer0>
+<answer1>Ctrl -fn</answer1>
+<answer2>Shift + n</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Shift + ctrl + N</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090010</questionId>
+<question-text>The slide pane on the ........... displays a thumbnail image of the slide and allows you to rename, delete, or rearrange them.</question-text>
+<answer0></answer0>
+<answer1></answer1>
+<answer2></answer2>
+<answer3></answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS01090011</questionId>
+<question-text></question-text>
+<answer0></answer0>
+<answer1></answer1>
+<answer2></answer2>
+<answer3></answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS01090012</questionId>
+<question-text></question-text>
+<answer0></answer0>
+<answer1></answer1>
+<answer2></answer2>
+<answer3></answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS01090013</questionId>
+<question-text></question-text>
+<answer0></answer0>
+<answer1></answer1>
+<answer2></answer2>
+<answer3></answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS01090014</questionId>
+<question-text></question-text>
+<answer0></answer0>
+<answer1></answer1>
+<answer2></answer2>
+<answer3></answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS01090015</questionId>
+<question-text></question-text>
+<answer0></answer0>
+<answer1></answer1>
+<answer2></answer2>
+<answer3></answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS01090016</questionId>
+<question-text>........... allows you to view miniature images of all the slides in the presentation.</question-text>
+<answer0>Slide sorter view</answer0>
+<answer1>Outline view</answer1>
+<answer2>Notes view</answer2>
+<answer3>Handouts view</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Slide sorter view</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090017</questionId>
+<question-text>For rearranging the slides, ........... can be used.</question-text>
+<answer0>outline view</answer0>
+<answer1>slide sorter view</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>slide sorter view</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090018</questionId>
+<question-text>........... page can be used to specify basic background information that needs to be included in all the slides,</question-text>
+<answer0>Layouts</answer0>
+<answer1>Master page</answer1>
+<answer2>Custom animation</answer2>
+<answer3>Slide transition</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Custom animation</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090019</questionId>
+<question-text>...........page displays various options that allow you to add or modify animation effects to elements of a slide,</question-text>
+<answer0>Master page</answer0>
+<answer1>.Custom animation</answer1>
+<answer2>Slide transition</answer2>
+<answer3>Layouts</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>.Custom animation</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090020</questionId>
+<question-text>...........page displays various transition effects that can be attracted to a slide.</question-text>
+<answer0>Custom animation</answer0>
+<answer1>Slide transition</answer1>
+<answer2>Master page</answer2>
+<answer3>Layouts</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Master page</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090021</questionId>
+<question-text>...........key can be used to start a presentation.</question-text>
+<answer0>F1</answer0>
+<answer1>F2</answer1>
+<answer2>F3</answer2>
+<answer3>F5</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>F5</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090022</questionId>
+<question-text>........... key can be used to end the presentation.</question-text>
+<answer0>Escape</answer0>
+<answer1>Enter</answer1>
+<answer2>Backspace</answer2>
+<answer3>Ctrl</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Escape</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090023</questionId>
+<question-text>........... command can be used to run the custom slide show.</question-text>
+<answer0>Slide show slide show</answer0>
+<answer1>Slide show custom slide show</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Slide show custom slide show</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090024</questionId>
+<question-text>...........option can be used to insert a picture in a slide.</question-text>
+<answer0>Insert -> picture -> from file</answer0>
+<answer1>Insert -> slide</answer1>
+<answer2>Insert -> movie and sound</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert -> picture -> from file</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090025</questionId>
+<question-text>...........option can be used to insert a movie or a sound into a presentation.</question-text>
+<answer0>Insert -> picture -> from file</answer0>
+<answer1>Insert -> slide</answer1>
+<answer2>Insert -> movie and sound</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert -> movie and sound</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090026</questionId>
+<question-text>........... tools for inserting objects like charts, formula etc. in a presentation.</question-text>
+<answer0>Insert object</answer0>
+<answer1>Insert ole object</answer1>
+<answer2>Insert -> movie and sound</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert object</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090027</questionId>
+<question-text>........... option is used to import objects from other application into a presentation.</question-text>
+<answer0>Insert -> object</answer0>
+<answer1>Insert -> OLE object</answer1>
+<answer2>Insert -> movie and sound</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert -> OLE object</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090028</questionId>
+<question-text>...........is used to import applets into the presentation.</question-text>
+<answer0>Insert -> object</answer0>
+<answer1>Insert -> applet</answer1>
+<answer2>Insert -> movie and sound</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert -> applet</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090029</questionId>
+<question-text>...........command can be used to change the slide view with different columns of slides.</question-text>
+<answer0>View -> toolbars slide view</answer0>
+<answer1>Insert slide</answer1>
+<answer2>Insert applet</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>View -> toolbars slide view</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090030</questionId>
+<question-text>There are  .......... tabs in custom animation window.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>four</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090031</questionId>
+<question-text>........... menu can be used to change the background colour or background fill of the slides.</question-text>
+<answer0>Format -> page -> background</answer0>
+<answer1>View -> toolbars -> slide view</answer1>
+<answer2>Insert -> slide</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Format -> page -> background</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090032</questionId>
+<question-text>We can change the appearance of the master slide by applying a new slide design by selecting the menu</question-text>
+<answer0>format -> slide design</answer0>
+<answer1>format page background</answer1>
+<answer2>insert slide</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>format -> slide design</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090033</questionId>
+<question-text>To apply the slide design to all of the slides in your presentation , select the ........... check box.</question-text>
+<answer0>exchange background page</answer0>
+<answer1>delete unused backgrounds</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>exchange background page</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090034</questionId>
+<question-text>The stylist can be opened by pressing the key...........</question-text>
+<answer0>exchange background page</answer0>
+<answer1>delete unused backgrounds</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>both a and b</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090035</questionId>
+<question-text>By pressing the key you move the line down one level,</question-text>
+<answer0>F8</answer0>
+<answer1>F1O</answer1>
+<answer2>Fll</answer2>
+<answer3>F12</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS01090036</questionId>
+<question-text>By pressing the key you move the line one level up.</question-text>
+<answer0>tab</answer0>
+<answer1>shift + tab</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>shift + tab</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090037</questionId>
+<question-text>...........to select a range of slides.</question-text>
+<answer0>tab</answer0>
+<answer1>shift+ tab</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>shift+ tab</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090038</questionId>
+<question-text>...........to select multiple slides.</question-text>
+<answer0>Ctrl</answer0>
+<answer1>Shift</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090039</questionId>
+<question-text>...........command can be used to hide/ show the slides.</question-text>
+<answer0>Ctrl</answer0>
+<answer1>Shift</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090040</questionId>
+<question-text>...........command has recorded the display time for each slide.</question-text>
+<answer0>Slide show -> show/hide slide</answer0>
+<answer1>Slide show -> rehearse timings</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Slide show -> rehearse timings</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090041</questionId>
+<question-text>To set the default printing options for star office impress, choose  ........</question-text>
+<answer0>Slide show show/hide slide</answer0>
+<answer1>Slide show -> rehearse timings</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Slide show -> rehearse timings</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090042</questionId>
+<question-text>We can reduce the size of a slide when you print, so that a slide can fit on a printed page by selecting...........</question-text>
+<answer0>file print</answer0>
+<answer1>tools -> options -> staroffice impress -> print</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>file print</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090043</questionId>
+<question-text>Using the navigator, you can move from slide to slide quickly by activating the navigating button by selecting the menu ...........</question-text>
+<answer0>format page</answer0>
+<answer1>file -> print</answer1>
+<answer2>tools -> options</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>tools -> options</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01090044</questionId>
+<question-text>Sending the presentation as HTML page by selecting the menu ...........</question-text>
+<answer0>file print</answer0>
+<answer1>tools -> options</answer1>
+<answer2>edit -> navigator</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>tools -> options</correctAnswer>
+</question>
+</chapter>
+</chapter-questions>

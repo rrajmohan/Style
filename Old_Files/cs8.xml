@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<chapter-questions>
+<chapter name = "PRESENTATION" number="08">
+<question>
+<questionId>TNHSCS01080001</questionId>
+<question-text>........... is a computer-based presentation technique that incorporates text, graphics,sound,animations and video elements.</question-text>
+<answer0>Word processor</answer0>
+<answer1>Database</answer1>
+<answer2>Multimedia</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Multimedia</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080002</questionId>
+<question-text>In the field of entertainment, ........... is widely used to add special effects to movies.</question-text>
+<answer0>word processor</answer0>
+<answer1>database</answer1>
+<answer2>multimedia</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>multimedia</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080003</questionId>
+<question-text>Identify the animated films given below.</question-text>
+<answer0>finding nemo</answer0>
+<answer1>polar express</answer1>
+<answer2>ice age</answer2>
+<answer3>all of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>all of these</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080004</questionId>
+<question-text>...........is an application that allows to send and receive messages over cell phones.</question-text>
+<answer0>MMS</answer0>
+<answer1>SMS</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MMS</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080005</questionId>
+<question-text>CBT/WBT are the example of ........... packages.</question-text>
+<answer0>e-shopping</answer0>
+<answer1>e-marketing</answer1>
+<answer2>e-learning</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>e-learning</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080006</questionId>
+<question-text>The expandable form of CBT is ...........</question-text>
+<answer0>computer based tutorials</answer0>
+<answer1>web based tutorials</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>computer based tutorials</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080007</questionId>
+<question-text>The expandable form WBT is ...........</question-text>
+<answer0>computer based tutorials</answer0>
+<answer1>web based tutorials</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>web based tutorials</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080008</questionId>
+<question-text>........... access to information definitely speeds-up the learning process and makes it more rewarding</question-text>
+<answer0>Linear</answer0>
+<answer1>Non-linear</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Non-linear</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080009</questionId>
+<question-text>........... provide an environment which is experienced by users similar to reality.</question-text>
+<answer0>Virtual reality</answer0>
+<answer1>Imagine reality</answer1>
+<answer2>Reality</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Virtual reality</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080010</questionId>
+<question-text>Identify the image format given below.</question-text>
+<answer0>GIF</answer0>
+<answer1>JPG</answer1>
+<answer2>MPEG</answer2>
+<answer3>All of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080011</questionId>
+<question-text>..... and ..... images are formats compress static bitmap</question-text>
+<answer0>GIF, JPG</answer0>
+<answer1>MP3,MPEG</answer1>
+<answer2>AVI,SND</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>GIF, JPG</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080012</questionId>
+<question-text>A........... file uses much more complex technique than GIF compress images.</question-text>
+<answer0>JPG</answer0>
+<answer1>MP3</answer1>
+<answer2>AVI</answer2>
+<answer3>SND</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>JPG</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080013</questionId>
+<question-text>A..........file creates a perfect reproduction of the original.</question-text>
+<answer0>JPG</answer0>
+<answer1>GIF</answer1>
+<answer2>SND</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>GIF</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080014</questionId>
+<question-text>GIF is limited to an ........... bit palette.</question-text>
+<answer0>5</answer0>
+<answer1>6</answer1>
+<answer2>7</answer2>
+<answer3>8</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>8</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080015</questionId>
+<question-text>........... is not well fitted for photographic works.</question-text>
+<answer0>GIF</answer0>
+<answer1>JPG</answer1>
+<answer2>SND</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>GIF</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080016</questionId>
+<question-text>...........files are a lossy format.</question-text>
+<answer0>JPEG</answer0>
+<answer1>GIF</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>JPEG</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080017</questionId>
+<question-text>Digital cameras have the option to save images in ........... format.</question-text>
+<answer0>JPEG</answer0>
+<answer1>GIF</answer1>
+<answer2>AVI</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>JPEG</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080018</questionId>
+<question-text>The JPEG format supports full color and produces relatively ........... file sizes.</question-text>
+<answer0>small</answer0>
+<answer1>big</answer1>
+<answer2>very big</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>small</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080019</questionId>
+<question-text>There are ...........categories of image file compression.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080020</questionId>
+<question-text>......... help in rendering the image effectively on the screen.</question-text>
+<answer0>Vector graphics</answer0>
+<answer1>Adaptor</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Vector graphics</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080021</questionId>
+<question-text>Two attributes control the characteristics of sound - amplitude and ...........</question-text>
+<answer0>frequency</answer0>
+<answer1>sampling</answer1>
+<answer2>pitch</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>frequency</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080022</questionId>
+<question-text>........... is the distance between the crests of the wave.</question-text>
+<answer0>Pitch</answer0>
+<answer1>Sampling</answer1>
+<answer2>Amplitude</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Pitch</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080023</questionId>
+<question-text>...........also, called as the pitch.</question-text>
+<answer0>Amplitude</answer0>
+<answer1>Frequency</answer1>
+<answer2>Sampling</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Frequency</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080024</questionId>
+<question-text>The conversion of analog sound waves to a digital format is called ...........</question-text>
+<answer0>sampling</answer0>
+<answer1>amplitude</answer1>
+<answer2>frequency</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>sampling</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080025</questionId>
+<question-text>........... is a program to add special effects , such as echo, fade in , fade out effects.</question-text>
+<answer0>Sound forge</answer0>
+<answer1>Finding nemo</answer1>
+<answer2>Polar express</answer2>
+<answer3>All of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Sound forge</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080026</questionId>
+<question-text>Animations can be classified into</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080027</questionId>
+<question-text>2-D animations are classifieds into categories.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080028</questionId>
+<question-text>...... animations consists of multiple drawings, each one a little different from the others,</question-text>
+<answer0>Cell based animations</answer0>
+<answer1>Object-based animations</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Object-based animations</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080029</questionId>
+<question-text>........... animations also referred to as slide or path animations, are created by moving an object across a screen.</question-text>
+<answer0>Cel- based animations</answer0>
+<answer1>Object-based animations</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Object-based animations</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080030</questionId>
+<question-text>...........animations are usually seen in computer games.</question-text>
+<answer0>Cel- based animations</answer0>
+<answer1>Object-based animations</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Object-based animations</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080031</questionId>
+<question-text>...........is one of steps in 3-D animation.</question-text>
+<answer0>Modeling</answer0>
+<answer1>Animating</answer1>
+<answer2>Rendering</answer2>
+<answer3>All of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080032</questionId>
+<question-text>......... is a technique by which you can blend two or more images to form a new image</question-text>
+<answer0>Morphing</answer0>
+<answer1>Warping</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Morphing</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080033</questionId>
+<question-text>...........is the technique of distorting a single image to represent something else.</question-text>
+<answer0>Morphing</answer0>
+<answer1>Warping</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Warping</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080034</questionId>
+<question-text>.....:...... determines the size of the video files.</question-text>
+<answer0>Frame rate</answer0>
+<answer1>Image size</answer1>
+<answer2>Color depth</answer2>
+<answer3>All of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080035</questionId>
+<question-text>Reducing the color depth to less than ........... colours results in the image looking murky.</question-text>
+<answer0>244</answer0>
+<answer1>255</answer1>
+<answer2>256</answer2>
+<answer3>258</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>256</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080036</questionId>
+<question-text>Reducing the frame count to less than ........... frames per second.</question-text>
+<answer0>13</answer0>
+<answer1>14</answer1>
+<answer2>15</answer2>
+<answer3>16</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>15</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080037</questionId>
+<question-text>........... is a technique by which a recurring set of information is identified and replaced by a single piece of information.</question-text>
+<answer0>Compression</answer0>
+<answer1>Depression</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Compression</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080038</questionId>
+<question-text>..... retains the exact image throughout the compression</question-text>
+<answer0>Lossy compression</answer0>
+<answer1>Lossless compression</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Lossless compression</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080039</questionId>
+<question-text>...........results in some loss of quality.</question-text>
+<answer0>Lossless compression</answer0>
+<answer1>Lossy compression</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Lossy compression</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080040</questionId>
+<question-text>........... is commonly used for transferring music information between electronic devices,</question-text>
+<answer0>MIDI</answer0>
+<answer1>AIFF f</answer1>
+<answer2>SND</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MIDI</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080041</questionId>
+<question-text>MIDI was developed in</question-text>
+<answer0>1981</answer0>
+<answer1>1982</answer1>
+<answer2>1983</answer2>
+<answer3>1984</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>1982</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080042</questionId>
+<question-text>The ........... format cannot contain sounds-it contains only digital notes.</question-text>
+<answer0>MIDI</answer0>
+<answer1>AIFF</answer1>
+<answer2>SND</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MIDI</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080043</questionId>
+<question-text>MIDI file that plays for approximately 5 minutes may have the file size ...........</question-text>
+<answer0>10 kb</answer0>
+<answer1>20 kb</answer1>
+<answer2>25 kb</answer2>
+<answer3>15 kb</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>25 kb</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080044</questionId>
+<question-text>Musical Instrument Digital Interface format have the extension ...........</question-text>
+<answer0>MID</answer0>
+<answer1>MIDI</answer1>
+<answer2>MID or MIDI</answer2>
+<answer3>AIFF</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MID or MIDI</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080045</questionId>
+<question-text>The Real Audio/Real Video format was developed by</question-text>
+<answer0>Micro soft</answer0>
+<answer1>Apple</answer1>
+<answer2>Sun micro systemss</answer2>
+<answer3>Real networks</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Real networks</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080046</questionId>
+<question-text>Real Audio/Real Video developed in the year</question-text>
+<answer0>1992</answer0>
+<answer1>1993</answer1>
+<answer2>1994</answer2>
+<answer3>1995</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>1995</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080047</questionId>
+<question-text>..... format more popular for transfer of data over the Internet.</question-text>
+<answer0>MIDI</answer0>
+<answer1>RM or RAM</answer1>
+<answer2>SND</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>RM or RAM</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080048</questionId>
+<question-text>........... allows you to stream files even over internet connections with low bandwidths.</question-text>
+<answer0>MIDI</answer0>
+<answer1>AIFF</answer1>
+<answer2>.rm or ram</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.rm or ram</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080049</questionId>
+<question-text>Real audio format has the extension</question-text>
+<answer0>.rm</answer0>
+<answer1>.ram</answer1>
+<answer2>.rm or .ram</answer2>
+<answer3>.au</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.rm or .ram</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080050</questionId>
+<question-text>The AIFF format was developed by ...........</question-text>
+<answer0>Micro soft</answer0>
+<answer1>Apple</answer1>
+<answer2>Sun micro systems</answer2>
+<answer3>Real networks</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Apple</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080051</questionId>
+<question-text>Audio Interchange File Format have the extension</question-text>
+<answer0>.aif</answer0>
+<answer1>.aiff</answer1>
+<answer2>.aiff or .aif</answer2>
+<answer3>,au .</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.aiff or .aif</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080052</questionId>
+<question-text>The sound format was developed by ...........</question-text>
+<answer0>Micro soft</answer0>
+<answer1>Apple</answer1>
+<answer2>Sun micro systems</answer2>
+<answer3>Real networks</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Apple</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080053</questionId>
+<question-text>The WAVE format was developed by ....</question-text>
+<answer0>IBM</answer0>
+<answer1>Microsoft</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Apple</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080054</questionId>
+<question-text>........... format was developed for video files.</question-text>
+<answer0>MPEG</answer0>
+<answer1>MP3</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MPEG</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080055</questionId>
+<question-text>........... format is used to store sounds(music).</question-text>
+<answer0>MPEG</answer0>
+<answer1>MP3</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MP3</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080056</questionId>
+<question-text>The main reason for the popularity of the ........... format offer good compression and high quality.</question-text>
+<answer0>MPEG</answer0>
+<answer1>MP3</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080057</questionId>
+<question-text>MP3 format have the extension ...........</question-text>
+<answer0>.mp3</answer0>
+<answer1>.mpga</answer1>
+<answer2>mp3 or .mpga</answer2>
+<answer3>.mpeg</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>mp3 or .mpga</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080058</questionId>
+<question-text>The Audio Video Interleave format was developed by</question-text>
+<answer0>IBM</answer0>
+<answer1>Microsoft</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Apple</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Microsoft</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080059</questionId>
+<question-text>The AVI format was developed in the year...........</question-text>
+<answer0>1990</answer0>
+<answer1>1991</answer1>
+<answer2>1992</answer2>
+<answer3>1993</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>1992</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080060</questionId>
+<question-text>The windows media format was developed by ...........</question-text>
+<answer0>IBM</answer0>
+<answer1>Microsoft</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Apple</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Microsoft</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080061</questionId>
+<question-text>format requires the installation of an additional component in non-windows computers.</question-text>
+<answer0>.WMV</answer0>
+<answer1>.MPEG</answer1>
+<answer2>.MPGA</answer2>
+<answer3>.AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.WMV</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080062</questionId>
+<question-text>Files in the Windows video format have the extension</question-text>
+<answer0>.WMV</answer0>
+<answer1>.MPEG</answer1>
+<answer2>.MPGA</answer2>
+<answer3>.AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.WMV</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080063</questionId>
+<question-text>The quick time format was developed by</question-text>
+<answer0>IBM</answer0>
+<answer1>Microsoft</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Apple</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Apple</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080064</questionId>
+<question-text>Files in the Quick Time Format have the extension</question-text>
+<answer0>.mov</answer0>
+<answer1>.wmv</answer1>
+<answer2>.swf</answer2>
+<answer3>.mp3</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.mov</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080065</questionId>
+<question-text>The shockwave format was developed by ...........</question-text>
+<answer0>Sun micro systems</answer0>
+<answer1>Apple</answer1>
+<answer2>Macromedia</answer2>
+<answer3>IBM</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Macromedia</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080066</questionId>
+<question-text>The shockwave format used to store multimedia components created-using ...........</question-text>
+<answer0>maya</answer0>
+<answer1>starofficelmpress</answer1>
+<answer2>flash</answer2>
+<answer3>c-f +</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>flash</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080067</questionId>
+<question-text>The shock wave format have the extension ...........</question-text>
+<answer0>.mov</answer0>
+<answer1>.wmv</answer1>
+<answer2>.swf</answer2>
+<answer3>.mp3</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.swf</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080068</questionId>
+<question-text>Multimedia content can be created using the softwares</question-text>
+<answer0>flash</answer0>
+<answer1>dreamweaver</answer1>
+<answer2>maya</answer2>
+<answer3>all of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>all of these</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080069</questionId>
+<question-text>When sound or video is included as part of a web page, then it is called as .......</question-text>
+<answer0>inline sound</answer0>
+<answer1>inline video</answer1>
+<answer2>inline sound or inline video</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>inline sound or inline video</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080070</questionId>
+<question-text>You can add inline sound to a web page by using the tag ...........</question-text>
+<answer0><bgsound></answer0>
+<answer1><img></answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer><bgsound></correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080071</questionId>
+<question-text>You can add .inline image to a web. page, by using the tag ...........</question-text>
+<answer0><bgsound></answer0>
+<answer1><img></answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer><img></correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080072</questionId>
+<question-text>Helper application can be-launched using the ....... tags.</question-text>
+<answer0><embed></answer0>
+<answer1><applet></answer1>
+<answer2><object></answer2>
+<answer3>all of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>all of these</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080073</questionId>
+<question-text>........... to be considered before deciding to include multimedia elements.</question-text>
+<answer0>Size</answer0>
+<answer1>Type</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080074</questionId>
+<question-text>During a regular ............ transfer, the entire file is downloaded to the user’s computer</question-text>
+<answer0>FTP -</answer0>
+<answer1>HTTP</answer1>
+<answer2>TCP</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>HTTP</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01080075</questionId>
+<question-text>........... a feature would be very popular with viewers viewing the content for a second time or third time</question-text>
+<answer0>Viewer control</answer0>
+<answer1>Dreamweaver</answer1>
+<answer2>Maya</answer2>
+<answer3>Flash</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Viewer control</correctAnswer>
+</question>
+</chapter>
+</chapter-questions>

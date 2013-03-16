@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<chapter-questions>
+<chapter name = "PRESENTATION" number="07">
+<question>
+<questionId>TNHSCS01070001</questionId>
+<question-text>...........fall under the category of data processing.</question-text>
+<answer0>Banking</answer0>
+<answer1>Pay roll</answer1>
+<answer2>Budget preparation</answer2>
+<answer3>All of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070002</questionId>
+<question-text>The term data comes from the word ..........</question-text>
+<answer0>data</answer0>
+<answer1>information</answer1>
+<answer2>fact</answer2>
+<answer3>datum</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>datum</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070003</questionId>
+<question-text>The term ........... refers to the name of a memory location.</question-text>
+<answer0>constant</answer0>
+<answer1>variable</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>variable</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070004</questionId>
+<question-text>........... data type can be integer, float, double precision, date, time etc.</question-text>
+<answer0>Numeric</answer0>
+<answer1>Date</answer1>
+<answer2>Boolean</answer2>
+<answer3>Character</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Numeric</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070005</questionId>
+<question-text>The data defined by the user itself is called...........data type.</question-text>
+<answer0>built-in ,</answer0>
+<answer1>user-defined</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>user-defined</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070006</questionId>
+<question-text>...........is defined as a set of processed data.</question-text>
+<answer0>Data</answer0>
+<answer1>Datum</answer1>
+<answer2>Information</answer2>
+<answer3>Date</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Information</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070007</questionId>
+<question-text>Data processing involves ...........</question-text>
+<answer0>data collection</answer0>
+<answer1>verification</answer1>
+<answer2>validation</answer2>
+<answer3>all of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>all of these</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070008</questionId>
+<question-text>The work has been carried out by long-hand effort is..........</question-text>
+<answer0>computerised data processing</answer0>
+<answer1>manual data processing</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>manual data processing</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070009</questionId>
+<question-text>...........method takes more time,</question-text>
+<answer0>Manual</answer0>
+<answer1>Computerized</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Manual</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070010</questionId>
+<question-text>Human beings are liable to make computational and '..... errors.</question-text>
+<answer0>parallax</answer0>
+<answer1>transpose</answer1>
+<answer2>over write</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>parallax</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070011</questionId>
+<question-text>........... data processing involves use of papers.</question-text>
+<answer0>Computer</answer0>
+<answer1>Manual</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Manual</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070012</questionId>
+<question-text>Implementation of corrections, changes and modifications are tedious in ........... data processing.</question-text>
+<answer0>manual</answer0>
+<answer1>computer</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>manual</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070013</questionId>
+<question-text>........... are so common that we can share data and resources from one computer system to the other at a very fast speed or facts.</question-text>
+<answer0>word processing</answer0>
+<answer1>spread sheet</answer1>
+<answer2>data base</answer2>
+<answer3>drawings</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>spread sheet</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070014</questionId>
+<question-text></question-text>
+<answer0></answer0>
+<answer1></answer1>
+<answer2></answer2>
+<answer3></answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer></correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070015</questionId>
+<question-text>The entire collection of related data in one table is referred to as a ...........</question-text>
+<answer0>record</answer0>
+<answer1>field</answer1>
+<answer2>file</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>file</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070016</questionId>
+<question-text>Each row in a table represents ........... in a database.</question-text>
+<answer0>field</answer0>
+<answer1>record</answer1>
+<answer2>file</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>record</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070017</questionId>
+<question-text>Each table column represents a .......  in database.</question-text>
+<answer0>field</answer0>
+<answer1>table</answer1>
+<answer2>record</answer2>
+<answer3>file</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>field</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070018</questionId>
+<question-text>...........is a process to select a desired specific data from a database.</question-text>
+<answer0>Sorting</answer0>
+<answer1>Merging</answer1>
+<answer2>Filtering</answer2>
+<answer3>Searching</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Searching</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070019</questionId>
+<question-text>...........is the process of arranging the data in a table in some order.</question-text>
+<answer0>Searching</answer0>
+<answer1>Sorting</answer1>
+<answer2>Merging</answer2>
+<answer3>Filtering</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Sorting</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070020</questionId>
+<question-text>...........is the process of joining data from two or more table of the same or different databases.</question-text>
+<answer0>Merging</answer0>
+<answer1>Sorting</answer1>
+<answer2>Filtering</answer2>
+<answer3>Searching</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Merging</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070021</questionId>
+<question-text>........... are a feature for displaying and browsing a selected list or subset of records from a table.</question-text>
+<answer0>Searching</answer0>
+<answer1>Sorting</answer1>
+<answer2>Merging</answer2>
+<answer3>Filtering</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Filtering</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070022</questionId>
+<question-text>...........is the process of performing corrections on the existing data.</question-text>
+<answer0>Sorting</answer0>
+<answer1>Merging</answer1>
+<answer2>Editing</answer2>
+<answer3>Searching</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Editing</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070023</questionId>
+<question-text>Based on the conceptual structures, the databases can be classified as ...........</question-text>
+<answer0>1</answer0>
+<answer1>2</answer1>
+<answer2>4</answer2>
+<answer3>5</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>5</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070024</questionId>
+<question-text>A database file that consists of a single data table is a</question-text>
+<answer0>flat-fiie</answer0>
+<answer1>relational</answer1>
+<answer2>hierarchical</answer2>
+<answer3>network</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>flat-fiie</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070025</questionId>
+<question-text>....... database' do'not allow for more complex requests.</question-text>
+<answer0>Flat-file</answer0>
+<answer1>Relational</answer1>
+<answer2>Hierarchical</answer2>
+<answer3>Network</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Flat-file</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070026</questionId>
+<question-text>........... structure represents a database made up of a set of related tables.</question-text>
+<answer0>Hierarchical</answer0>
+<answer1>Relational</answer1>
+<answer2>Network</answer2>
+<answer3>Object oriented</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Relational</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070027</questionId>
+<question-text>In relational database, common field or fields are called the ...........</question-text>
+<answer0>table</answer0>
+<answer1>record</answer1>
+<answer2>field</answer2>
+<answer3>keys</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>keys</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070028</questionId>
+<question-text>A  ...... is a' key that uniquely identifies a record in a database table.</question-text>
+<answer0>field</answer0>
+<answer1>record</answer1>
+<answer2>primary key</answer2>
+<answer3>table</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>primary key</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070029</questionId>
+<question-text>Hierarchical database structures were primarily used on ........... computers.</question-text>
+<answer0>micro</answer0>
+<answer1>super</answer1>
+<answer2>main frame</answer2>
+<answer3>notepad</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>main frame</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070030</questionId>
+<question-text>In ........... any child type relates only to a single parent type.</question-text>
+<answer0>network</answer0>
+<answer1>hierarchical</answer1>
+<answer2>flat file</answer2>
+<answer3>object oriented</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>hierarchical</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070031</questionId>
+<question-text>In...........any one record type can relate to any number of other record type.</question-text>
+<answer0>hierachical</answer0>
+<answer1>network</answer1>
+<answer2>relational</answer2>
+<answer3>object oriented</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>network</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070032</questionId>
+<question-text>The ........... structure group the data items and their associated characteristics, attributes, and procedures into complex items called objects.</question-text>
+<answer0>hierachical</answer0>
+<answer1>network</answer1>
+<answer2>relational</answer2>
+<answer3>object oriented</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>object oriented</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070033</questionId>
+<question-text>An ........ ... is defined by its characteristics, attributes and procedures.</question-text>
+<answer0>field</answer0>
+<answer1>record</answer1>
+<answer2>table</answer2>
+<answer3>object</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>object</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070034</questionId>
+<question-text>A ........... is a program or collection of programs that allows any number of users to access data, modify and construct records.</question-text>
+<answer0>DBA</answer0>
+<answer1>SQL</answer1>
+<answer2>DBMS</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>DBMS</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070035</questionId>
+<question-text>The data management tasks in a DBMS fall into ..... general categories.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>three</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070036</questionId>
+<question-text>The left pane is the<database> pane that displays Tables</question-text>
+<answer0>queries</answer0>
+<answer1>forms</answer1>
+<answer2>reports</answer2>
+<answer3>all of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>all of these</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070037</questionId>
+<question-text>Star office allows, ............ different fields types.</question-text>
+<answer0>10</answer0>
+<answer1>20</answer1>
+<answer2>30</answer2>
+<answer3>40</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>20</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070038</questionId>
+<question-text>...........data type accepts only whole numbers.</question-text>
+<answer0>Integer</answer0>
+<answer1>Float</answer1>
+<answer2>Double</answer2>
+<answer3>Memo</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS01070039</questionId>
+<question-text>Smallint accepts small integer values up to a few...........</question-text>
+<answer0>thousands</answer0>
+<answer1>lakhs</answer1>
+<answer2>crores</answer2>
+<answer3>billions</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>thousands</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070040</questionId>
+<question-text>Single and double means ........... point numbers .</question-text>
+<answer0>integer</answer0>
+<answer1>text</answer1>
+<answer2>image</answer2>
+<answer3>floating</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>floating</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070041</questionId>
+<question-text>Single precession holds ............ places of decimal values.</question-text>
+<answer0>5</answer0>
+<answer1>7</answer1>
+<answer2>9</answer2>
+<answer3>11</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>7</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070042</questionId>
+<question-text>Double precession holds ........... places of decimal values.</question-text>
+<answer0>12</answer0>
+<answer1>11</answer1>
+<answer2>13</answer2>
+<answer3>14</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>14</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070043</questionId>
+<question-text>In the table design view, the lower part of the window, the ........... pane is displayed.</question-text>
+<answer0>field properties</answer0>
+<answer1>creating new table</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>field properties</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070044</questionId>
+<question-text>........... allows you to specify the number format and alignment of the text or number within the column of table design view.</question-text>
+<answer0>Default value</answer0>
+<answer1>Format example</answer1>
+<answer2>Length</answer2>
+<answer3>Entry required</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Format example</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070045</questionId>
+<question-text>A small ........... key appears to the left of the field , to mark it as the primary key.</question-text>
+<answer0>red</answer0>
+<answer1>green</answer1>
+<answer2>blue</answer2>
+<answer3>yellow</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>yellow</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070046</questionId>
+<question-text>The ........... is a small triangle on the left most column of the table.</question-text>
+<answer0>mouse pointer</answer0>
+<answer1>record pointer</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>record pointer</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070047</questionId>
+<question-text>.........menu can be used to delete the selected record, when you click the record pointer by making the right click.</question-text>
+<answer0>Table format</answer0>
+<answer1>Row height</answer1>
+<answer2>Delete rows</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Delete rows</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070048</questionId>
+<question-text>To view or modify the design of an existing table, click the ........... from the <Database> pane.</question-text>
+<answer0>queries</answer0>
+<answer1>forms</answer1>
+<answer2>tables</answer2>
+<answer3>Report</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>tables</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070049</questionId>
+<question-text>Click on the ........... icon, the records in the table are displayed in the ascending order of the specified field.</question-text>
+<answer0>sort ascending</answer0>
+<answer1>sort descending</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS01070050</questionId>
+<question-text>Every DBMS supports a language that is similar to a programming language called ...........</question-text>
+<answer0>C++</answer0>
+<answer1>C</answer1>
+<answer2>SQL</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>SQL</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070051</questionId>
+<question-text>...........are special view of the data in a table.</question-text>
+<answer0>Reports</answer0>
+<answer1>Forms</answer1>
+<answer2>Queries</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Queries</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070052</questionId>
+<question-text>In the field selection window of the query wizard ........... to be clicked to get all the fields.</question-text>
+<answer0><</answer0>
+<answer1>></answer1>
+<answer2>< <</answer2>
+<answer3>> ></answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>> ></correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070053</questionId>
+<question-text>A ........... is a type of query.</question-text>
+<answer0>tables</answer0>
+<answer1>forms</answer1>
+<answer2>filter</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>filter</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070054</questionId>
+<question-text>........... can be saved for later use.</question-text>
+<answer0>Filter</answer0>
+<answer1>Queries</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Queries</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070055</questionId>
+<question-text>Star Office Base allows ........... types of filters.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070056</questionId>
+<question-text>............ icon to display only the records, which match the value of the current field.</question-text>
+<answer0>Auto filter</answer0>
+<answer1>Standard filter</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Auto filter</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070057</questionId>
+<question-text>Filter used with a condition called ...........</question-text>
+<answer0>auto filter</answer0>
+<answer1>default filter</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>default filter</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070058</questionId>
+<question-text>To remove the filter, click on ...........</question-text>
+<answer0>auto filter</answer0>
+<answer1>default filter</answer1>
+<answer2>remove filter/sort</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>remove filter/sort</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070059</questionId>
+<question-text>A ........... is simply screen that displays the fields of records in a well-spaced out manner.</question-text>
+<answer0>reports</answer0>
+<answer1>tables</answer1>
+<answer2>queries</answer2>
+<answer3>forms</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>forms</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070060</questionId>
+<question-text>...........option can be used to insert another form in a form.</question-text>
+<answer0>Field selection</answer0>
+<answer1>Apply styles</answer1>
+<answer2>Set up a subform</answer2>
+<answer3>Set name</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Set up a subform</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070061</questionId>
+<question-text>A........... is a printed information that is assembled by gathering data based on user supplied criteria,</question-text>
+<answer0>form</answer0>
+<answer1>tables</answer1>
+<answer2>report</answer2>
+<answer3>queries</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>report</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070062</questionId>
+<question-text>...........window is used to specify the fields based on which the records can be grouped together,</question-text>
+<answer0>Grouping</answer0>
+<answer1>Choose layout</answer1>
+<answer2>Sort options</answer2>
+<answer3>Create report</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS01070063</questionId>
+<question-text>To insert a text outline into a presentation ........... menu should be selected.</question-text>
+<answer0>file -> send-> outline to presentation</answer0>
+<answer1>edit copy</answer1>
+<answer2>file -> send~> auto abstract</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>file -> send-> outline to presentation</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070064</questionId>
+<question-text>To transfer each heading and its content into a presentation ........... menu should be clicked.</question-text>
+<answer0>file -> send -> outline to presentation</answer0>
+<answer1>file -> send auto abstract</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>file -> send auto abstract</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070065</questionId>
+<question-text>If you want to edit the contents of a copied cell in the presentation , ........... the cell.</question-text>
+<answer0>click</answer0>
+<answer1>double-click</answer1>
+<answer2>right click</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>double-click</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070066</questionId>
+<question-text>...........key combinations is used to save a table.</question-text>
+<answer0>Ctrl + S</answer0>
+<answer1>Ctrl + V</answer1>
+<answer2>Ctrl + C</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + S</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01070067</questionId>
+<question-text>The two types of reports are static and ...........</question-text>
+<answer0>report</answer0>
+<answer1>dynamic</answer1>
+<answer2>static</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>dynamic</correctAnswer>
+</question>
+</chapter>
+</chapter-questions>

@@ -1,0 +1,273 @@
+CHAPTER - 9
+
+PRESENTATION
+
+1. You can enhance appearance of the...........by inserting charts and tables, adding background images, slide animation and transition effects, 
+
+a) presentation b) spread sheet c) database d) wordprocessor
+
+2. ...........is the staroffice application that allows you create and attractive and professional-looking presentations, 
+
+a) Star Office Writer b) Star Office Base c) Star Office Draw d) Star Office Impress
+
+3. You can create a new impress presentation from within any staroffice application by choosing ...........
+
+a) file new presentations b) start all programs star officeS star office impress c) file new -> text document d) none of these
+
+4. The first page of the presentation wizard displays........... options.
+
+a) one b) two c) three d)four
+
+5. In the second page,the left side of the presentation wizard provides ........... categories of presentation backgrounds.
+
+a) one b) two c) three d)four
+
+6. ........... option allows you to specify the duration for each slide and will automatically flip through the slides at the specified speed
+
+a) Manual b) Automatic c) Both a and b d) None of these
+
+7. Checking the...........checkbox will display the message, “Created with star office” during the pause between each presentation.
+
+a) create b) duration of page c) show logo d) none of these
+
+8. ...........command is used to create a new presentation using template.
+
+a) File -> new -> templates and documents b) File new presentations c) Start -> all programs -> star office 8 star office impress d) File new text document
+
+9. ...........is the short cut key to create new presentation using template.
+
+a) Shift + ctrl + N b) Ctrl -fn c) Shift + n d) None of these
+
+10. The slide pane on the ........... displays a thumbnail image of the slide and allows you to rename, delete, or rearrange them.
+
+a) b) c) d) 
+
+11.
+
+a) b) c) d) 
+
+12.
+
+a) b) c) d) 
+
+13.
+
+a) b) c) d) 
+
+14.
+
+a) b) c) d) 
+
+15.
+
+a) b) c) d) 
+
+16. ........... allows you to view miniature images of all the slides in the presentation.
+
+a) Slide sorter view b) Outline view c) Notes view d) Handouts view
+
+17. For rearranging the slides, ........... can be used.
+
+a) outline view b) slide sorter view c) both a and b d) none of these
+
+18. ........... page can be used to specify basic background information that needs to be included in all the slides, 
+
+a) Layouts b) Master page c) Custom animation d) Slide transition
+
+19. ...........page displays various options that allow you to add or modify animation effects to elements of a slide,
+
+a) Master page b).Custom animation c) Slide transition d) Layouts
+
+20............page displays various transition effects that can be attracted to a slide.
+
+a) Custom animation b) Slide transition c) Master page d) Layouts
+
+21. ...........key can be used to start a presentation.
+
+a) F1 b)F2 c) F3 d) F5
+
+
+22. ........... key can be used to end the presentation.
+
+a) Escape b) Enter c) Backspace d) Ctrl
+
+23............ command can be used to run the custom slide show.
+
+a) Slide show slide show b) Slide show custom slide show c) Both a and b d) None of these
+
+24. ...........option can be used to insert a picture in a slide.
+
+a) Insert -> picture -> from file b) Insert -> slide c) Insert -> movie and sound d) None of these
+
+25. ...........option can be used to insert a movie or a sound into a presentation.
+
+a) Insert -> picture -> from file b) Insert -> slide c) Insert -> movie and sound d) None of these
+
+26. ........... tools for inserting objects like charts, formula etc. in a presentation.
+
+a) Insert object b) Insert ole object c) Insert -> movie and sound d) None of these
+
+
+27. ........... option is used to import objects from other application into a presentation.
+
+a) Insert -> object b) Insert -> OLE object c) Insert -> movie and sound d) None of these
+
+28. ...........is used to import applets into the presentation.
+
+a) Insert -> object b) Insert -> applet c) Insert -> movie and sound d) None of these
+
+29. ...........command can be used to change the slide view with different columns of slides.
+
+a) View -> toolbars slide view b) Insert slide c) Insert applet d) None of these
+
+30. There are  .......... tabs in custom animation window.
+
+a) one b) two c) three d)four
+
+31. ........... menu can be used to change the background colour or background fill of the slides.
+
+a) Format -> page -> background b) View -> toolbars -> slide view c) Insert -> slide d) None of these
+
+32. We can change the appearance of the master slide by applying a new slide design by selecting the menu
+
+a) format -> slide design b) format page background c) insert slide d) none of these
+
+33. To apply the slide design to all of the slides in your presentation , select the ........... check box.
+
+a) exchange background page b) delete unused backgrounds c) both a and b d) none of these
+
+33. To apply the slide design to the current slide only clear the ........... check box.
+
+a) exchange background page b) delete unused backgrounds c) both a and b d) none of these
+
+34. The stylist can be opened by pressing the key...........
+
+a) F8 b) F1O c) Fll d) F12
+
+35. By pressing the key you move the line down one level,
+
+a) tab b) shift + tab c) both a and b d) none of these
+
+36. By pressing the key you move the line one level up.
+
+a) tab b) shift+ tab c) both a and b d) none of these
+
+37. ...........to select a range of slides.
+
+a) Ctrl b) Shift c) Both a and b d) None of these
+
+38. ...........to select multiple slides.
+
+a) Ctrl b) Shift c) Both a and b d) None of these
+
+39. ...........command can be used to hide/ show the slides.
+
+a) Slide show -> show/hide slide b) Slide show -> rehearse timings c) Both a and b d) None of these
+
+40. ...........command has recorded the display time for each slide.
+
+a) Slide show show/hide slide b) Slide show -> rehearse timings c) Both a and b d) None of these
+
+41. To set the default printing options for star office impress, choose  ........
+
+a) file print b) tools -> options -> staroffice impress -> print c) both a and b d) none of these
+
+42. We can reduce the size of a slide when you print, so that a slide can fit on a printed page by selecting...........
+
+a) format page b) file -> print c) tools -> options d) none of these
+
+43. Using the navigator, you can move from slide to slide quickly by activating the navigating button by selecting the menu ...........
+
+a) file print b) tools -> options c) edit -> navigator d) none of these
+
+44. Sending the presentation as HTML page by selecting the menu ...........
+
+a) file print b) file -> export c) file -> import d) none of these
+
+answer 1 a 
+
+answer 2 d 
+
+answer 3 a 
+
+answer 4 c 
+
+answer 5 c 
+
+answer 6 b 
+
+answer 7 c 
+
+answer 8 a 
+
+answer 9 a 
+
+answer 10 
+
+answer 11 
+
+answer 12 
+
+answer 13 
+
+answer 14 
+
+answer 15 
+
+answer 16 a 
+
+answer 17 b 
+
+answer 18 c 
+
+answer 19 b 
+
+answer 20 c 
+
+answer 21 d 
+
+answer 22 a 
+
+answer 23 b 
+
+answer 24 a 
+
+answer 25 c 
+
+answer 26 a 
+
+answer 27 b 
+
+answer 28 b 
+
+answer 29 a 
+
+answer 30 d 
+
+answer 31 a
+
+answer 32 a 
+
+answer 33 a 
+
+answer 34 c 
+
+answer 35 
+
+answer 36 b 
+
+answer 37 b 
+
+answer 38 a 
+
+answer 39 a 
+
+answer 40 b 
+
+answer 41 b 
+
+answer 42 a 
+
+answer 43 c 
+
+answer 44 b

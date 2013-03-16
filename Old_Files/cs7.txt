@@ -1,0 +1,406 @@
+CHAPTER - 7
+
+DATABASE
+
+1. ...........fall under the category of data processing.
+
+a) Banking b) Pay roll c) Budget preparation d) All of these
+
+2. The term data comes from the word ..........
+
+a) data b) information c) fact d) datum
+
+3. The term ........... refers to the name of a memory location.
+
+a) constant b) variable c) both a and b d) none of these
+
+4. ........... data type can be integer, float, double precision, date, time etc.
+
+a) Numeric b) Date c) Boolean d) Character
+
+5.The data defined by the user itself is called...........data type.
+
+a) built-in , b) user-defined c) both a and b d) none of these
+
+6. ...........is defined as a set of processed data.
+
+a) Data b) Datum c) Information d) Date
+
+7. Data processing involves ...........
+
+a) data collection b) verification c) validation d) all of these
+
+8. The work has been carried out by long-hand effort is..........
+
+a) computerised data processing b) manual data processing c) both a and b d) none of these
+
+9. ...........method takes more time,
+
+a) Manual b) Computerized c) Both a and b d) None of these
+
+10. Human beings are liable to make computational and '..... errors.
+
+a) parallax b) transpose c) over write d) none of these
+
+11. ........... data processing involves use of papers.
+
+a) Computer b) Manual c) Both a and b d) None of these
+
+12. Implementation of corrections, changes and modifications are tedious in ........... data processing.
+
+a) manual b) computer c) both a and b d) none of these
+
+13.  ........... are so common that we can share data and resources from one computer system to the other at a very fast speed or facts.
+
+a) word processing b) spread sheet c) data base d) drawings
+
+14. 
+
+a) b) c) d)
+
+15. The entire collection of related data in one table is referred to as a ...........
+
+a) record b) field c) file d) none of these
+
+16. Each row in a table represents ........... in a database.
+
+a) field b) record c) file d) none of these
+
+17. Each table column represents a .......  in database.
+
+a) field b) table c) record d) file
+
+18............is a process to select a desired specific data from a database.
+
+a) Sorting b) Merging c) Filtering d) Searching
+
+19. ...........is the process of arranging the data in a table in some order.
+
+a) Searching b) Sorting c) Merging d) Filtering
+
+20. ...........is the process of joining data from two or more table of the same or different databases.
+
+a) Merging b) Sorting c) Filtering d) Searching
+
+21. ........... are a feature for displaying and browsing a selected list or subset of records from a table. 
+
+a) Searching b) Sorting c) Merging d) Filtering
+
+22. ...........is the process of performing corrections on the existing data.
+
+a) Sorting b) Merging c) Editing d) Searching
+
+23. Based on the conceptual structures, the databases can be classified as ...........
+
+a) 1 b)2 c) 4 d) 5
+
+24. A database file that consists of a single data table is a
+
+a) flat-fiie b) relational c) hierarchical d) network
+
+25.  ....... database' do'not allow for more complex requests.
+
+a) Flat-file b) Relational c) Hierarchical d) Network
+
+26. ........... structure represents a database made up of a set of related tables.
+
+a) Hierarchical b) Relational c) Network d) Object oriented
+
+27. In relational database, common field or fields are called the ...........
+
+a) table b) record c) field d) keys
+
+28. A  ...... is a' key that uniquely identifies a record in a database table.
+
+a) field b) record c) primary key d) table
+
+29. Hierarchical database structures were primarily used on ........... computers.
+
+a) micro b) super c) main frame d) notepad
+
+30. In ........... any child type relates only to a single parent type.
+
+a) network b) hierarchical c) flat file d) object oriented
+
+31. In...........any one record type can relate to any number of other record type.
+
+a) hierachical b) network c) relational d) object oriented
+
+32. The ........... structure group the data items and their associated characteristics, attributes, and procedures into complex items called objects.
+
+a) hierachical b) network c) relational d) object oriented
+
+33. An ........ ... is defined by its characteristics, attributes and procedures.
+
+a) field b) record c) table d) object
+
+34. A ........... is a program or collection of programs that allows any number of users to access data, modify and construct records.
+
+a) DBA b) SQL c) DBMS d) None of these
+
+35. The data management tasks in a DBMS fall into ..... general categories.
+
+a) one b) two c) three d)four
+
+36. The left pane is the<database> pane that displays Tables
+
+a) queries b) forms c) reports d) all of these
+
+37. Star office allows, ............ different fields types.
+
+a) 10 b) 20 c) 30 d) 40
+
+38. ...........data type accepts only whole numbers.
+
+a) Integer b) Float c) Double d) Memo
+
+39. Smallint accepts small integer values up to a few...........
+
+a) thousands b) lakhs c) crores d) billions
+
+40. Single and double means ........... point numbers .
+
+a) integer b) text c) image d) floating
+
+41. Single precession holds ............ places of decimal values.
+
+a) 5 b) 7 c) 9 d) 11
+
+42. Double precession holds ........... places of decimal values.
+
+a) 12 b) 11 c) 13 d) 14
+
+43. In the table design view, the lower part of the window, the ........... pane is displayed.
+
+a) field properties b) creating new table c) both a and b d) none of these
+
+44. ........... allows you to specify the number format and alignment of the text or number within the column of table design view.
+
+a) Default value b) Format example c) Length d) Entry required
+
+45. A small ........... key appears to the left of the field , to mark it as the primary key.
+
+a) red b) green c) blue d) yellow
+
+46. The ........... is a small triangle on the left most column of the table.
+
+a) mouse pointer b) record pointer c) both a and b d) none of these
+
+47. .........menu can be used to delete the selected record, when you click the record pointer by making the right click.
+
+a) Table format b) Row height c) Delete rows d) None of these
+
+48. To view or modify the design of an existing table, click the ........... from the <Database> pane.
+
+a) queries b) forms c) tables d) Report
+
+49. Click on the ........... icon, the records in the table are displayed in the ascending order of the specified field.
+
+a) sort ascending b) sort descending c) both a and b d) none of these
+
+50. Every DBMS supports a language that is similar to a programming language called ...........
+
+a) C++ b) C c) SQL d) None of these
+
+51. ...........are special view of the data in a table.
+
+a) Reports b) Forms c) Queries d) None of these
+
+52. In the field selection window of the query wizard ........... to be clicked to get all the fields.
+
+a) < b) > c) < < d) > >
+
+53. A ........... is a type of query.
+
+a) tables b) forms c) filter d) none of these
+
+54. ........... can be saved for later use.
+
+a) Filter b) Queries c) Both a and b d) None of these
+
+55. Star Office Base allows ........... types of filters.
+
+a) one b) two c) three d)four
+
+56. ............ icon to display only the records, which match the value of the current field.
+
+a) Auto filter b) Standard filter c) Both a and b d) None of these
+
+57. Filter used with a condition called ...........
+
+a) auto filter b) default filter c) both a and b d) none of these
+
+58. To remove the filter, click on ...........
+
+a) auto filter b) default filter c) remove filter/sort d) none of these
+
+59. A ........... is simply screen that displays the fields of records in a well-spaced out manner.
+
+a) reports b) tables c) queries d) forms
+
+60. ...........option can be used to insert another form in a form.
+
+a) Field selection b) Apply styles c) Set up a subform d) Set name
+
+61. A........... is a printed information that is assembled by gathering data based on user supplied criteria,
+
+a) form b) tables c) report d) queries
+
+62. ...........window is used to specify the fields based on which the records can be grouped together,
+
+a) Grouping b) Choose layout c) Sort options d) Create report
+
+63. To insert a text outline into a presentation ........... menu should be selected.
+
+a) file -> send-> outline to presentation b) edit copy c) file -> send~> auto abstract d) none of these
+
+64. To transfer each heading and its content into a presentation ........... menu should be clicked.
+
+a) file -> send -> outline to presentation b) file -> send auto abstract c) both a and b d) none of these
+
+65. If you want to edit the contents of a copied cell in the presentation , ........... the cell.
+
+a) click b) double-click c) right click d) none of these
+
+66. ...........key combinations is used to save a table.
+
+a) Ctrl + S b) Ctrl + V c) Ctrl + C d) None of these
+
+67. The two types of reports are static and ...........
+
+a) report b) dynamic c) static d) none of these
+
+
+answer 1 d 
+
+answer 2 d 
+
+answer 3 b 
+
+answer 4 a 
+
+answer 5 b 
+
+answer 6 c
+
+answer 7 d
+
+answer 8 b
+
+answer 9 a
+
+answer 10 a
+
+answer 11 b
+
+answer 12 a
+
+answer 13 b
+
+answer 14 c
+
+answer 15 c
+
+answer 16 b
+
+answer 17 a
+
+answer 18 d
+
+answer 19 b
+
+answer 20 a
+
+answer 21 d
+
+answer 22 c
+
+answer 23 d
+
+answer 24 a
+
+answer 25 a
+
+answer 26 b
+
+answer 27 d
+
+answer 28 c
+
+answer 29 c
+
+answer 30 b
+
+answer 31 b
+
+answer 32 d
+
+answer 33 d
+
+answer 34 c
+
+answer 35 c
+
+answer 36 d
+
+answer 37 b
+
+answer  38 a
+
+answer 39 a 
+
+answer 40 d
+
+answer 41 b
+
+answer 42 d
+
+answer 43 a
+
+answer 44 b 
+
+answer 45 d 
+
+answer 46 b 
+
+answer 47 c 
+
+answer 48 c 
+
+answer 49 
+
+answer 50 c 
+
+answer 51 c 
+
+answer 52 d 
+
+answer 53 c 
+
+answer 54 b 
+
+answer 55 b 
+
+answer 56 a
+
+answer 57 b 
+
+answer 58 c 
+
+answer 59 d 
+
+answer 60 c 
+
+answer 61 c 
+
+answer 62 
+
+answer 63 a
+
+answer 64 b 
+
+answer 65 b 
+
+answer 66 a 
+
+answer 67 b

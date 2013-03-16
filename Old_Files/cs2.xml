@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<chapter-questions>
+<chapter name = "PRESENTATION" number="02">
+<question>
+<questionId>TNHSCS01020001</questionId>
+<question-text>A text without any special formatting can have a ........... appearance.</question-text>
+<answer0>monotonous</answer0>
+<answer1>quotations</answer1>
+<answer2>highlight</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>monotonous</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020002</questionId>
+<question-text>Bold, italic or ........... are the most common types of text formatting.</question-text>
+<answer0>font</answer0>
+<answer1>underlined</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>underlined</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020003</questionId>
+<question-text>Bold, italic or underlined option can be selected by activating the ........... option in the character dialog box.</question-text>
+<answer0>typeface</answer0>
+<answer1>font</answer1>
+<answer2>size</answer2>
+<answer3>languages</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>typeface</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020004</questionId>
+<question-text>........... is the short cut key for activating bold.</question-text>
+<answer0>Ctrl + B</answer0>
+<answer1>Ctrl + I</answer1>
+<answer2>Ctrl + U</answer2>
+<answer3>Ctrl + A .... 1</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + B</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020005</questionId>
+<question-text>........... is the short cut key for activating italic.</question-text>
+<answer0>Ctrl + B</answer0>
+<answer1>Ctrl + I</answer1>
+<answer2>Ctrl + U</answer2>
+<answer3>Ctrl + A</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + I</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020006</questionId>
+<question-text>........... is the short cut key for activating underline.</question-text>
+<answer0>Ctrl + B</answer0>
+<answer1>Ctrl + I</answer1>
+<answer2>Ctrl + U</answer2>
+<answer3>Ctrl + A</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + U</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020007</questionId>
+<question-text>........... fonts look professional and are suited for business document.</question-text>
+<answer0>Time New Roman</answer0>
+<answer1>Fajita</answer1>
+<answer2>Wingdings</answer2>
+<answer3>Arial</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Time New Roman</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020008</questionId>
+<question-text>........... fonts are decorative.</question-text>
+<answer0>Time New Roman</answer0>
+<answer1>Fajita</answer1>
+<answer2>Wingdings</answer2>
+<answer3>Arial</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Fajita</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020009</questionId>
+<question-text>........... fonts look like symbols.</question-text>
+<answer0>Symbol</answer0>
+<answer1>Fajita</answer1>
+<answer2>Wingdings</answer2>
+<answer3>Symbol and wingdings</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Symbol and wingdings</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020010</questionId>
+<question-text>........... of the font is measured in points.</question-text>
+<answer0>Size</answer0>
+<answer1>Style</answer1>
+<answer2>Color</answer2>
+<answer3>None of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Size</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020011</questionId>
+<question-text>There are ........... points to an inch.</question-text>
+<answer0>70</answer0>
+<answer1>71</answer1>
+<answer2>72</answer2>
+<answer3>73</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>72</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020012</questionId>
+<question-text>Documents will be printed as shades of gray on a ........... printer.</question-text>
+<answer0>colour printer</answer0>
+<answer1>black-and-white</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>black-and-white</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020013</questionId>
+<question-text>........... can be used to call attention to key ideas or pointers in a document</question-text>
+<answer0>Selection</answer0>
+<answer1>Highlighting</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Highlighting</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020014</questionId>
+<question-text>When reading something important in a book, a magazine, a report, or any document, the reader takes a ........... highlighter pen and drag across it.</question-text>
+<answer0>red</answer0>
+<answer1>blue</answer1>
+<answer2>green</answer2>
+<answer3>yellow</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>yellow</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020015</questionId>
+<question-text>To remove the highlighting , select the text and select the ........... from the colour palette.</question-text>
+<answer0>no fill</answer0>
+<answer1>white</answer1>
+<answer2>black</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>no fill</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020016</questionId>
+<question-text>A hard return is inserted every time when ......... is pressed.</question-text>
+<answer0>backspace</answer0>
+<answer1>delete</answer1>
+<answer2>insert</answer2>
+<answer3>enter</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>enter</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020017</questionId>
+<question-text>The paragraphs in a document is ........... line spaced, by default.</question-text>
+<answer0>single</answer0>
+<answer1>double</answer1>
+<answer2>half</answer2>
+<answer3>atleast</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>single</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020018</questionId>
+<question-text>When typing in star office writer, all text is ........... aligned, and the right margin is ragged or uneven.</question-text>
+<answer0>right</answer0>
+<answer1>center</answer1>
+<answer2>left</answer2>
+<answer3>justify</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>left</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020019</questionId>
+<question-text>There are alignments of paragraph in a document.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>four</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020020</questionId>
+<question-text>The text in a paragraphs can be ........... to keep both the margins even.</question-text>
+<answer0>left</answer0>
+<answer1>right</answer1>
+<answer2>center</answer2>
+<answer3>justified</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>justified</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020021</questionId>
+<question-text>........... is the shortcut key to align the text in left.</question-text>
+<answer0>Ctrl + E</answer0>
+<answer1>Ctrl + J</answer1>
+<answer2>Ctrl + R</answer2>
+<answer3>Ctrl + L</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + L</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020022</questionId>
+<question-text>.......... is the shortcut key to align the text in right.</question-text>
+<answer0>Ctrl + E</answer0>
+<answer1>Ctrl + J</answer1>
+<answer2>Ctrl + R</answer2>
+<answer3>Ctrl + L</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + R</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020023</questionId>
+<question-text>........... is the shortcut key to align the text in center.</question-text>
+<answer0>Ctrl + E</answer0>
+<answer1>Ctrl + J</answer1>
+<answer2>Ctrl + R</answer2>
+<answer3>Ctrl + L</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + E</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020024</questionId>
+<question-text>........... is the shortcut key to align the text in justify option.</question-text>
+<answer0>Ctrl + E</answer0>
+<answer1>Ctrl + J</answer1>
+<answer2>Ctrl + R</answer2>
+<answer3>Ctrl + L</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + J</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020025</questionId>
+<question-text>.....  is a special kind of indent, for numbered list.</question-text>
+<answer0>Positive indent</answer0>
+<answer1>Hanging indent</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Negative indent</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Hanging indent</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020026</questionId>
+<question-text>By pressing the increase indent thrice, the text will move ........... inches from left.</question-text>
+<answer0>y2</answer0>
+<answer1>y4</answer1>
+<answer2>y3</answer2>
+<answer3>y1</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>y3</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020027</questionId>
+<question-text>One wants to undo the indent, the ..... icon is to be clicked.</question-text>
+<answer0>increase indent</answer0>
+<answer1>negative indent</answer1>
+<answer2>decrease indent</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>decrease indent</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020028</questionId>
+<question-text>For the purpose of indenting, if we use the paragraph dialogbox should be used to make increase indent.</question-text>
+<answer0>before text spin box</answer0>
+<answer1>after text spin box</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>before text spin box</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020029</questionId>
+<question-text>For the purpose of indenting, if we use the paragraph dialogbox ........... should be used to make decrease indent.</question-text>
+<answer0>before text spin box</answer0>
+<answer1>after text spin box</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>after text spin box</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020030</questionId>
+<question-text>A ........... value will result in a hanging indent.</question-text>
+<answer0>positive</answer0>
+<answer1>negative</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>negative</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020031</questionId>
+<question-text>........ number of line spacing options available in the star office writer.</question-text>
+<answer0>4</answer0>
+<answer1>5</answer1>
+<answer2>6</answer2>
+<answer3>7</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>7</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020032</questionId>
+<question-text>One way to set off a list of points or topics in a document is to create a ........</question-text>
+<answer0>bulleted list</answer0>
+<answer1>numbered list</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>both a and b</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01020033</questionId>
+<question-text>Various styles of bullets and numbering can be selected by using ........... menu.</question-text>
+<answer0>format bullets and numbering</answer0>
+<answer1>format -> character</answer1>
+<answer2>format -> styles</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>format bullets and numbering</correctAnswer>
+</question>
+</chapter>
+</chapter-questions>

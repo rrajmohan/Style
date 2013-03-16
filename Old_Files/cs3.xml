@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<chapter-questions>
+<chapter name = "PRESENTATION" number="03">
+<question>
+<questionId>TNHSCS01030001</questionId>
+<question-text>Star Office writer includes a dictionary and ...........</question-text>
+<answer0>spelling</answer0>
+<answer1>spell-check program</answer1>
+<answer2>auto correct program</answer2>
+<answer3>none of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>spell-check program</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01030002</questionId>
+<question-text>StarOffice writer can identify the ..... mistakes.</question-text>
+<answer0>parallax</answer0>
+<answer1>transpose</answer1>
+<answer2>spelling</answer2>
+<answer3>none of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>spelling</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01030003</questionId>
+<question-text>When feature is ON, star office writer compares each word typed with the words in the dictionary.</question-text>
+<answer0>spell-check program</answer0>
+<answer1>auto spell check</answer1>
+<answer2>dictionary</answer2>
+<answer3>none</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>auto spell check</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01030004</questionId>
+<question-text>The misspelled word is underlined by squiggly ..... line.</question-text>
+<answer0>red</answer0>
+<answer1>green</answer1>
+<answer2>blue</answer2>
+<answer3>yellow</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>red</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01030005</questionId>
+<question-text>If the right spelling is not known, staroffice writer can help with some choices by clicking word by clicking.</question-text>
+<answer0>left</answer0>
+<answer1>right</answer1>
+<answer2>center</answer2>
+<answer3>none of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>right</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01030006</questionId>
+<question-text>........... key is to be pressed to activate the spelling command after the document is typed</question-text>
+<answer0>F5</answer0>
+<answer1>F6</answer1>
+<answer2>F7</answer2>
+<answer3>F4</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>F7</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01030007</questionId>
+<question-text>............ text area displays the misspelled word in the spelling check dialog box.</question-text>
+<answer0>Not in dictionary</answer0>
+<answer1>Suggestions</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>Not in dictionary</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01030008</questionId>
+<question-text>........... list displays any alternative spellings in the spelling check dialog box.</question-text>
+<answer0>Not in dictionary</answer0>
+<answer1>Suggestions</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>Suggestions</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01030009</questionId>
+<question-text>........... button is, clicked to add the word to the dictionary.</question-text>
+<answer0>Insert</answer0>
+<answer1>Add</answer1>
+<answer2>Both a and b</answer2>
+<answer3>New</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>Add</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01030010</questionId>
+<question-text>AutoCorrect Dialog box can be opened by activating the menu ...........</question-text>
+<answer0>tools -> autocorrect</answer0>
+<answer1>tools -> spelling check</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>tools -> autocorrect</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01030011</questionId>
+<question-text>Spelling check dialog box can be opened by activating the menu ..........</question-text>
+<answer0>tools -> autocorrect</answer0>
+<answer1>tools -> spelling -> check</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>tools -> spelling -> check</correctAnswer>
+</question>
+</chapter>
+</chapter-questions>

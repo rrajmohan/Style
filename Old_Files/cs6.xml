@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<chapter-questions>
+<chapter name = "PRESENTATION" number="06">
+<question>
+<questionId>TNHSCS01060001</questionId>
+<question-text>The personal computer first appeared in ...........</question-text>
+<answer0>1972</answer0>
+<answer1>1973</answer1>
+<answer2>1974</answer2>
+<answer3>1975</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>1975</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060002</questionId>
+<question-text>In the year .........  the pcs became more popular and attracted by the wider population.</question-text>
+<answer0>1974</answer0>
+<answer1>1976</answer1>
+<answer2>1975</answer2>
+<answer3>1977</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>1977</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060003</questionId>
+<question-text>Visi calc is developed in the year ...........</question-text>
+<answer0>1976</answer0>
+<answer1>1977</answer1>
+<answer2>1978</answer2>
+<answer3>1979</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>1979</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060004</questionId>
+<question-text>Visicalc is developed by ........</question-text>
+<answer0>Dan Bricklin</answer0>
+<answer1>Bon Frankston</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060005</questionId>
+<question-text>...........was the first electronic spreadsheet.</question-text>
+<answer0>Lotus 1-2-3</answer0>
+<answer1>Ms excel</answer1>
+<answer2>Visible calculator</answer2>
+<answer3>Quatro pro</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Visible calculator</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060006</questionId>
+<question-text>.....  tool could save time, help avoid endless and brain-numbering arithmetic and eliminate mathematical errors.</question-text>
+<answer0>Visible calculator</answer0>
+<answer1>Star office writer</answer1>
+<answer2>Star office base</answer2>
+<answer3>Star office impress</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Visible calculator</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060007</questionId>
+<question-text>Spread sheets are made up of rows and ...........</question-text>
+<answer0>rows</answer0>
+<answer1>columns</answer1>
+<answer2>rows and columns</answer2>
+<answer3>none of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>columns</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060008</questionId>
+<question-text>The intersection of rows and columns creates ...........</question-text>
+<answer0>rows</answer0>
+<answer1>columns</answer1>
+<answer2>cells</answer2>
+<answer3>none of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>cells</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060009</questionId>
+<question-text>The ........ are addressed in terms of the row and column labels.</question-text>
+<answer0>row</answer0>
+<answer1>column</answer1>
+<answer2>cells</answer2>
+<answer3>none of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>cells</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060010</questionId>
+<question-text>In star office calc, there are ..... rows.</question-text>
+<answer0>256</answer0>
+<answer1>63</answer1>
+<answer2>64</answer2>
+<answer3>32000</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>32000</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060011</questionId>
+<question-text>The formula appears in the input line of the ...........</question-text>
+<answer0>menu bar</answer0>
+<answer1>formula bar</answer1>
+<answer2>object bar</answer2>
+<answer3>status bar</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>formula bar</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060012</questionId>
+<question-text>A  ..is like a grid of cells with a programmable calculator attached to each cell.</question-text>
+<answer0>table</answer0>
+<answer1>spread sheet</answer1>
+<answer2>document</answer2>
+<answer3>data base</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>spread sheet</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060013</questionId>
+<question-text>In staroffice calc the formula must starts with ...........</question-text>
+<answer0>&</answer0>
+<answer1>:</answer1>
+<answer2>=</answer2>
+<answer3>!</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>=</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060014</questionId>
+<question-text>......... refers to the files that you create with spreadsheet software.</question-text>
+<answer0>Spreadsheet</answer0>
+<answer1>Worksheet</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Database</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Worksheet</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060015</questionId>
+<question-text>Work sheet data can be viewed in the form of</question-text>
+<answer0>graphs or charts</answer0>
+<answer1>pie charts</answer1>
+<answer2>bar charts</answer2>
+<answer3>none of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>graphs or charts</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060016</questionId>
+<question-text>Spreadsheet package developed for  .........  in 1979.</question-text>
+<answer0>Super computer</answer0>
+<answer1>Main frame computer</answer1>
+<answer2>Micro computer</answer2>
+<answer3>None of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Micro computer</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060017</questionId>
+<question-text>Visible calculator contained  columns and ..... rows.</question-text>
+<answer0>254, 63</answer0>
+<answer1>63, 254</answer1>
+<answer2>63, 32000</answer2>
+<answer3>64, 254</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>63, 254</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060018</questionId>
+<question-text>Lotus development corporation introduced lotus 1-2-3 in ......</question-text>
+<answer0>1981</answer0>
+<answer1>1980</answer1>
+<answer2>1982</answer2>
+<answer3>1983</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>1982</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060019</questionId>
+<question-text>Lotus 1-2-3 developed by ...........</question-text>
+<answer0>Sun micro systems</answer0>
+<answer1>Borland international</answer1>
+<answer2>Microsoft corporation</answer2>
+<answer3>Lotus development corporation</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Lotus development corporation</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060020</questionId>
+<question-text>Quattro pro developed by .........</question-text>
+<answer0>Sun micro systems</answer0>
+<answer1>Borland international</answer1>
+<answer2>Microsoft corporation</answer2>
+<answer3>Lotus development corporation</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Borland international</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060021</questionId>
+<question-text>Lotus corporation developed the software ...........</question-text>
+<answer0>improve</answer0>
+<answer1>star office calc</answer1>
+<answer2>ms-excel</answer2>
+<answer3>quattro pro</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>improve</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060022</questionId>
+<question-text>Star office calc developed by ...........</question-text>
+<answer0>Sun micro systems</answer0>
+<answer1>Borland international</answer1>
+<answer2>Lotus development corporation</answer2>
+<answer3>Microsoft corporation</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Sun micro systems</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060023</questionId>
+<question-text>Microsoft developed the software ...........</question-text>
+<answer0>quattro pro</answer0>
+<answer1>lotus 1-2-3</answer1>
+<answer2>star office calc</answer2>
+<answer3>excel</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>excel</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060024</questionId>
+<question-text>..........bar is used to display the current cell and its contents.</question-text>
+<answer0>Menu bar</answer0>
+<answer1>Object bar</answer1>
+<answer2>Function bar</answer2>
+<answer3>Formula bar</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Formula bar</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060025</questionId>
+<question-text>...... is a rectangular box covering the cell.</question-text>
+<answer0>Cell pointer</answer0>
+<answer1>Active cell</answer1>
+<answer2>Mouse pointer</answer2>
+<answer3>None of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Cell pointer</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060026</questionId>
+<question-text>Defaultly the cell pointer in cell .........</question-text>
+<answer0>A2</answer0>
+<answer1>A1</answer1>
+<answer2>A3</answer2>
+<answer3>A4</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>A1</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060027</questionId>
+<question-text>If the data entered is a word, the program recognizes it as a ...........</question-text>
+<answer0>number</answer0>
+<answer1>date</answer1>
+<answer2>equation</answer2>
+<answer3>label</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>label</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060028</questionId>
+<question-text>The default format of entering date should be ...........</question-text>
+<answer0>mm/yy/dd</answer0>
+<answer1>dd/mm/yy</answer1>
+<answer2>mm/dd/yy</answer2>
+<answer3>mm-dd-yy</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>mm/dd/yy</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060029</questionId>
+<question-text>The default format for entering time should be ........</question-text>
+<answer0>hh:mm:ss</answer0>
+<answer1>hh/mm/ss</answer1>
+<answer2>ss:mm:hh</answer2>
+<answer3>hh-mm-ss</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>hh:mm:ss</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060030</questionId>
+<question-text>In order to close the worksheet, go to file menu and select the ........... option.</question-text>
+<answer0>exit</answer0>
+<answer1>close</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>close</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060031</questionId>
+<question-text>Width of the column is not enough to hold the data, Star office calc indicates this with small ..... triangle.</question-text>
+<answer0>red</answer0>
+<answer1>blue</answer1>
+<answer2>black</answer2>
+<answer3>gray</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>red</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01060032</questionId>
+<question-text>We can edit the contents of the cell in .......... ways.</question-text>
+<answer0>one</answer0>
+<answer1>four</answer1>
+<answer2>three</answer2>
+<answer3>two</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+</chapter>
+</chapter-questions>

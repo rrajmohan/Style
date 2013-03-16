@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<chapter-questions>
+<chapter name = "PRESENTATION" number="01">
+<question>
+<questionId>TNHSCS01010001</questionId>
+<question-text>.............is an application that is designed to work on different operating systems.</question-text>
+<answer0>Star office</answer0>
+<answer1>Notepad</answer1>
+<answer2>Wordpad</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010002</questionId>
+<question-text>.............is a Staroffice function.</question-text>
+<answer0>Star office writer</answer0>
+<answer1>Notepad</answer1>
+<answer2>Word pad</answer2>
+<answer3>C++</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office writer</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010003</questionId>
+<question-text>.............is used to create text document</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office draw</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office writer</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office writer</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010004</questionId>
+<question-text>.............is used to create a spread shee</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office draw</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office writer</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office calc</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010005</questionId>
+<question-text>.......   is used to create a presentation</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office draw</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office writer</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office impress</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010006</questionId>
+<question-text>.............is used to create a spread sheet</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office draw</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office writer</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office calc</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010007</questionId>
+<question-text>.............is used to create a database</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office base</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office writer</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office base</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010008</questionId>
+<question-text>.............is used to draw</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office draw</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office base</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office draw</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010009</questionId>
+<question-text>.............is a word processor</question-text>
+<answer0>Star office writer</answer0>
+<answer1>Note pad</answer1>
+<answer2>Dos editor</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office writer</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010010</questionId>
+<question-text>A ............. may contain text, labels, graphs, charts, equations, pictures and drawings,</question-text>
+<answer0>document</answer0>
+<answer1>database</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>document</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010011</questionId>
+<question-text>.............is an example of commercially available word processing packages.</question-text>
+<answer0>Lotus AmiPro</answer0>
+<answer1>Word Star</answer1>
+<answer2>Ms Word</answer2>
+<answer3>All of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010012</questionId>
+<question-text>.............is the default name of a file which you created using staroffice writer,</question-text>
+<answer0>Documentl</answer0>
+<answer1>Textl</answer1>
+<answer2>Untitledl</answer2>
+<answer3>Untitled</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Untitledl</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010013</questionId>
+<question-text>............. always indicates where new text will appear</question-text>
+<answer0>Vertical bar</answer0>
+<answer1>Insertion point</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insertion point</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010014</questionId>
+<question-text>............. should be pressed only at the end of the paragraph or when a blank line is to be inserted,</question-text>
+<answer0>Backspace</answer0>
+<answer1>Delete</answer1>
+<answer2>Enter</answer2>
+<answer3>Ctrl</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Enter</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010015</questionId>
+<question-text>To select a drive in save as dialog box to be clicked.</question-text>
+<answer0>file icon</answer0>
+<answer1>cut icon</answer1>
+<answer2>copy icon</answer2>
+<answer3>up one level icon</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>up one level icon</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010016</questionId>
+<question-text>............. is the short cut key to do the save action.</question-text>
+<answer0>Ctrl + b</answer0>
+<answer1>Ctrl + s</answer1>
+<answer2>Ctrl + e</answer2>
+<answer3>Ctrl + v</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + s</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010017</questionId>
+<question-text>............. is the command to close the file.</question-text>
+<answer0>Alt + f4</answer0>
+<answer1>Ctrl + a</answer1>
+<answer2>File -> exit</answer2>
+<answer3>File -> close</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Alt + f4</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010018</questionId>
+<question-text>............. menu is used to switch over between documents.</question-text>
+<answer0>View</answer0>
+<answer1>Format</answer1>
+<answer2>Window</answer2>
+<answer3>Table</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Window</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010019</questionId>
+<question-text>By clicking the buttons visible on the ............., we can switch over between documents.</question-text>
+<answer0>menu bar</answer0>
+<answer1>status bar</answer1>
+<answer2>task bar</answer2>
+<answer3>tool bar</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>task bar</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010020</questionId>
+<question-text>The thick horizontal line in the page area is called the</question-text>
+<answer0>end-of-document marker</answer0>
+<answer1>end-of-file marker</answer1>
+<answer2>both a and b</answer2>
+<answer3>none</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>end-of-document marker</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010021</questionId>
+<question-text>To move the insertion point with the mouse, the mouse pointer is moved to the required spot and the mouse button is .............</question-text>
+<answer0>clicked</answer0>
+<answer1>dragged</answer1>
+<answer2>clicked and dragged</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>clicked</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010022</questionId>
+<question-text>To move the insertion point one character to the left ............. key is used.</question-text>
+<answer0>left arrow</answer0>
+<answer1>right arrow</answer1>
+<answer2>both a and b</answer2>
+<answer3>down arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>left arrow</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010023</questionId>
+<question-text>To move the insertion point one character to the right ............. key is used.</question-text>
+<answer0>left arrow</answer0>
+<answer1>right arrow</answer1>
+<answer2>both a and b</answer2>
+<answer3>down arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>right arrow</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010024</questionId>
+<question-text>To move the insertion point one word to the left ..........key is used.</question-text>
+<answer0>left arrow</answer0>
+<answer1>right arrow</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>ctrl + left arrow</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010025</questionId>
+<question-text>To move the insertion point one word to the right ............. key is used.</question-text>
+<answer0>left arrow</answer0>
+<answer1>right arrow</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl 4- right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>ctrl 4- right arrow</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010026</questionId>
+<question-text>To move the insertion point one cell to the left ............. key is used.</question-text>
+<answer0>left arrow</answer0>
+<answer1>shift + tab</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>shift + tab</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010027</questionId>
+<question-text>To move the insertion point one cell to the right ............. key is used.</question-text>
+<answer0>tab</answer0>
+<answer1>shift + tab</answer1>
+<answer2>ctrl 4- left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>tab</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010028</questionId>
+<question-text>To move the insertion point one line up...........key is used.</question-text>
+<answer0>up arrow</answer0>
+<answer1>down arrow</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>up arrow</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010029</questionId>
+<question-text>To move the insertion point one line down ............. key is used.</question-text>
+<answer0>up arrow</answer0>
+<answer1>down arrow</answer1>
+<answer2>Ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>down arrow</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010030</questionId>
+<question-text>To move the insertion point to the end of a line ............. key is used.</question-text>
+<answer0>end</answer0>
+<answer1>home</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>end</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010031</questionId>
+<question-text>To move the insertion point to the beginning of a line ............. key is used.</question-text>
+<answer0>end</answer0>
+<answer1>home</answer1>
+<answer2>ctrl 4- left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>home</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010032</questionId>
+<question-text>To move the insertion point to the end of the document ............. key is used.</question-text>
+<answer0>end</answer0>
+<answer1>ctrl + end</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>ctrl + end</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010033</questionId>
+<question-text>To move the insertion point to the beginning of the document ............. key is used.</question-text>
+<answer0>ctrl + end</answer0>
+<answer1>ctrl + home</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>ctrl + home</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010034</questionId>
+<question-text>To scroll the screen one page up ............. key is used.</question-text>
+<answer0>page down</answer0>
+<answer1>page up</answer1>
+<answer2>Ctrl + up arrow</answer2>
+<answer3>ctrl + down arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>page up</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010035</questionId>
+<question-text>To scroll the screen one page down.............key is used.</question-text>
+<answer0>page down</answer0>
+<answer1>page up</answer1>
+<answer2>ctrl + up arrow</answer2>
+<answer3>ctrl + down arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>page down</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010036</questionId>
+<question-text>If the document is long the text can be scrolled through without moving the .............</question-text>
+<answer0>mouse pointer</answer0>
+<answer1>insertion point</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>insertion point</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010037</questionId>
+<question-text>If there are several pages in the document the user can know the page number by looking at the pop-up page number that appears next to the .............</question-text>
+<answer0>status bar</answer0>
+<answer1>menu bar</answer1>
+<answer2>tool bar</answer2>
+<answer3>scroll bar</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>scroll bar</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010038</questionId>
+<question-text>In a document there are ............. sets of scroll arrows one for up and down movement.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>one</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010039</questionId>
+<question-text>............. key deletes the characters to the left of the insertion point.</question-text>
+<answer0>Delete</answer0>
+<answer1>Backspace</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Backspace</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010040</questionId>
+<question-text>............. key deletes the characters to the right of the insertion point.</question-text>
+<answer0>Delete</answer0>
+<answer1>Backspace</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Delete</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010041</questionId>
+<question-text>The user in the ........... mode, if the text existing to the right of the insertion disappears, while typing a new text,</question-text>
+<answer0>insert</answer0>
+<answer1>type-over</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>type-over</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010042</questionId>
+<question-text>The user can toggle between type-over mode and the insert mode by using the ............. key.</question-text>
+<answer0>del</answer0>
+<answer1>insert</answer1>
+<answer2>backspace</answer2>
+<answer3>ctrl</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>insert</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010043</questionId>
+<question-text>............. gives the information about the current mode(insert or type-over mode)</question-text>
+<answer0>Menu bar</answer0>
+<answer1>Title bar</answer1>
+<answer2>Tool bar</answer2>
+<answer3>Status bar</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Status bar</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010044</questionId>
+<question-text>The ............. mouse button should be clicked, held down and dragged across the text to be selected.</question-text>
+<answer0>right</answer0>
+<answer1>left</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>left</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010045</questionId>
+<question-text>To unselect the wrongly selected text a ............. should be made outside the selected text.</question-text>
+<answer0>click</answer0>
+<answer1>drag</answer1>
+<answer2>double click</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>click</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010046</questionId>
+<question-text>The ............. key is pressed down and the movement keys are used to highlight the required text.</question-text>
+<answer0>shift</answer0>
+<answer1>ctrl</answer1>
+<answer2>both a and b</answer2>
+<answer3>back space</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>both a and b</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010047</questionId>
+<question-text>To select a word ............. click is to be made.</question-text>
+<answer0>single</answer0>
+<answer1>double</answer1>
+<answer2>thrice</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>double</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010048</questionId>
+<question-text>............. key is used to select the entire document.</question-text>
+<answer0>Ctrl + A</answer0>
+<answer1>Ctrl + C</answer1>
+<answer2>Ctrl 4- E</answer2>
+<answer3>Ctrl + J</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + A</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010049</questionId>
+<question-text>............. set of keys can be used to move a text.</question-text>
+<answer0>Ctrl + X</answer0>
+<answer1>Ctrl + V</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010050</questionId>
+<question-text>............. set of keys can be used to copy a text.</question-text>
+<answer0>Ctrl + C</answer0>
+<answer1>Ctrl + V</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010051</questionId>
+<question-text>In the............. box, type the text that you want to find your document.</question-text>
+<answer0>find</answer0>
+<answer1>replace with</answer1>
+<answer2>search for</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>find</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010052</questionId>
+<question-text>In the ........... box, enter the replacement word or phrase.</question-text>
+<answer0>find</answer0>
+<answer1>replace with</answer1>
+<answer2>search for</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>replace with</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010053</questionId>
+<question-text>To skip the current occurrence of a word found ............. to be pressed.</question-text>
+<answer0>find</answer0>
+<answer1>find all</answer1>
+<answer2>replace</answer2>
+<answer3>replace all</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>find</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010054</questionId>
+<question-text>To replace the current occurrence of a word found ............. to be pressed.</question-text>
+<answer0>find</answer0>
+<answer1>find all</answer1>
+<answer2>replace</answer2>
+<answer3>replace all</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>replace</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS01010055</questionId>
+<question-text>To replace all the occurrence of a word found ............. to be pressed.</question-text>
+<answer0>find</answer0>
+<answer1>find all</answer1>
+<answer2>replace</answer2>
+<answer3>replace all</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>replace all</correctAnswer>
+</question>
+</chapter>
+</chapter-questions>

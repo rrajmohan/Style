@@ -1,0 +1,458 @@
+CHAPTER - 6
+
+SPREADSHEET
+1. The personal computer first appeared in ...........
+
+a) 1972 b) 1973 c) 1974 d) 1975
+
+2. In the year .........  the pcs became more popular and attracted by the wider population.
+
+a)1974 b)1976 c) 1975 d)1977
+
+3. Visi calc is developed in the year ........... 
+
+a)1976 b)1977 c) 1978 d) 1979
+
+4. Visicalc is developed by ........
+
+a) Dan Bricklin b) Bon Frankston c) Both a and b d) None of these
+
+5. ...........was the first electronic spreadsheet.
+
+a) Lotus 1-2-3 b) Ms excel c) Visible calculator d) Quatro pro
+
+6. .....  tool could save time, help avoid endless and brain-numbering arithmetic and eliminate mathematical errors.
+
+a) Visible calculator b) Star office writer c) Star office base d) Star office impress
+
+7. Spread sheets are made up of rows and ...........
+
+a) rows b) columns c) rows and columns d) none of these
+
+8. The intersection of rows and columns creates ...........
+
+a) rows b) columns c) cells d) none of these
+
+9. The ........ are addressed in terms of the row and column labels.
+
+a) row b) column c) cells d) none of these
+
+10. In star office calc, there are ..... rows.
+
+a) 256 b) 63 c) 64 d) 32000
+
+11. The formula appears in the input line of the ...........
+
+a) menu bar b) formula bar c) object bar d) status bar
+
+12. A  ..is like a grid of cells with a programmable calculator attached to each cell.
+
+a) table b) spread sheet c) document d) data base
+
+13. In staroffice calc the formula must starts with ...........
+
+a) & b) : c) = d) !
+
+14.  ......... refers to the files that you create with spreadsheet software.
+
+a) Spreadsheet b) Worksheet c) Both a and b d) Database
+
+15. Work sheet data can be viewed in the form of
+
+a) graphs or charts b) pie charts c) bar charts d) none of these
+
+16. Spreadsheet package developed for  .........  in 1979.
+
+a) Super computer b) Main frame computer c) Micro computer d) None of these
+
+17. Visible calculator contained  columns and ..... rows.
+
+a) 254, 63 b) 63, 254 c) 63, 32000 d) 64, 254
+
+18. Lotus development corporation introduced lotus 1-2-3 in ......
+
+a)1981 b)1980 c) 1982 d) 1983
+
+19. Lotus 1-2-3 developed by ...........
+
+a) Sun micro systems b) Borland international c) Microsoft corporation d) Lotus development corporation
+
+20. Quattro pro developed by .........
+
+a) Sun micro systems b) Borland international c) Microsoft corporation d) Lotus development corporation
+
+21. Lotus corporation developed the software ...........
+
+a) improve b) star office calc c) ms-excel d) quattro pro
+
+22. Star office calc developed by ...........
+
+a) Sun micro systems b) Borland international c) Lotus development corporation d) Microsoft corporation
+
+23. Microsoft developed the software ...........
+
+a) quattro pro b) lotus 1-2-3 c) star office calc d) excel
+
+24. ..........bar is used to display the current cell and its contents.
+
+a) Menu bar b) Object bar c) Function bar d) Formula bar
+
+25. ...... is a rectangular box covering the cell.
+
+a) Cell pointer b) Active cell c) Mouse pointer d) None of these
+
+26. Defaultly the cell pointer in cell .........
+
+a) A2 b) A1 c) A3 d)A4
+
+27. If the data entered is a word, the program recognizes it as a ...........
+
+a) number b) date c) equation d) label
+
+28. The default format of entering date should be ...........
+
+a) mm/yy/dd b) dd/mm/yy c) mm/dd/yy d) mm-dd-yy
+
+29. The default format for entering time should be ........
+
+a) hh:mm:ss b) hh/mm/ss c) ss:mm:hh d) hh-mm-ss
+
+30. In order to close the worksheet, go to file menu and select the ........... option.
+
+a) exit b) close c) both a and b d) none of these
+
+31. Width of the column is not enough to hold the data, Star office calc indicates this with small ..... triangle.
+
+a) red b) blue c) black d) gray
+
+32. We can edit the contents of the cell in .......... ways.
+
+a) one b) four c) three d) two
+
+38. You can edit the contents of the cell by pressing ......... key.
+
+a) FI b) F2 c) F3 d) F4
+
+34. .......  symbol can be used to find the exponentiation of a calculation.
+
+a) # b) ~ c) * d) +
+
+35.  .......... operator is used to find the equalities.
+
+a) = b) < = c) = = d) < >
+
+36.  ........ operator can be used to cocatenate the texts.
+
+a) ! b): c) & d) =
+
+37............ is the range operator.
+
+a)! b): c)& d) =
+
+38............ is the intersection operator.
+
+a)! b): c) & - d) =
+
+39.  ........ operator has the highest precedence in the following list,
+
+a) -(negation) b) Subtraction (-) c) Exponentiation( ~) d) Multiplication (*)
+
+40. ..... command can be used to do the actions carried out by copy and paste.
+
+a) Fill b) Format c) File d) Help
+
+41. A continuous group of ceils in a worksheet is called a
+
+a) intersection b) cells c) range d) none of these
+
+42. The intersection of (c3:d5 I d4:e5) refers the cells .....
+
+a) d4,d5 b) d3,d4 c) c3,c5 d) none of these
+
+43. There are ........... types of series in fill command.
+
+a) 3 b)4 c) 5 d) 6
+
+44. There are ........... types of cell referencing.
+
+a) one b) two c) three d)four
+
+45. A cell address can be made absolute by using the ...... sign in front of row and column names.
+
+a) & b) ! c) : d) $
+
+46. $C$4 is an example of ...... addressing.
+
+a) absolute b) relative c) both a and b d) none of these
+
+47. ........... are predefined formulae that are available in staroffice calc.
+
+a) Cell b) Text c) Function d) None of these
+
+48. ........... is the reason why formulae are automatically recalculated every time the formulae change.
+
+a) Absolute cell addressing b) Relative cell addressing c) Both a and b d) None of these
+
+49. ........... menu is used to select a function.
+
+a) Format b) File c) Vi6w d) Insert
+
+50. =sqrt(64) gives the result as...........
+
+a) 5 b)6 c) 7 d) 8
+
+51. What will be the output of the formula =A2 + 79, if A2 has the value as 03/04/05.
+
+a) 05/22/05 b) 05/22/06 c) 05/22/07 d) 05/22/08
+
+52. To select a group of ceils, click on the first ceil in the range and  ......  to the last cell in the range.
+
+a) double click b) click c) click and drag d) none of these
+
+53. ........... multiplies the contents of the cell by 100 and displays the result with 2 decimals,
+
+a) Currency icon b) Add decimal icon c) Font colour icon d) Percent icon
+
+54. ...........sheet facility of star office calc helps to format the worksheet with different predefined styles and colours, 
+
+a) Auto format b) Format c) View d) None of these
+
+55. ........... command is used to change the column width of a worksheet.
+
+a) Format -> column -> width b) Format -> row -> height c) Format -> cells d) None of these
+
+56. To change the row height, ..... click on the selected row and select height.
+
+a) left b) center c) right d) none of these
+
+57. If you press view -> tool bar -> insert celt , A floating tool bar appears with ........... icons.
+
+a) four b)three c) two d) one
+
+58. To insert an empty cell in a column and move the existing cells down,, ...;....... icon should be clicked.
+
+a) insert cells right b) insert cells down c) insert rows d) insert cplumn
+
+59. To insert an empty cell in a row and move the existing cells right, .......  icon should be clicked.
+
+a) insert cells right b) insert cells down c) insert row d) insert column
+
+60. Deleting contents . dialog box has ..........  number of options in spread sheet.
+
+a) 8 b) 7 c) 6 d) 5
+
+61. Delete cells dialog box displays ........... options on it.
+
+a) 1 b) 2 c) 3 d) 4
+
+62. ........... command is used to insert a picture in a worksheet.
+
+a) Insert special character b) Insert -> OLE object c) Insert -> picture d) Insert -> applet
+
+63. ........... icon is used for inserting a formula in the worksheet for performing calculations.
+
+a) Insert floating frame b) Insert formula c) Insert applet d) Insert movie and sound
+
+64. ......... icon is used for inserting sound or video files in the worksheet.
+
+a) Insert float frame b) Insert OLE object c) Insert applet d) Insert movie and sound
+
+65. ........... icon is used to import applets written in java programming language into the worksheet,
+
+a) Insert floating frame b) Insert formula c) Insert applet d) Insert movie and sound
+
+66............ icon provides to generate a scrolling screen within the worksheet.
+
+a) Insert floating frame b) Insert formula c) Insert applet d) Insert movie and sound
+
+67.' ......;____ icon is used to insert objects from other application into a worksheet.
+
+a) Insert float frame b) Insert OLE object c) Insert applet d) Insert movie and sound
+
+68. StarOffice calc software is the ability to generate charts based on ........... data.
+
+a) label b) text c) numeric d) date
+
+69. The purpose of .........., is to visually present the data for easy understanding.
+
+a) text b) label c) formula d) chart
+
+70. Inserting chart in a worksheet is possible by clicking the menu ...........
+
+a) insert -> picture b) insert -> sound and movies c) insert -> chart d) none of these
+
+71. To select . a different sheet, click the ......  with the sheet’s name in a worksheet.
+
+a) ctrl b) shift c) delete d) tab
+
+72. =SUM(Sheetl.B4:C4 ;Sheet2.B4:C4). In this formula, the ........... separating the cells of the same sheet.
+
+a) ; b) = c) : d) none of these
+
+73. Two separate sheet should be splitted by ........... in spreadsheet.
+
+a) ; b) : c) ! . d) =
+
+74. To remove the print range settings in spreadsheet,  should be clicked.
+
+a) format -> print ranges -> delete b) format -> print ranges -> edit c) format -> print ranges -> erase d) none of these
+
+75. ...........option on the File menu can be used to preview a worksheet before printing.
+
+a) Page view b) File view c) Page view/file view d) None of these
+
+76. .......tab should be selected to get the worksheet with grid lines.
+
+a) Page b) Organizer c) Footer d) Sheet
+
+answer 1 d
+
+answer 2 d
+
+answer 3 d
+
+answer 4 c
+
+answer 5 c
+
+answer 6 a
+
+answer 7 b
+
+answer 8 c
+
+answer 9 c
+
+answer 10 d
+
+answer 11 b
+
+answer 12 b
+
+answer 13 c
+
+answer 14 b
+
+answer 15 a
+
+answer 16 c
+
+answer 17 b
+
+answer 18 c
+
+answer 19 d
+
+answer 20 b
+
+answer 21 a
+
+answer 22 a
+
+answer 23 d 
+
+answer 24 d 
+
+answer 25 a
+
+answer 26 b
+
+answer 27 d
+
+answer 28 c
+
+answer 29 a
+
+answer 30 b
+
+answer 31 a
+
+answer 32 d
+
+answer 33 b
+
+answer 34 b
+
+answer 35 a
+
+answer 36 c
+
+answer 37 b
+
+answer 38 a
+
+answer 39 c
+
+answer 40 a
+
+answer 41 c
+
+answer 42 a
+
+answer 43 b
+
+answer 44 b
+
+answer 45 d
+
+answer 46 a
+
+answer 47 c
+
+answer 48 b
+
+answer 49 d
+
+answer 50 d
+
+answer 51 a
+
+answer 52 c
+
+answer 53 b
+
+answer 54 a
+
+answer 55 a
+
+answer 56 c
+
+answer 57 c
+
+answer 58 b
+
+answer 59 d
+
+answer 60 d
+
+answer 61 a
+
+answer 62 c
+
+answer 63 b
+
+answer 64 a
+
+answer 65 a
+
+answer 66 c
+
+answer 67 a
+
+answer 68 b
+
+answer 69 a
+
+answer 70 a
+
+answer 71 d
+
+answer 72 c
+
+answer 73 a
+
+answer 74 a
+
+answer 75 a
+
+answer 76 d
