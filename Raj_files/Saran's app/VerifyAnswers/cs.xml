@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<chapter-questions>
+<chapter name = "AN INTRODUCTION TO STAROFFICE WRITER" number="01">
+<question>
+<questionId>TNHSCS010001</questionId>
+<question-text>.............is an application that is designed to work on different operating systems.</question-text>
+<answer1>Star office</answer1>
+<answer2>Notepad</answer2>
+<answer3>Wordpad</answer3>
+<answer4>None of these</answer4>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS010002</questionId>
+<question-text>.............is a Staroffice function.</question-text>
+<answer1>Star office writer</answer1>
+<answer2>Notepad</answer2>
+<answer3>Word pad</answer3>
+<answer4>C+ +</answer4>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office writer</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS010003</questionId>
+<question-text>.............is used to create text document</question-text>
+<answer1>Star office calc</answer1>
+<answer2>Star office draw</answer2>
+<answer3>Star office impress</answer3>
+<answer4>Star office writer</answer4>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office writer</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS010004</questionId>
+<question-text>.............is used to create a spread shee</question-text>
+<answer1>Star office calc</answer1>
+<answer2>Star office draw</answer2>
+<answer3>Star office impress</answer3>
+<answer4>Star office writer</answer4>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office calc</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS010005</questionId>
+<question-text>.......   is used to create a presentation</question-text>
+<answer1>Star office calc</answer1>
+<answer2>Star office draw</answer2>
+<answer3>Star office impress</answer3>
+<answer4>Star office writer</answer4>
+<grouping>01</grouping>
+<weightage>8</weightage>

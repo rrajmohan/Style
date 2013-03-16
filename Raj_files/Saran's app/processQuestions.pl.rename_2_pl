@@ -1,0 +1,52 @@
+#!/bin/perl
+use strict;
+
+open INFILE, "$ARGV[0]" or die "Unable to open $ARGV[0]\n";
+my @lines = <INFILE>;
+close INFILE;
+my %answers;
+
+foreach (@lines) {
+	next if (m@^\d+\.@m); #ignore questions
+	next if (m@^\d\s\d\.@m); #ignore that has space between question numbers
+	if (m@^\d@) {
+		s@[^a-zA-Z0-9]@@g; #Remove junk characters
+		s@\s+@ @g; # Remove extra workspaces
+#		print;
+#@array = ( $string =~ m/../g );
+		my @answers = ( $_ =~ m@\d+.@g);
+		for(my $i=0; $i<$#answers;$i++) {			
+			if ( $answers[$i] =~ m@(\d)+(.)@ ) {
+				$answers{$1} = $2;
+			}
+		}
+	}
+}
+
+foreach ( @lines ) {
+	s/^\s//g;
+	s/^\s+/ /g;
+	s/\t/ /g;
+	if (m@^\d+\.@m) {
+		s@^\d\s\d\.@^\d\d\.@;#Remove whitespace in between question numbers
+ 		s@\s+@ @g;
+               	s@\t+@ @g;
+               	chomp;
+                print "Question is $_\n"; 
+		if ( m@^(\d)+\.@m) {
+			print "Answer is: $answers{$1}\n";
+		}
+	} elsif (m@(.\))(.+?)(.\))(.+)@) {
+		chomp();
+		print "Options: $1=>$2\n";
+		print "Options: $3=>$4\n";
+ 	} elsif (m@(.\))(.+)@) {
+		chomp();
+		print "Options: $1=>$2\n";
+	} elsif (m@^\d@) {
+#		print "Answer = > $_";
+	} else {
+#		s@[^a-zA-z0-9]@@g;
+		print;
+	}
+}

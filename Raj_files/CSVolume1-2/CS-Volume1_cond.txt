@@ -1,0 +1,2030 @@
+CHAPTER - 6
+
+SPREADSHEET
+1. The personal computer first appeared in ...........
+
+a) 1972 b) 1973
+
+c) 1974 d) 1975
+
+2. In the year .........  the pcs became more popular and
+
+attracted by the wider population.
+
+a)1974 b)1976
+
+c) 1975 d)1977
+
+3. ' Visi calc is developed in the year...........
+
+a)1976 b)1977
+
+c) 1978 d) 1979
+
+4. Visicalc is developed by ........
+
+a) Dan Bricklin
+
+b) Bon Frankston
+
+c) Both a and b
+
+d) None of these
+
+5............was the first electronic spreadsheet.
+
+a) Lotus 1-2-3
+
+b) Ms excel
+
+c) Visible calculator
+
+d) Quatro pro
+1 d 2 d 3 d 4 c 5......... c
+
+6......  tool could save time, help avoid endless and
+
+brain-numbering arithmetic and eliminate mathematical errors.
+
+a) Visible calculator b) Star office writer
+
+c) Star office base d) Star office impress
+
+7. Spread sheets are made up of rows and ...........
+
+a) rows b) columns
+
+c) rows and columns ¦ d) none of these
+
+8. The intersection of rows and columns creates ...........
+
+a) rows b) columns
+
+c) cells d) none of these
+
+9. The ........ are addressed in terms of the row and
+
+column labels.
+
+a) row b) column
+
+c) cells d) none of these
+
+10. In star office calc, there are ..... rows.
+
+a) 256 b) 63
+
+c) 64 d) 32000
+
+11. The formula appears in the input line of the ...........
+
+a) menu bar b)'formula bar
+
+c) object bar d) status bar
+
+12. A  ..is like a grid of cells with a programmable
+
+calculator attached to each cell.
+
+a) table b) spread sheet
+
+c) document d) data base
+6 a 7 b 3 .....c 9........-...c 10......d 11......b
+
+12 b
+13. ' In staroffice calc the formula must starts with , a) & b) :
+
+c) = d) !
+14.  ......... refers to the files that you create with
+
+spreadsheet software.
+
+a) Spreadsheet ' b) Worksheet
+
+c) Both a and b d) Database
+15. Work sheet data can be viewed in the form of
+
+a) graphs or charts b) pie charts
+
+c) bar charts d) none of these
+16. Spreadsheet package developed for  .........  in 1979.
+
+a) Super computer b) Main frame computer
+
+c) Micro computer d) None of these
+
+17. Visible calculator contained  columns and ..... rows.
+
+¦ a) 254, 63 b) 63, 254
+
+c) 63, 32000 d) 64, 254
+
+18. Lotus development corporation introduced lotus 1-2-3 in ____________
+
+a)1981 b)1980
+
+\c) 1982 d) 1983
+
+19. Lotus 1-2-3 developed by ...........
+
+a) Sun micro systems
+
+b) Borland international
+
+c) Microsoft corporation
+
+d) Lotus development corporation
+
+13 c 14 .b 15 a 16 c 17 b' 18.. c
+
+19 , .d
+20. Quattro pro developed by .........
+
+a) Sun micro systems ?
+
+b) Borland international
+
+c) Microsoft corporation
+
+d) Lotus development corporation
+
+21. Lotus corporation developed the software ...........
+
+a) improve b) star office calc
+
+c) ms-excel d) quattro pro
+
+22. Star office calc developed by ...........
+
+a) Sun micro systems
+
+b) Borland international
+
+c) Lotus development corporation
+
+d) Microsoft corporation
+
+23. Microsoft developed the software ...........
+
+a) quattro pro b) lotus 1-2-3
+
+c) star office calc d) excel
+
+24...........bar is used to display the current cell and its contents.
+
+a) Menu bar b) Object bar
+
+c) Function bar d) Formula bar
+
+25. ...... is a rectangular box covering the cell.
+
+a) Cell pointer b) Active cell
+
+c) Mouse pointer d) None of these
+
+26. Defaultly the cell pointer in cell .........
+
+a) A2 b) A1
+
+c) A3 d)A4
+
+20 b 21 a 22 a 23 d 24 d . 25......a
+
+26 b _____
+If the data entered is a word, the program recognizes it as a ...........
+
+a) number b) date
+
+c) equation d) label
+
+The default format of entering date should be ...........
+
+a) mm/yy/dd b) dd/mm/yy
+
+c) mm/dd/yy d) mm-dd-yy
+
+The default format for entering time should be ........
+
+a) hh:mm:ss b) hh/mm/ss
+
+c) ss:mm:hh d) hh-mm-ss
+
+In order to close the worksheet, go to file menu and
+
+select the ........... option.
+
+a) exit b) close
+
+c) both a and b d) none of these
+
+Width of the column is not enough to hold the data,
+
+Star office calc indicates this with small ..... triangle.
+
+a) red b) blue
+
+c) black d) gray
+
+We can edit the contents of the cell in .......... ways.
+
+a) one b) four
+
+c) three d) two
+
+You can edit the contents of the cell by pressing ......... key.
+
+a) FI b) F2
+
+c) F3 - d) F4
+
+..... d 28 c 29.'. a 30 b 31 a 32 d
+
+ b
+ 
+ 34........  symbol can be used to find the exponentiation
+
+of a calculation.
+
+a) # b) ~
+
+c) * d) +
+
+35.  .......... operator is used to find the equalities.
+
+a) = b) < =
+
+c) = = d) < >
+
+36.  ........ operator can be used to cocatenate the texts.
+
+a) ! b):
+
+c) & d) =
+
+3 7............ is the range operator.
+
+a)! b):
+
+c)& d) =
+
+3 8............ is the intersection operator.
+
+a)! b):
+
+c) & - d) =
+
+39.  ........ operator has the highest precedence in the
+
+following list,
+
+a) -(negation) b) Subtraction (-)
+
+c) Exponentiation( ~) d) Multiplication (*)
+
+40...... command can be used to do the actions carried
+
+out by copy and paste.
+
+a) Fill b) Format
+
+c) File d) Help
+34   b 35 a 36 c ' 37 .b 38 a 39 c
+
+40 a
+41. A continuous group of ceils in a worksheet is called a
+
+a) intersection b) cells
+
+c) range * d) none of these
+
+42. The intersection of (c3:d5 I d4:e5) refers the cells .....
+
+a) d4,d5 b) d3,d4
+
+c) c3,c5 ' . d) none of these
+
+43. There are ........... types of series in fill command.
+
+a) 3 b)4
+
+c) 5 d) 6
+
+44. There are ........... types of cell referencing.
+
+a) one b) two
+
+c) three d)four
+
+45. A cell address can be made absolute by using the .
+
+sign in front of row and column names.
+
+a) & b) !
+
+c) : d) $
+
+46. $C$4 is an example of ...... addressing.
+
+a) absolute b) relative
+
+c) both a and b d) none of these
+
+47............ are predefined formulae that are available in
+
+staroffice calc.
+
+a) Cell b) Text
+
+c) Function d) None of these
+41 c 42 a 43 b 44.. b 45 d 46 .a
+
+47 ........ c
+
+48............ is the reason why formulae are automatically
+
+recalculated every time the formulae change.
+
+a) Absolute cell addressing
+
+b) Relative cell addressing
+
+c) Both a and b
+
+d) None of these
+
+49. ........... menu is used to select a function.
+
+a) Format b) File
+
+c) Vi6w d) Insert
+
+50. =sqrt(64) gives the result as...........
+
+a) 5 b)6
+
+c) 7 ' d) 8
+
+51. What will be the output of the formula =A2 + 79, if A2
+
+has the value as 03/04/05.
+
+a) 05/22/05 b) 05/22/06
+
+c) 05/22/07 d) 05/22/08
+
+52. To select a group of ceils, click on the first ceil in the range and  ......  to the last cell in the range.
+
+a) double click b) click
+
+c) click and drag d) none of these
+
+53............ multiplies the contents of the cell by 100 and
+
+displays the result with 2 decimals,
+
+a) Currency icon b) Add decimal icon
+
+c) Font colour icon d) Percent icon
+48 b 49 d 50........d 51 a 52 ...... c 53......b
+
+5 4............sheet facility of star office calc helps to format the
+
+worksheet with different predefined styles and colours, a) Auto format b) Format
+
+c) View d) None of these
+
+'
+
+5 5............ command is used to change the column width
+
+of a worksheet.
+
+a) Format -> column -> width
+
+b) Format -> row -> height
+
+c) Format -> cells
+
+d) None of these
+
+i
+
+56. To change the row height, ..... click on the selected
+
+row and select height.
+
+a) left b) center
+
+c) right d) none of these
+
+57. If you press view -> tool bar -> insert celt , A floating
+
+tool bar appears with ........... icons.
+
+a) four b)three
+
+c) two d) one
+
+58. To insert an empty cell in a column and move the existing cells down,, ...;....... icon should be clicked.
+
+a) insert cells right b) insert cells down
+
+c) insert rows d) insert cplumn
+
+59. To insert an empty cell in a row and move the existing
+
+cells right, .......  icon should be clicked.
+
+a) insert cells right b) insert cells down
+
+c) insert row d) insert column
+54 a 55 a 56 c 57 c 58 b 59 d
+
+60. Deleting contents . dialog box has ..........  number of
+
+options in spread sheet.
+
+a) 8 b) 7
+
+c) 6 d) 5
+
+61. Delete cells dialog box displays ........... options on it.
+
+a) 1 b) 2
+
+c) 3 d) 4
+
+62. ........... command is used to insert a picture in a
+
+worksheet.
+
+a) Insert special character
+
+b) Insert -> OLE object
+
+c).Insert -> picture
+
+d) Insert -> applet
+
+63. ........... icon is used for inserting a formula in the
+
+worksheet for performing calculations.
+
+a) Insert floating frame b) Insert formula
+
+c) Insert applet d) Insert movie and sound
+
+64. ......... icon is used for inserting sound or video files
+
+in the worksheet.
+
+a) Insert float frame b) Insert OLE object
+
+c) Insert applet d) Insert movie and sound
+
+65............ icon is used to import applets written in java
+
+programming language into the worksheet,
+
+a) Insert floating frame b) Insert formula
+
+c) Insert applet d) Insert movie and sound
+60' d 61........ a ' 62 c 63.......;.b 64 a 65 a-
+
+66............ icon provides to generate a scrolling screen
+
+within the worksheet ,
+
+a) Insert floating frame b) Insert formula
+
+c) Insert applet d) Insert movie and sound
+
+67.' ......;____ icon is used to insert objects from other
+
+application into a worksheet.
+
+a) Insert float frame b) Insert OLE object
+
+c) Insert applet d) Insert movie and sound
+
+68. StarOffice calc software is the ability to generate charts based on ........... data.
+
+a) label b) text
+
+c) numeric d) date
+
+69. The purpose of .........., is to visually present the data
+
+for easy understanding.
+
+a) text b) label
+
+c) formula d) chart
+
+70. Inserting chart in a worksheet is possible by clicking the menu ...........
+
+a) insert -> picture
+
+b) insert -> sound and movies
+
+c) insert -> chart
+
+d) none of these
+
+71. To select . a different sheet, click the ......  with the
+
+sheet’s name in a worksheet.
+
+a) ctrl b) shift
+
+c) delete d) tab
+66 ........ c 67 a 68 b 69  a 70 a 71 d
+72. =SUM(Sheetl.B4:C4 ;Sheet2.B4:C4). In this formula, the ........... separating the cells of the same sheet.
+
+a) ; b) =
+
+c) : d) none of these
+
+73. Two separate sheet should be splitted by ........... in
+
+spreadsheet.
+
+a) ; b) :
+
+c) ! . d) =
+
+74. To remove the print range settings in spreadsheet,  should be clicked.
+
+a) format -> print ranges -> delete
+
+b) format -> print ranges -> edit
+
+c) format -> print ranges -> erase
+
+d) none of these
+
+75............option on the File menu can be used to preview
+
+a worksheet before printing.
+
+a) Page view
+
+b) File view
+
+c) Page view/file view
+
+d) None of these
+
+76. .......tab should be selected to get the worksheet with
+
+grid lines.
+
+a) Page b) Organizer
+
+c) Footer d) Sheet
+
+72 c 73 a 74 a 75 a 76 d
+
+CHAPTER - 7
+
+DATABASE
+1............fall under the category of data processing.
+
+a) Banking
+
+b) Pay roll
+
+c) Budget preparation
+
+d) All of these
+
+2. The term data comes from the word ..........
+
+a) data b) information
+
+c) fact ¦ d) datum
+
+3. The term ........... refers to the name of a memory
+
+location.
+
+a) constant b) variable
+
+c) both a and b d) none of these
+
+4............ data type can be integer, float, double precision,
+
+date, time etc.
+
+a) Numeric ’ b) Date
+
+c) Boolean d) Character
+
+5. The data defined by the user itself is called...........data
+
+type.
+
+a) built-in , b) user-defined
+
+c) both a and b d) none of these
+
+1   d 2 d 3.... b 4....... ..a 5.........b
+
+6............is defined as a set of processed data.
+
+a) Data b) Datum
+
+c) Information d) Date
+
+7. Data processing involves ...........
+
+a) data collection b) verification
+
+c) validation d) all of these
+
+8. The work has been carried out by long-hand effort is..........
+
+a) computerised data processing
+
+b) manual data processing
+
+c) both a and b
+
+d) none of these
+
+9............method takes more time,
+
+a) Manual b) Computerized
+
+c) Both a and b d) None of these
+
+10. Human beings are liable to make computational and '..... errors.
+
+a) parallax b) transpose
+
+c) over write d) none of these
+
+11............ data processing involves use of papers.
+
+a) Computer b) Manual
+
+c) Both a and b d) None of these
+
+12. Implementation of corrections, changes and
+
+modifications are tedious in ........... data processing.
+
+a) manual b) computer
+
+c) both a and b d) none of these
+6 c 7 d 8 b 9 a 10 a 11 b
+
+12 a
+13.
+are so common that we can share data and
+resources from one computer system to the other at a very fast speed.
+or facts.
+
+a) word processing
+
+b) spread sheet
+
+c) data base
+
+d) drawings
+
+15. The entire collection of related data in one table is referred to as a ...........
+
+a) record b) field
+
+c) file d) none of these
+
+16. Each row in a table represents ........... in a database.
+
+a) field b) record
+
+c) file d) none of these
+
+17. Each table column represents a .......  in database.
+
+a) field bj table
+
+c) record d) file
+
+18............is a process to select a desired specific data from
+
+a database.
+
+a) Sorting b) Merging
+
+c) Filtering d) Searching
+13 b 14 c 15 c 16 b 17 a 18 d
+
+1 9............is the process of arranging the data in a table
+
+in some order.
+
+a) Searching b) Sorting
+
+c) Merging d) Filtering
+
+2 0............is the process of joining data from two or more
+
+table of the same or different databases, a) Merging b) Sorting
+
+c) Filtering d) Searching
+
+2 1............ are a feature for displaying and browsing a
+
+selected list or subset of records from a table, a) Searching b) Sorting
+
+c) Merging d) Filtering
+
+2 2............is the process of performing corrections on the
+existing data.
+
+a) Sorting b) Merging
+
+c) Editing d) Searching
+
+23. Based on the conceptual structures, the databases can be classified as ...........
+
+a) 1 b)2
+
+c) 4 d) 5
+
+24. A database file that consists of a single data table is a
+a) flat-fiie b) relational
+
+c) hierarchical d) network
+19 b 20 a 21 d 22 c 23 d 24 a
+
+25.  ....... database' do'not allow for more complex
+
+requests.
+
+a) Flat-file b) Relational
+
+c) Hierarchical d) Network
+
+26............ structure represents a database made up of a
+
+set of related tables.
+
+a) Hierarchical b) Relational
+
+c) Network d) Object oriented
+
+27. In relational database, common field or fields are called the ...........
+
+a) table b) record
+
+c) field d) keys
+
+28. A  ...... is a' key that uniquely identifies a record in a
+
+database table.
+
+a) field b) record
+
+c) primary key d) table
+
+29. Hierarchical database structures were primarily used on ........... computers.
+
+a) micro b) super
+
+c) main frame d) notepad
+
+30. in ........... any child type relates only to a single parent
+
+type.
+
+a) network b) hierarchical
+
+c) flat file d) object oriented
+
+25 a 26 b 27 d 28 c 29 c 30 b
+
+31. In...........any one record type can relate to any number
+
+of other record type.
+
+a) hierachical b) network
+
+c) relational d) object oriented
+
+32. The ........... structure group the data items and their
+
+associated characteristics, attributes, and procedures into complex items called objects.
+
+a) hierachical b) network
+
+c) relational d) object oriented
+
+33. An ........ ... is defined by its characteristics, attributes
+
+and procedures.
+
+a) field • b) record
+
+c) table d) object
+
+34. A ........... is a program or collection of programs that
+
+allows any number of users to access data, modify and construct records.
+
+a) DBA b) SQL
+
+c) DBMS d) None of these
+
+35. The data management tasks in a DBMS fall into .....
+
+general categories.
+
+a) one b) two
+
+c) three , d)four
+
+36. The left pane is the<database> pane that displays Tables
+
+a) queries b) forms
+
+c) reports d) all of these
+
+31 b 32d '33 d 34.........c 35 ...... c 36 d
+
+37. Star office allows, ............ different fields types.
+
+a) 10 b) 20
+
+c) 30 d) 40
+
+38............data type accepts only whole numbers.
+
+a) Integer b) Float
+
+c) Double d) Memo
+
+39. Smallint accepts small integer values up to a few...........
+
+a) thousands b) lakhs
+
+c) crores d) billions
+
+40. Single and double means ........... point numbers .
+
+a) integer b) text
+
+c) image d) floating
+
+41. Single precession holds ............ places of decimal
+
+values.
+
+a) 5 b) 7
+
+c) 9 d) 11
+
+42. Double precession holds ........... places of decimal
+
+values.
+
+a) 12 b) 11
+
+c) 13 d) 14
+
+43. In the table design view, the lower part of the window, the ........... pane is displayed.
+
+a) field properties b) creating new table
+
+c) both a and b d) none of these
+37.......b 38 a 39 a 40 d 41 b 42 d
+
+' 43 a________________
+
+44............ allows you to specify the number format and
+
+alignment of the text or number within the column of table design view.
+a) Default value b) Format example
+
+c) Length d) Entry required
+
+45. A small ........... key appears to the left of the field , to
+
+mark it as the primary key.
+
+a) red b) green
+
+c) blue d) yellow
+
+46. The ........... is a small triangle on the left most column
+of the table.
+
+a) mouse pointer b) record pointer
+
+c) both a and b d) none of these
+
+47..........menu can be used to delete the selected record, when
+
+you click the record pointer by making the right click, a) Table format b) Row height
+
+c) Delete rows d) None of these
+
+48. To view or modify the design of an existing table, click the ........... from the <Database> pane.
+
+a) queries b) forms
+
+c) tables d) Report
+
+49. Click on the ........... icon, the records in the table are
+
+displayed in the ascending order of the specified field, a) sort ascending b) sort descending
+
+c) both a and b d) none of these
+44 b 45 d 46 b 47 c 48 c 49
+
+50. Every DBMS supports a language that is similar to a
+
+programming language called ...........
+
+a) C++ b) C
+
+c) SQL d) None of these
+
+51............are special view of the data in a table.
+
+a) Reports b) Forms
+
+c) Queries d) None of these
+
+52. In the field selection window of the query wizard ........... to be clicked to get all the fields.
+
+a) < b) >
+
+c) < < d) > >
+
+53. A ........... is a type of query.
+
+a) tables b) forms
+
+c) filter d) none of these
+
+54............ can be saved for later use.
+
+a) Filter b) Queries
+
+c) Both a and b d) None of these
+
+55. Star Office Base allows ........... types of filters.
+
+a) one b) two
+
+c) three d)four
+
+56............. icon to display only the records, which match
+
+the value of the current field.
+
+a) Auto filter b) Standard filter
+
+c) Both a and b d) None of these
+50 c 51 c 52 d 53 c 54 b 55 b
+
+56 a 
+
+57. Filter used with a condition called ...........
+
+a) auto filter b) default filter
+
+c) both a and b d) none of these
+
+58. To remove the filter, click on ...........
+
+a) auto filter
+
+b) default filter
+
+c) remove filter/sort
+
+d) none of these
+
+59. A ........... is simply screen that displays the fields of
+
+records in a well-spaced out manner.
+
+a) reports b) tables
+
+c) queries d) forms
+
+60............option can be used to insert another form in a
+
+form.
+
+a) Field selection b) Apply styles
+
+c) Set up a subform d) Set name
+
+61. A........... is a printed information that is assembled by
+
+gathering data based on user supplied criteria,
+
+a) form b) tables
+
+c) report d) queries
+
+62............window is used to specify the fields based on
+
+which the records can be grouped together,
+
+a) Grouping b) Choose layout
+
+c) Sort options d) Create report
+57 b 58 c 59 d 60 c 61 c 62
+
+63. To insert a text outline into a presentation ...........
+
+menu should be selected.
+
+a) file -> send-> outline to presentation
+
+b) edit copy
+
+c) file -> send~> auto abstract
+
+d) none of these
+
+64. To transfer each heading and its content into a
+
+presentation ........... menu should be clicked.
+
+a) file -> send -> outline to presentation
+
+b) file -> send auto abstract
+
+c) both a and b
+
+d) none of these
+
+65. If you want to edit the contents of a copied cell in the
+
+presentation , ........... the cell.
+
+a) click b) double-click
+
+c) right click d) none of these
+
+66............key combinations is used to save a table.
+
+a) Ctrl + S b) Ctrl + V
+
+c) Ctrl + C d) None of these
+
+67. The two types of reports are static and ...........
+
+a) report b) dynamic
+
+c) static d) none of these
+63 a 64........b 65 b 66.........a 67 b
+
+CHAPTER - 8
+
+INTRODUCTION TO MULTIMEDIA
+1............ is a computer-based presentation technique
+
+that incorporates text, graphics,sound,animations and video elements.
+
+*
+
+a) Word processor b) Database
+
+c) Multimedia d) None of these
+
+2. In the field of entertainment, ........... is widely used to
+
+add special effects to movies.
+
+a) word processor b) database
+
+c) multimedia d) none of these
+
+3. Identify the animated films given below.
+
+a) finding nemo b) polar express
+
+c) ice age d) all of these
+
+.
+
+4............is an application that allows to send and receive
+
+messages over cell phones.
+
+a) MMS b) SMS
+
+c) Both a and b d) None of these
+
+5. CBT/WBT are the example of ........... packages.
+
+a) e-shopping b) e-marketing
+
+c) e-learning d) none of these
+1 c 2 c 3 d 4 a 5
+
+6. The expandable form of CBT is ...........
+
+a) computer based tutorials
+
+b) web based tutorials
+
+c) both a and b
+
+d) none of these
+
+7. The expandable form WBT is ...........
+
+a) computer based tutorials
+
+b) web based tutorials
+
+c) both a and b
+
+d) none of these
+
+ 8............ access to information definitely speeds-up the
+
+learning process and makes it more rewarding, a) Linear b) Non-linear
+
+c) Both a and b d) None of these
+
+ 9............ provide an environment which is experienced
+
+by users similar to reality.
+
+a) Virtual reality b) Imagine reality
+
+c) Reality d) None of these
+
+10. Identify the image format given below.
+a) GIF c) MPEG
+b) JPG
+
+d) All of these
+11.
+  and
+
+images.
+are formats compress static bitmap
+a) GIF, JPG c) AVI,SND
+b) MP3,MPEG d) None of these
+6
+a 7
+b 8
+b 9
+a 10 d 11 a
+
+12. A........... file uses much more complex technique than
+
+GIF compress images.
+
+a) JPG b) MP3
+
+c) AVI d) SND
+
+13. A..........file creates a perfect reproduction of the original.
+
+a) JPG b) GIF
+
+c) SND d) AVI
+
+14. GIF is limited to an ........... bit palette.
+
+a) 5 b)6
+
+c) 7 d) 8
+
+1 5............ is not well fitted for photographic works.
+
+a) GIF b) JPG
+
+c) SND d) AVI
+
+1 6............files are a lossy format.
+
+a) JPEG b) GIF
+
+c) Both a and b d) None of these
+
+17. Digital cameras have the option to save images in ........... format.
+
+a) JPEG b) GIF
+
+c) AVI d) None of these
+
+18. The JPEG format supports full color and produces relatively ........... file sizes.
+
+a) small b) big
+
+c) very big d) none of these
+
+12 a 13 b 14 d 15 a 16 a 17 a
+
+18 a ____
+
+19. There are ...........categories of image file compression.
+
+a) one b} two
+
+c) three d)four
+
+20.........1.help in rendering the image effectively on the screen.
+
+a) Vector graphics b) Adaptor
+
+c) Both a and b d) None of these
+
+21. Two attributes control the characteristics of sound -
+
+amplitude and ...........
+
+a) frequency b) sampling
+
+c) pitch d) none of these
+
+2 2............ is the distance between the crests of the wave.
+
+a) Pitch b) Sampling
+
+c) Amplitude d) None of these
+
+2 3............also, called as the pitch.
+
+a) Amplitude b) Frequency
+
+c) Sampling d) None of these
+
+24. The conversion of analog sound waves to a digital format is called ...........
+
+a) sampling b) amplitude
+
+c) frequency d) none of these
+
+25............ is a program to add special effects , such as
+
+echo, fade in , fade out effects.
+
+a) Sound forge b) Finding nemo
+
+c) Polar express d) All of these
+
+19 b 20 a 21 a 22.........a 23......b 24......a
+
+25 a
+
+26. Animations can be classified into
+a) one c) three
+b) two d)four
+27. 2-D animations are classifieds into
+categories.
+a) one c) three
+b) two d)four
+28.
+animations consists of multiple drawings, each
+one a little different from the others, a) Cel- based animations . b) Object-based animations
+
+c) Both a and b
+
+d) None of these
+
+2 9............ animations also referred to as slide or path
+
+animations, are created by moving an object across a screen.
+
+a) Cel- based animations
+
+b) Object-based animations
+
+c) Both a and b
+
+d) None of these
+
+3 0............animations are usually seen in computer games.
+
+a) Cel- based animations b) Object-based animations
+
+c) Both a and b d) None of these
+
+3 1............is one of steps in 3-D animation.
+
+a) Modeling b) Animating
+
+c) Rendering d) All of these
+26 b 27 b 28 b 29 b 30 b 31 d
+
+32.  ......... is a technique by which you can blend two or/'
+
+more images to form a new image, a) Morphing b) Warping
+
+c) Both a and b d) None of these
+
+3 3............is the technique of distorting a single image to
+
+represent something else.
+
+a) Morphing b) Warping
+
+c) Both a and b d) None of these
+
+3 4......:...... determines the size of the video files.
+a) Frame rate b) Image size
+
+c) Color depth d) All of these
+
+35. Reducing the color depth to less than ........... colours
+
+results in the image looking murky.
+
+a) 244 b) 255
+
+c) 256 d) 258
+
+36. Reducing the frame count to less than ........... frames
+
+per second.
+
+a) 13 b) 14
+
+c) 15 d) 16
+
+37............ is a technique by which a recurring set of
+
+information is identified and replaced by a single piece of information.
+
+a) Compression b) Depression
+
+c) Both a and b d) None of these
+32 a 33 b 34 d 35 c 36 c 37 a
+
+3 8...... — retains the exact image throughout the
+
+compression
+
+a) Lossy compression b) Lossless compression
+
+c) Both a and b d) None of these
+
+3 9............results in some loss of quality.
+
+a) Lossless compression
+
+b) Lossy compression
+
+c) Both a and b
+
+d) None of these
+
+4 0............ is commonly used for transferring music
+
+information between electronic devices, a) MIDI b) AIFF f
+
+c) SND d) AVI
+41. MIDI was developed in
+a) 1981 b) 1982
+
+c) 1983 d)1984
+
+42. The ........... format cannot contain sounds-it contains
+
+only digital notes.
+
+a) MIDI b) AIFF
+
+c) SND d) AVI
+43. MIDI file that plays for approximately 5 minutes may
+
+have the file size ...........
+
+a) 10 kb b) 20 kb
+
+c) 25 kb d) 15 kb
+38 b 39 b 40 a 41 b 42 a 43 c
+
+44. Musical Instrument Digital Interface format have the
+
+extension ...........
+
+a) MID b) MIDI
+
+c) MID or MIDI ' d) AIFF
+45. The Real Audio/Real Video format was developed by a) Micro soft b) Apple
+
+c) Sun micro systemss d) Real networks
+46. Real Audio/Real Video developed in the year a) 1992 b)1993
+
+c) 1994 ’ d)1995
+4 7.....   format more popular for transfer of data over
+
+the Internet.
+
+a) MIDI ¦ ' b) RM or RAM
+
+c) SND d) AVI
+
+4 8............ allows you to stream files even over internet
+
+connections with low bandwidths. a) MIDI b) AIFF
+
+c) .rm or ram d) AVI
+49. Real audio format has the extension a) .rm b) .ram
+
+c) .rm or .ram d) .au
+50. The AIFF format was developed by ...........
+
+a) Micro soft b) Apple
+
+c) Sun micro systems d) Real networks
+44 c 45 d 46 d 47 b 48 c 49 c
+
+50 b
+
+51.
+Audio Interchange File Format have the extension
+a) .aif b) .aiff
+
+c) .aiff or .aif d) ,au .
+
+52. The sound format was developed by ...........
+
+a) Micro soft b) Apple
+
+c) Sun micro systems d) Real networks
+53. The WAVE format was developed by .... a) IBM b) Microsoft
+
+c) Both a and b d) Apple
+5 4............ format was developed for video files.
+
+a) MPEG b) MP3
+
+c) Both a and b d) None of thes®
+
+5 5............ format is used to store sounds(music).
+
+a) MPEG b) MP3
+
+c) Both a and b d) None of these
+
+56. The main reason for the popularity of the...........format
+
+offer good compression and high quality.
+
+a) MPEG b) MP3
+
+c) Both a and b d) None of these
+
+57. MP3 format have the extension ...........
+
+a) .mp3 b) .mpga
+
+c) mp3 or .mpga d) .mpeg
+51 c 52 b 53 c 54 a 55 b 56 c
+
+57 c
+
+58.
+The Audio Video Interleave format was developed by
+a) IBM b) Microsoft
+
+c) Both a and b d) Apple
+
+59. The AVI format was developed in the year...........
+
+a)1990 b)1991
+
+c) 1992 d) 1993
+
+60. The windows media format was developed by ...........
+
+a) IBM b) Microsoft
+
+c) Both a and b d) Apple
+
+61.  format requires the installation of an additional
+
+component in non-windows computers.
+
+a) .WMV b) .MPEG
+
+c) .MPGA d) .AVI
+
+62. Files in the Windows video format have the extension
+a) .WMV b) .MPEG
+
+c) .MPGA d) .AVI
+
+63. The quick time format was developed by a) IBM b) Microsoft
+
+c) Both a and b d) Apple
+64. Files in the Quick Time Format have the extension a) ,mov b) .wmv
+
+c) .swf d) .mp3
+58 b 59 c 60 b 61 a 62 a 63 d
+
+64 a
+
+65. The shockwave format was developed by ...........
+
+a) Sun micro systems b) Apple
+
+c) Macromedia d) IBM
+
+66. The shockwave format used to store multimedia components created-using ...........
+
+a) maya b) starofficelmpress
+
+c) flash d) c-f +
+
+67. The shock wave format have the extension ...........
+
+a) .mov b) .wmv
+
+c) .swf d) .mp3
+
+68. Multimedia content can be created using the softwares
+a) flash b) dreamweaver
+
+c) maya d) all of these
+
+69. When sound or video is included as part of a web page, then it is called as .......
+
+a) inline sound
+
+b) inline video
+
+c) inline sound or inline video
+
+d) none of these
+
+70. You can add inline sound to a web page by using the tag ...........
+
+a) <bgsound> b) <img>
+
+c) both a and b d) none of these
+65 c 66 c. 67 c 68 d 69 c 70 a
+
+71. You can add .inline image to a web. page, by using the tag ...........
+
+a) <bgsound> b) <img>
+
+c) both a and b • d) none of these
+
+72. Helper application can be-launched using the .......
+
+tags.
+
+a) <embed> b) <applet>
+
+c) <object> d) all of these
+
+73............ to be considered before deciding to include
+
+multimedia elements.
+
+a) Size b) Type
+
+c) Both a and b d) None of these
+
+74. During a regular ............ transfer, the entire file is
+
+downloaded to the user’s computer, a) FTP - b) HTTP
+
+c) TCP d) None of these
+
+75............ a feature would be very popular with viewers
+
+viewing the content for a second time or third time,
+
+a) Viewer control b) Dreamweaver
+
+c) Maya d) Flash
+71 b 72 d 73 c 74 b 75 a
+
+CHAPTER - 9
+
+PRESENTATION
+1. You can enhance appearance of the...........by inserting
+
+charts and tables, adding background images, slide animation and transition effects, a) presentation b) spread sheet
+
+c) database d) wordprocessor
+
+2............is the staroffice application that allows you create
+
+and attractive and professional-looking presentations, a) Star Office Writer b) Star Office Base
+
+c) Star Office Draw d) Star Office Impress
+
+3. You can create a new impress presentation from within any staroffice application by choosing ...........
+
+a) file new presentations
+
+b) start all programs star officeS star office impress
+
+c) file new -> text document
+
+d) none of these
+
+4. The first page of the presentation wizard displays...........
+
+options.
+
+a) one b) two
+
+c) three d)four
+1 a 2 d 3 a 4 c
+
+5. In the second page,the left side of the presentation
+
+wizard provides ........... categories of presentation
+
+backgrounds.
+
+a) one b) two
+
+c) three d)four
+
+6............ option allows you to specify the duration for
+
+each slide and will automatically flip through the slides at the specified speed, a) Manual b) Automatic
+
+c) Both a and b d) None of these
+
+7. Checking the...........checkbox will display the message,
+
+“Created with star office” during the pause between each presentation.
+
+a) create b) duration of page
+
+c) show logo d) none of these
+
+ 8............command is used to create a new presentation
+
+using template.
+
+a) File -» new *¦> templates and documents
+
+b) File new presentations
+
+c) Start -> all programs -> star office 8 star office
+
+impress
+
+d) File new text document
+
+ 9............is the short cut key to create new presentation
+
+using template.
+
+a) Shift + ctrl + N b) Ctrl -fn
+
+c) Shift + n d) None of these
+5 c 6 b 7 c 8 a 9 a
+
+10, The slide pane on the ........... displays a thumbnail
+
+image of the slide and allows you to rename, delete, or rearrange them.
+12.
+13.
+14.
+15.
+11. Th
+he
+to
+
+a
+
+b
+
+c
+
+d
+left
+
+middle
+
+ere are 2
+
+4
+b) right
+
+d) none of these
+
+views in the centre pane,
+
+b) 3
+
+d) 5
+ allows you to create and edit slides.
+
+Normal view b) Outline view
+
+Notes view d) Handouts view
+
+ allows you to add notes to the slides.
+
+Normal view b) Outline view
+
+Notes view d) Handouts view
+
+ allows you to reorder slides, edit slides and
+
+ading.
+
+Normal view b) Outline view
+
+Notes view d) Handouts view
+
+ view is typically used when the presentation is
+
+be printed and distributed as a handout.
+
+Normal view Outline view Notes view Handouts view
+10
+ll.
+12
+13
+14
+15 d
+
+16............ allows you to view miniature images of all the
+
+slides in the presentation.
+
+a) Slide sorter view
+
+b) Outline view
+
+c) Notes view
+
+d) Handouts view *
+
+17. For rearranging the slides, ........... can be used.
+
+a) outline view b) slide sorter view
+
+c) both a and b d) none of these
+
+1 8............ page can be used to specify basic background
+
+information that needs to be included in all the slides, a) Layouts b) Master page
+
+c) Custom animation d) Slide transition
+
+1 9............page displays various options that allow you to
+
+add or modify animation effects to elements of a slide,
+
+a) Master page b).Custom animation
+
+c) Slide transition d) Layouts
+
+2 0............page displays various transition effects that can
+
+be attracted to a slide.
+
+a) Custom animation b) Slide transition
+
+c) Master page d) Layouts
+
+2 1............key can be used to start a presentation.
+
+a) FI b)F2
+
+c) F3 d) F5
+16 a 17 b 18 c 19 b 20 c 21 d
+
+2 2............ key can be used to end the presentation.
+
+a) Escape b) Enter
+
+c) Backspace d) Ctrl
+
+2 3............ command can be used to run the custom slide
+show.
+
+a) Slide show slide show
+
+b) Slide show custom slide show
+
+c) Both a and b
+
+d) None of these
+
+24. ...........option can be used to insert a picture in a slide.
+
+a) Insert -> picture -> from file
+
+b) Insert -> slide
+
+c) Insert -> movie and sound
+
+d) None of these
+
+2 5............option can be used to insert a movie or a sound
+
+into a presentation.
+
+a) Insert -> picture -> from file
+
+b) Insert -> slide
+
+c) Insert -> movie and sound
+
+d) None of these
+
+2 6............ tools for inserting objects like charts, formula,
+
+etc. in a presentation.
+
+a) Insert object
+
+b) Insert ole object
+
+c) Insert -> movie and sound
+
+d) None of these
+22 a 23 b 24 a 25 c 26 a
+
+2 7............ option is used to import objects from other
+
+application into a presentation.
+
+a) Insert -> object
+
+b) Insert -> OLE object
+
+c) Insert -> movie and sound
+
+d) None of these
+
+2 8............is used to import applets into the presentation.
+
+a) Insert -> object
+
+b) Insert -> applet
+
+c) Insert -> movie and sound
+
+d) None of these
+
+2 9............command can be used to change the slide view
+
+with different columns of slides.
+
+a) View -> toolbars slide view
+
+b) Insert slide
+
+c) Insert applet
+
+d) None of these
+
+30. There are  .......... tabs in custom animation window.
+
+a) one b) two
+
+c) three d)four
+
+31............ menu can be used to change the background
+
+colour or background fill of the slides.
+
+a) Format -> page -> background
+
+b) View -> toolbars -> slide view
+
+c) Insert -> slide
+
+d) None of these
+27 b 28 b 29 a 30 d 31 a
+
+32. We can change the appearance of the master slide by applying a new slide design by selecting the menu
+a) format -> slide design
+
+b) format page background
+
+c) insert slide
+
+d) none of these
+
+33. To apply the slide design to all of the slides in your presentation , select the ........... check box.
+
+a) exchange background page
+
+b) delete unused backgrounds
+
+c) both a and b
+
+d) none of these
+
+33. To apply the slide design to the current slide only clear the ........... check box.
+
+a) exchange background page
+
+b) delete unused backgrounds
+
+c) both a and b
+
+d) none of these
+
+34. The stylist can be opened by pressing the key...........
+a) f8 c) ill
+b) flO d) f 12
+35. By pressing the
+key you move the line down
+one level,
+
+a) tab
+
+c) both a and b
+b) shift + tab
+
+d) none of these
+32 a 33.......: a 34........c 35
+
+
+36. By pressing the key you move the line one level up.
+a) tab b) shift+ tab
+
+c) both a and b d) none of these
+
+3 7............to select a range of slides.
+
+a) Ctrl b) Shift
+
+c) Both a and b d) None of these
+
+3 8............to select multiple slides.
+
+a) Ctrl b) Shift
+
+c) Both a and b d) None of these
+
+3 9............command can be used to hide/ show the slides.
+a) Slide show -> show/hide slide
+
+b) Slide show -> rehearse timings
+
+c) Both a and b
+
+d) None of these
+
+40............command has recorded the display time for each
+
+slide.
+
+a) Slide show show/hide slide
+
+b) Slide show -> rehearse timings
+
+c) Both a and b
+
+d) None of these
+
+41. To set the default printing options for star office impress, choose  ........
+
+a) file print
+
+b) tools -> options -> staroffice impress -> print
+
+c) both a and b
+
+d) none of these
+36 b 37 b 38 a 39 a 40 b 41 b
+
+42. We can reduce the size of a slide when you print, so that a slide can fit on a printed page by selecting...........
+
+a) format page
+
+b) file -> print
+
+c) tools -> options
+
+d) none of these
+
+43. Using the navigator, you can move from slide to slide quickly by activating the navigating button by selecting the menu ...........
+
+a) file print
+
+b) tools -> options
+
+c) edit -> navigator
+
+d) none of these
+
+44. Sending the presentation as HTML page by selecting the menu ...........
+
+a) file print b) file -> export
+
+c) file -> import d) none of these
+42 a 43 c 44 b
+
+End

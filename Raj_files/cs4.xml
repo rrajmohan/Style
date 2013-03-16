@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<chapter-questions>
+<chapter name = "WORKING WITH TABLES" number="04">
+<question>
+<questionId>TNHSCS040001</questionId>
+<question-text>Star Office writer displays the ......  as a grid with specified number of rows and columns.</question-text>
+<answer1>equation</answer1>
+<answer2>table</answer2>
+<answer3>document</answer3>
+<answer4>none of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>table</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040002</questionId>
+<question-text>Insert table dialog box can be opened by selecting the menu ..... ></question-text>
+<answer1>table -> insert table</answer1>
+<answer2>table -^ insert rows</answer2>
+<answer3>table.insert columns</answer3>
+<answer4>none of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>table -> insert table</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040003</questionId>
+<question-text>Floating tool bar for inserting function has the INSERT TABLE icon in the ........... place.</question-text>
+<answer1>fourth</answer1>
+<answer2>third</answer2>
+<answer3>second</answer3>
+<answer4>first</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>first</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040004</questionId>
+<question-text>Once the table is created, StarOffice Writer places in the insertion point in the ......... cell of the table.</question-text>
+<answer1>first</answer1>
+<answer2>second</answer2>
+<answer3>third</answer3>
+<answer4>fourth</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>first</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040005</questionId>
+<question-text>.......... is the intersection of a column and a row.</question-text>
+<answer1>Cell</answer1>
+<answer2>Text</answer2>
+<answer3>Both a and b</answer3>
+<answer4>None of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Cell</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040006</questionId>
+<question-text>.......... key is used to move forward through cells.</question-text>
+<answer1>Tab</answer1>
+<answer2>Shift + tab</answer2>
+<answer3>Right arrow</answer3>
+<answer4>Left arrow</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Tab</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040007</questionId>
+<question-text>.......... key is used to move backward through cells.</question-text>
+<answer1>Tab</answer1>
+<answer2>Shift + tab</answer2>
+<answer3>Right arrow</answer3>
+<answer4>Left arrow</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Shift + tab</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040008</questionId>
+<question-text>If the entry in a cell is long, it automatically increases ........</question-text>
+<answer1>height</answer1>
+<answer2>width</answer2>
+<answer3>both a and b</answer3>
+<answer4>none of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>height</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040009</questionId>
+<question-text>The simplest way to add a row is to press ........... in the last row of the table.</question-text>
+<answer1>ctrl</answer1>
+<answer2>tab</answer2>
+<answer3>shift</answer3>
+<answer4>delete</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>tab</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040010</questionId>
+<question-text>To insert more than one row in a table ......  to be clicked.</question-text>
+<answer1>tableinsert-> row</answer1>
+<answer2>table-> insert -> column</answer2>
+<answer3>tabled insert</answer3>
+<answer4>insert-> table</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>tableinsert-> row</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040011</questionId>
+<question-text>By pressing the tab key in the last row of the table  rows to be inserted.</question-text>
+<answer1>one</answer1>
+<answer2>two</answer2>
+<answer3>three</answer3>
+<answer4>four</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>one</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040012</questionId>
+<question-text>By pressing the delete key after selecting the table, it will erase ..........</question-text>
+<answer1>contents of the table</answer1>
+<answer2>entire table</answer2>
+<answer3>both a and b</answer3>
+<answer4>none of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>contents of the table</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040013</questionId>
+<question-text>To resize a column, place the cursor in a table cell, hold down  ......  and then press the left or right arrow.</question-text>
+<answer1>ctrl</answer1>
+<answer2>delete</answer2>
+<answer3>alt</answer3>
+<answer4>shift</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionId>TNHSCS040014</questionId>
+<question-text>To resize the column without changing the width of the table, hold down  and then press the left or right arrows.</question-text>
+<answer1>shift + ctrl</answer1>
+<answer2>alt + ctrl</answer2>
+<answer3>ctrl + alt</answer3>
+<answer4>ctrl + end</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>alt + ctrl</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040015</questionId>
+<question-text>To resize a row, place the cursor in a table cell, hold down  ..... and then press the up or down arrow.</question-text>
+<answer1>ctrl</answer1>
+<answer2>delete</answer2>
+<answer3>alt</answer3>
+<answer4>shift</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>alt</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040016</questionId>
+<question-text>To make all column even, ........... dick inside the table and select column space equally in the pop-up menu.</question-text>
+<answer1>alt</answer1>
+<answer2>right</answer2>
+<answer3>center</answer3>
+<answer4>none of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>right</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040017</questionId>
+<question-text>To make all rows even, ......  click inside the table and select rows space equally in the pop-up menu.</question-text>
+<answer1>left</answer1>
+<answer2>right</answer2>
+<answer3>center</answer3>
+<answer4>none of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>right</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040018</questionId>
+<question-text>.......... lcon is used to combine two or more cell into a single cell.</question-text>
+<answer1>Merge cells</answer1>
+<answer2>Split cells</answer2>
+<answer3>Optimize</answer3>
+<answer4>B orders</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Merge cells</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040019</questionId>
+<question-text>........... icon is used to split a cell into two or more cells.</question-text>
+<answer1>Merge cells</answer1>
+<answer2>Split cells</answer2>
+<answer3>Optimize</answer3>
+<answer4>B orders</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Split cells</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040020</questionId>
+<question-text>........... icon is used to insert a row below the current row.</question-text>
+<answer1>Inserting row</answer1>
+<answer2>Inserting column</answer2>
+<answer3>Delete row</answer3>
+<answer4>Delete column</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Inserting row</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040021</questionId>
+<question-text>........... icon is used to insert a column after the current column.</question-text>
+<answer1>Inserting row</answer1>
+<answer2>Inserting column</answer2>
+<answer3>Delete row</answer3>
+<answer4>Delete column</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Inserting column</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040022</questionId>
+<question-text>........... icon is used to deletes the current row from the table.</question-text>
+<answer1>Delete row</answer1>
+<answer2>Delete column</answer2>
+<answer3>Insert row</answer3>
+<answer4>Insert column</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Delete row</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040023</questionId>
+<question-text>........... icon is used to deletes the current column from the table.</question-text>
+<answer1>Delete row</answer1>
+<answer2>Delete column</answer2>
+<answer3>Insert row</answer3>
+<answer4>Insert column</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Delete column</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040024</questionId>
+<question-text>icon displays a floating toolbar with different border option for the table.</question-text>
+<answer1>Borders</answer1>
+<answer2>Line style</answer2>
+<answer3>Border colour</answer3>
+<answer4>None of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Borders</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040025</questionId>
+<question-text>........... icon is used to choose the style of line to be used for the border.</question-text>
+<answer1>Line style</answer1>
+<answer2>Borders</answer2>
+<answer3>Border colour</answer3>
+<answer4>None of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Line style</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040026</questionId>
+<question-text>........... icon displays a palette of colours that can be used as a border colour of the table,</question-text>
+<answer1>Line style</answer1>
+<answer2>Borders</answer2>
+<answer3>Border colour</answer3>
+<answer4>None of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Border colour</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040027</questionId>
+<question-text>dialog can be used to set the width of the column to an exact size.</question-text>
+<answer1>Character</answer1>
+<answer2>Paragraph</answer2>
+<answer3>Table format</answer3>
+<answer4>None of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Table format</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040028</questionId>
+<question-text>........... tool bar is used to change the borders of the table.</question-text>
+<answer1>Table formatting</answer1>
+<answer2>Standard</answer2>
+<answer3>Formatting</answer3>
+<answer4>None of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Table formatting</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040029</questionId>
+<question-text>Every table should be identified by a specific .......!</question-text>
+<answer1>field</answer1>
+<answer2>record</answer2>
+<answer3>name</answer3>
+<answer4>none of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>name</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS040030</questionId>
+<question-text>To resize a table column, we can activate the menu</question-text>
+<answer1>table insert</answer1>
+<answer2>table -> table properties</answer2>
+<answer3>both a and b</answer3>
+<answer4>none of these</answer4>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>table -> table properties</correctAnswer>
+</question>
+</chapter>
+</chapter-questions>

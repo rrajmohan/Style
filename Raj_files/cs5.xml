@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<chapter-questions>
+<chapter name = "PAGE FORMATTING" number="05">
+<question>
+<questionId>TNHSCS050001</questionId>
+<question-text>The default margins are  ....... inch top and bottom margins and  ........ inches left and right margins.</question-text>
+<answer1>1, 1.25</answer1>
+<answer2>1.25, 1</answer2>
+<answer3>1, 1 •</answer3>
+<answer4>1, 0.5</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>1, 1.25</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050002</questionId>
+<question-text>We can change the margins by selecting ...........</question-text>
+<answer1>ruler</answer1>
+<answer2>tool bar</answer2>
+<answer3>status bar</answer3>
+<answer4>title bar</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>ruler</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050003</questionId>
+<question-text>Page style dialog box can be activated by using the menu</question-text>
+<answer1>format -> character</answer1>
+<answer2>format -> table</answer2>
+<answer3>format -> page</answer3>
+<answer4>none of these</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>format -> page</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050004</questionId>
+<question-text>.........  option in the File menu can be used to see the change.</question-text>
+<answer1>Page preview</answer1>
+<answer2>Page view</answer2>
+<answer3>Preview</answer3>
+<answer4>None of these</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>Page preview</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050005</questionId>
+<question-text>The ruler can be displayed by activating the menu</question-text>
+<answer1>view ruler</answer1>
+<answer2>tools -> view</answer2>
+<answer3>file -> open</answer3>
+<answer4>none of these</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>view ruler</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050006</questionId>
+<question-text>The gray area of the ruler indicates the margin’s ...... area.</question-text>
+<answer1>bottom</answer1>
+<answer2>center</answer2>
+<answer3>top</answer3>
+<answer4>none of these</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>top</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050007</questionId>
+<question-text>The length of a document is more than the width, this orientation is called ........</question-text>
+<answer1>portrait</answer1>
+<answer2>landscape</answer2>
+<answer3>both a and b</answer3>
+<answer4>none of these</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>portrait</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050008</questionId>
+<question-text>The length of a document is less than the width , this orientation is called ...........</question-text>
+<answer1>portrait</answer1>
+<answer2>landscape</answer2>
+<answer3>both a and b</answer3>
+<answer4>none of these</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>landscape</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050009</questionId>
+<question-text>There are ........... types of orientation in staroffice.</question-text>
+<answer1>one</answer1>
+<answer2>two</answer2>
+<answer3>three</answer3>
+<answer4>four</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050010</questionId>
+<question-text>........... is an area at the top of page.</question-text>
+<answer1>Footer</answer1>
+<answer2>Header</answer2>
+<answer3>Header and footer</answer3>
+<answer4>None of these</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>Header</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050011</questionId>
+<question-text>......... Is an area at the bottom of a page.</question-text>
+<answer1>Header</answer1>
+<answer2>Footer</answer2>
+<answer3>Header and footer</answer3>
+<answer4>None of these</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>Footer</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050012</questionId>
+<question-text>In the header tab of the page style dialog box, there is  spin boxes.</question-text>
+<answer1>one</answer1>
+<answer2>two</answer2>
+<answer3>three</answer3>
+<answer4>four</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050013</questionId>
+<question-text>Most documents are printed in  ..... inch by ........... inch paper.</question-text>
+<answer1>11,8.5</answer1>
+<answer2>8.5, 11</answer2>
+<answer3>8.0,10.0</answer3>
+<answer4>10.0,11.0</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>10.0,11.0</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050014</questionId>
+<question-text>........... menu is used to give the page numbers for all pages of a document.</question-text>
+<answer1>Insert -> fields</answer1>
+<answer2>Insert -> fields -> page numbers</answer2>
+<answer3>Both a and b</answer3>
+<answer4>None of these</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert -> fields -> page numbers</correctAnswer>
+</question>
+<question>
+<questionId>TNHSCS050015</questionId>
+<question-text>Once the page numbers have been inserted, their format can be changed using the ........... dialog box.</question-text>
+<answer1>page style</answer1>
+<answer2>format style</answer2>
+<answer3>table format</answer3>
+<answer4>none of these</answer4>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>page style</correctAnswer>
+</question>
+</chapter>
+</chapter-questions>

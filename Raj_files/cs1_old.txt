@@ -1,0 +1,333 @@
+CHAPTER - 1
+
+AN INTRODUCTION TO STAROFFICE WRITER
+
+1. .............is an application that is designed to work on different operating systems.
+
+a) Star office b) Notepad c) Wordpad d) None of these
+
+2. .............is a Staroffice function.
+
+a) Star office writer b) Notepad c) Word pad d)	C+ +
+
+3. .............is used	to create text document
+
+a) Star office calc b) Star office draw c) Star office impress d) Star office writer
+
+4. .............is used	to create a spread shee
+
+a) Star office calc b) Star office draw c) Star office impress d) Star office writer
+
+5. .......   is	used to	create a presentation
+
+a) Star office calc b) Star office draw c) Star office impress d) Star office writer
+
+6. .............is used	to create a spread sheet
+
+a) Star office calc b) Star office draw c) Star office impress d) Star office writer
+
+7. .............is used to create a database
+
+a) Star	office calc b) Star office base c) Star	office impress d) Star office writer
+
+8. .............is used to draw
+
+a) Star	office calc b) Star office draw c) Star	office impress d) Star office base
+
+9. .............is a word processor
+
+a) Star office writer b) Note pad c) Dos editor	d) None of these
+
+10. A ............. may contain text, labels, graphs, charts, equations, pictures and drawings, 
+
+a) document b) database c) both a and b d) none of these
+
+11. .............is an example of commercially available word processing packages.
+
+a) Lotus AmiPro	b) Word Star c) Ms Word	d) All of these
+
+12. .............is the default name of a file which you created using staroffice writer, 
+
+a) Documentl b)Textl c) Untitledl d) Untitled
+
+13. ............. always indicates where new text will appear
+
+a) Vertical bar	b) Insertion point c) Both a and b d) None of these
+
+14. ............. should be pressed only at the end of the paragraph or when a blank line is to be inserted, 
+
+a) Backspace b) Delete c) Enter	d) Ctrl
+
+15. To select a drive in save as dialog box  to be clicked.
+
+a) file icon b) cut icon c) copy icon d) up one level icon
+
+16. ............. is the short cut key to do the save action.
+
+a) Ctrl + b b) Ctrl + s c) Ctrl + e d) Ctrl + v
+
+17. ............. is the command to close the file.
+
+a) Alt + f4 b) Ctrl + a c) File -> exit	d) File -> close
+
+18. ............. menu is used to switch over between documents.
+
+a) View	b) Format c) Window d) Table
+
+19. By clicking the buttons visible on the ............., we can switch over between documents.
+
+a) menu bar b) status bar c) task bar d) tool bar
+
+20. The thick horizontal line in the page area is called the
+
+a) end-of-document marker b) end-of-file marker c) both a and b	d) none
+
+21. To move the insertion point with the mouse, the mouse pointer is moved to the required spot and the mouse button is .............
+
+a) clicked b) dragged c) clicked and dragged d) none of these
+
+22. To move the insertion point one character to the left ............. key is used.
+
+a) left arrow b) right arrow c) both a and b d) down arrow
+
+23. To move the insertion point one character to the right ............. key is used.
+
+a) left arrow b) right arrow c) both a and b d) down arrow
+
+24. To move the insertion point one word to the left ..........key is used.
+
+a) left	arrow b) right arrow c)	ctrl + left arrow d) ctrl + right arrow
+
+25. To move the insertion point one word to the right ............. key	is used.
+
+a) left arrow b) right arrow c)	ctrl + left arrow d) ctrl 4- right arrow
+
+26. To move the insertion point one cell to the left ............. key is used.
+
+a) left arrow b) shift + tab c)	ctrl + left arrow d) ctrl + right arrow
+
+27. To move the insertion point one cell to the right ............. key	is used.
+
+a) tab b) shift + tab c) ctrl 4- left arrow d) ctrl + right arrow
+
+28. To move the insertion point one line up...........key is used.
+
+a) up arrow b) down arrow c) ctrl + left arrow	d) ctrl + right arrow
+
+29. To move the insertion point one line down ............. key is used.
+
+a) up arrow b) down arrow c) Ctrl + left arrow d) ctrl + right arrow
+
+30. To move the insertion point to the end of a line ............. key is used.
+
+a) end	b) home c) ctrl + left arrow d) ctrl + right arrow
+
+31. To move the insertion point to the beginning of a line ............. key is used.
+
+a) end b) home c) ctrl 4- left arrow d) ctrl + right arrow
+
+32. To move the insertion point to the end of the document ............. key is used.
+
+a) end b) ctrl + end c) ctrl + left arrow d) ctrl + right arrow
+
+33. To move the insertion point to the beginning of the document ............. key is used.
+
+a) ctrl + end b) ctrl + home c) ctrl +	left arrow d) ctrl + right arrow
+
+34. To scroll the screen one page up ............. key is used.
+
+a) page down b)	page up c) Ctrl + up arrow d) ctrl + down arrow
+
+35. To scroll the screen one page down.............key is used.
+
+a) page down b) page up c) ctrl + up arrow d) ctrl + down arrow
+
+36. If the document is long the text can be scrolled through without moving the .............
+
+a) mouse pointer b) insertion point c) both a and b d) none of these
+
+37. If there are several pages in the document the user can know the page number by looking at the pop-up page number that appears next to the .............
+
+a) status bar b) menu bar c) tool bar d) scroll bar
+
+38. In a document there are ............. sets	of scroll arrows one for up and down movement.
+
+a) one	b) two c) three	d) four
+
+39. ............. key deletes the characters to the left of the insertion point.
+
+a) Delete b) Backspace c) Both a and b d) None of these
+
+40. ............. key deletes the characters to the right of the insertion point.
+
+a) Delete b) Backspace c) Both a and b d) None of these
+
+41. The user in the ........... mode, if the text existing to the right of the insertion disappears, while typing a new text, 
+
+a) insert b) type-over c) both a and b	d) none of these
+
+42. The user can toggle between type-over mode and the insert mode by using the ............. key.
+
+a) del b) insert c) backspace d) ctrl
+
+43. ............. gives	the information about the current mode(insert or type-over mode) 
+
+a) Menu bar b) Title bar c) Tool bar d) Status bar
+
+44. The ............. mouse button	should be clicked, held down and dragged across the text to be selected.
+
+a) right b) left c) both a and b d) none of these
+
+45. To unselect the wrongly selected text a ............. should be made outside the selected text.
+
+a) click b) drag c) double click d) none of these
+
+46. The ............. key is pressed down and the movement keys are used to highlight the required text.
+
+a) shift b) ctrl c) both a and b d) back space
+
+47. To select a word ............. click is to be made.
+
+a) single b) double c) thrice d) none of these
+
+48. ............. key is used to select the entire document.
+
+a) Ctrl + A b) Ctrl + C c) Ctrl 4- E d)	Ctrl + J
+
+49. ............. set of keys can be used to move a text.
+
+a) Ctrl + X b) Ctrl + V c) Both a and b d) None of these
+
+50. ............. set	of	keys can be used to copy a text.
+
+a) Ctrl + C b) Ctrl + V c) Both a and b d) None of these
+
+51. In the............. box, type the text that you want to find your document.
+
+a) find	b) replace with c) search for d) none of these
+
+52. In the ........... box, enter the replacement word or phrase.
+
+a) find	b) replace with c) search for d) none of these
+
+53. To skip the current occurrence of a word found ............. to be pressed.
+
+a) find	b) find all c) replace d) replace all
+
+54. To replace the current occurrence of a word found ............. to be pressed.
+
+a) find	b) find all c) replace d) replace all
+
+55. To replace all the occurrence of a word found ............. to be pressed.
+
+a) find	b) find all c) replace d) replace all
+
+answer 1 a
+
+answer 2 a
+
+answer 3 d
+
+answer 4 a
+
+answer 5 c
+
+answer 6 a
+
+answer 7 b
+
+answer 8 b
+
+answer 9 a
+
+answer 10 a
+
+answer 11 d
+
+answer 12 c
+
+answer 13 b
+
+answer 14 c
+
+answer 15 d
+
+answer 16 b
+
+answer 17 a
+
+answer 18 c
+
+answer 19 c
+
+answer 20 a
+
+answer 21 a
+
+answer 22 a
+
+answer 23 b
+
+answer 24 c
+
+answer 25 d
+
+answer 26 b
+
+answer 27 a
+
+answer 28 a
+
+answer 29 b
+
+answer 30 a
+
+answer 31 b
+
+answer 32 b
+
+answer 33 b
+
+answer 34 b
+
+answer 35 a
+
+answer 36 b
+
+answer 37 d
+
+answer 38 a
+
+answer 39 b
+
+answer 40 a
+
+answer 41 b
+
+answer 42 b
+
+answer 43 d
+
+answer 44 b
+
+answer 45 a
+
+answer 46 c
+
+answer 47 b
+
+answer 48 a
+
+answer 49 c
+
+answer 50 c
+
+answer 51 a
+
+answer 52 b
+
+answer 53 a
+
+answer 54 c
+
+answer 55 d

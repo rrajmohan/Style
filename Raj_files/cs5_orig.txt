@@ -1,0 +1,121 @@
+CHAPTER - 5
+
+PAGE FORMATTING
+1. The default margins are  ....... inch	top and bottom
+
+margins and  ........ inches	left	and	right	margins.
+
+a) 1, 1.25	b) 1.25, 1
+
+c) 1, 1	•	d) 1, 0.5
+
+2. We can change the margins by selecting ...........
+
+a) ruler	b)	tool bar
+
+c) status bar	d)	title bar
+
+3. Page style dialog box can be activated by using the menu
+
+a) format -> character b)	format -> table
+
+c) format -> page	d)	none of these
+
+4..........  option	in	the File menu can be used to see the
+
+change.
+
+a) Page preview	b)	Page view .
+
+c) Preview	d)	None of these
+
+5.	The ruler can be displayed by activating the menu
+
+a)	view ruler	b)	tools -> view
+
+c)	file -> open	d)	none of these
+1  a '	2 a 3 c 4 a 5 a
+
+6. The gray area of the ruler indicates the margin’s ......
+
+area.
+
+a) bottom	b)	center
+
+. c) top	d)	none of	these
+
+7. The length of a document	is more than	the width, this
+
+orientation is called  ........
+
+a) portrait	b)	landscape
+
+c) both a and	b	d)	none of these
+
+8. The length of a document is less than the width , this orientation is called ...........
+
+a) portrait	b)	landscape
+
+c) both a and	b	d)	none of these
+
+9. Most documents are printed in  ..... inch	by ...........
+
+inch paper.
+
+a) 11,8.5	b)	8.5, 11
+
+c) 8.0,10.0	d)	10.0,11.0
+
+10. There are ........... types	of	orientation in staroffice.
+
+a)	one	b)	two •
+
+c)	three	d)four
+
+11............ is	an	area	at	the	top	of page.
+
+a) Footer
+
+b) Header
+
+c) Header and footer
+
+d) None of these
+6 c 7..' a -8 ...........b 9 b 10 b 11 b
+
+12.  ......... Is an area at the	bottom of a page.
+
+a) Header
+
+b) Footer
+
+c) Header and footer
+
+d) None of these
+
+13. In the header tab of the page style dialog box, there is    spin boxes.
+
+a) one	b)	two,
+
+c) three	d)four
+
+14.	........... menu is used to	give the page numbers	for all
+
+pages of a document.
+
+a) Insert -> fields
+
+b) Insert -> fields -> page numbers
+
+c) Both a and b
+
+d) None of these
+
+15. Once the page numbers have been inserted, their format can be changed using the ........... dialog	box.
+
+a)	page style	b)	format style
+
+c)	table format	d)	none	of these
+
+12 b 13 d 14 b 15 a
+
