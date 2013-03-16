@@ -1,0 +1,4305 @@
+<chapter-questions>
+<chapter name = "AN INTRODUCTION TO STAROFFICE WRITER" number="01">
+<question>
+<questionID>TNHSCS01010001</questionID>
+<question-text>.............is an application that is designed to work on different operating systems.</question-text>
+<answer0>Star office</answer0>
+<answer1>Notepad</answer1>
+<answer2>Wordpad</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010002</questionID>
+<question-text>.............is a Staroffice function.</question-text>
+<answer0>Star office writer</answer0>
+<answer1>Notepad</answer1>
+<answer2>Word pad</answer2>
+<answer3>C+ +</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office writer</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010003</questionID>
+<question-text>.............is used to create text document</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office draw</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office writer</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office writer</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010004</questionID>
+<question-text>.............is used to create a spreadsheet</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office draw</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office writer</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office calc</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010005</questionID>
+<question-text>.......   is used to create a presentation</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office draw</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office writer</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office impress</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010006</questionID>
+<question-text>.............is used to create a spread sheet</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office draw</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office writer</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office calc</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010007</questionID>
+<question-text>.............is used to create a database</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office base</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office writer</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office base</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010008</questionID>
+<question-text>.............is used to draw</question-text>
+<answer0>Star office calc</answer0>
+<answer1>Star office draw</answer1>
+<answer2>Star office impress</answer2>
+<answer3>Star office base</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office draw</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010009</questionID>
+<question-text>.............is a word processor</question-text>
+<answer0>Star office writer</answer0>
+<answer1>Note pad</answer1>
+<answer2>Dos editor</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star office writer</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010010</questionID>
+<question-text>A ............. may contain text, labels, graphs, charts, equations, pictures and drawings,</question-text>
+<answer0>document</answer0>
+<answer1>database</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>document</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010011</questionID>
+<question-text>.............is an example of commercially available word processing packages.</question-text>
+<answer0>Lotus AmiPro</answer0>
+<answer1>Word Star</answer1>
+<answer2>Ms Word</answer2>
+<answer3>All of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010012</questionID>
+<question-text>.............is the default name of a file which you created using staroffice writer,</question-text>
+<answer0>Documentl</answer0>
+<answer1>Textl</answer1>
+<answer2>Untitledl</answer2>
+<answer3>Untitled</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Untitledl</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010013</questionID>
+<question-text>............. always indicates where new text will appear</question-text>
+<answer0>Vertical bar</answer0>
+<answer1>Insertion point</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insertion point</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010014</questionID>
+<question-text>............. should be pressed only at the end of the paragraph or when a blank line is to be inserted,</question-text>
+<answer0>Backspace</answer0>
+<answer1>Delete</answer1>
+<answer2>Enter</answer2>
+<answer3>Ctrl</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Enter</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010015</questionID>
+<question-text>To select a drive in save as dialog box _____to be clicked.</question-text>
+<answer0>file icon</answer0>
+<answer1>cut icon</answer1>
+<answer2>copy icon</answer2>
+<answer3>up one level icon</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>up one level icon</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010016</questionID>
+<question-text>............. is the short cut key to do the save action.</question-text>
+<answer0>Ctrl + b</answer0>
+<answer1>Ctrl + s</answer1>
+<answer2>Ctrl + e</answer2>
+<answer3>Ctrl + v</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + s</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010017</questionID>
+<question-text>............. is the command to close the file.</question-text>
+<answer0>Alt + f4</answer0>
+<answer1>Ctrl + a</answer1>
+<answer2>File -> exit</answer2>
+<answer3>File -> close</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>File -> close</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010018</questionID>
+<question-text>............. menu is used to switch over between documents.</question-text>
+<answer0>View</answer0>
+<answer1>Format</answer1>
+<answer2>Window</answer2>
+<answer3>Table</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Window</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010019</questionID>
+<question-text>By clicking the buttons visible on the ............., we can switch over between documents.</question-text>
+<answer0>menu bar</answer0>
+<answer1>status bar</answer1>
+<answer2>task bar</answer2>
+<answer3>tool bar</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>task bar</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010020</questionID>
+<question-text>The thick horizontal line in the page area is called the</question-text>
+<answer0>end-of-document marker</answer0>
+<answer1>end-of-file marker</answer1>
+<answer2>both a and b</answer2>
+<answer3>none</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>end-of-document marker</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010021</questionID>
+<question-text>To move the insertion point with the mouse, the mouse pointer is moved to the required spot and the mouse button is .............</question-text>
+<answer0>clicked</answer0>
+<answer1>dragged</answer1>
+<answer2>clicked and dragged</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>clicked</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010022</questionID>
+<question-text>To move the insertion point one character to the left ............. key is used.</question-text>
+<answer0>left arrow</answer0>
+<answer1>right arrow</answer1>
+<answer2>both a and b</answer2>
+<answer3>down arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>left arrow</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010023</questionID>
+<question-text>To move the insertion point one character to the right ............. key is used.</question-text>
+<answer0>left arrow</answer0>
+<answer1>right arrow</answer1>
+<answer2>both a and b</answer2>
+<answer3>down arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>right arrow</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010024</questionID>
+<question-text>To move the insertion point one word to the left ..........key is used.</question-text>
+<answer0>left arrow</answer0>
+<answer1>right arrow</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>ctrl + left arrow</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010025</questionID>
+<question-text>To move the insertion point one word to the right ............. key is used.</question-text>
+<answer0>left arrow</answer0>
+<answer1>right arrow</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>ctrl + right arrow</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010026</questionID>
+<question-text>To move the insertion point one cell to the left ............. key is used.</question-text>
+<answer0>left arrow</answer0>
+<answer1>shift + tab</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>shift + tab</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010027</questionID>
+<question-text>To move the insertion point one cell to the right ............. key is used.</question-text>
+<answer0>tab</answer0>
+<answer1>shift + tab</answer1>
+<answer2>ctrl 4- left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>tab</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010028</questionID>
+<question-text>To move the insertion point one line up...........key is used.</question-text>
+<answer0>up arrow</answer0>
+<answer1>down arrow</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>up arrow</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010029</questionID>
+<question-text>To move the insertion point one line down ............. key is used.</question-text>
+<answer0>up arrow</answer0>
+<answer1>down arrow</answer1>
+<answer2>Ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>down arrow</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010030</questionID>
+<question-text>To move the insertion point to the end of a line ............. key is used.</question-text>
+<answer0>end</answer0>
+<answer1>home</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>end</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010031</questionID>
+<question-text>To move the insertion point to the beginning of a line ............. key is used.</question-text>
+<answer0>end</answer0>
+<answer1>home</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>home</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010032</questionID>
+<question-text>To move the insertion point to the end of the document ............. key is used.</question-text>
+<answer0>end</answer0>
+<answer1>ctrl + end</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>ctrl + end</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010033</questionID>
+<question-text>To move the insertion point to the beginning of the document ............. key is used.</question-text>
+<answer0>ctrl + end</answer0>
+<answer1>ctrl + home</answer1>
+<answer2>ctrl + left arrow</answer2>
+<answer3>ctrl + right arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>ctrl + home</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010034</questionID>
+<question-text>To scroll the screen one page up ............. key is used.</question-text>
+<answer0>page down</answer0>
+<answer1>page up</answer1>
+<answer2>Ctrl + up arrow</answer2>
+<answer3>ctrl + down arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>page up</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010035</questionID>
+<question-text>To scroll the screen one page down.............key is used.</question-text>
+<answer0>page down</answer0>
+<answer1>page up</answer1>
+<answer2>ctrl + up arrow</answer2>
+<answer3>ctrl + down arrow</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>page down</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010036</questionID>
+<question-text>If the document is long the text can be scrolled through without moving the .............</question-text>
+<answer0>mouse pointer</answer0>
+<answer1>insertion point</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>insertion point</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010037</questionID>
+<question-text>If there are several pages in the document the user can know the page number by looking at the pop-up page number that appears next to the .............</question-text>
+<answer0>status bar</answer0>
+<answer1>menu bar</answer1>
+<answer2>tool bar</answer2>
+<answer3>scroll bar</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>scroll bar</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010038</questionID>
+<question-text>In a document there are ............. sets of scroll arrows one for up and down movement.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010039</questionID>
+<question-text>............. key deletes the characters to the left of the insertion point.</question-text>
+<answer0>Delete</answer0>
+<answer1>Backspace</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Backspace</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010040</questionID>
+<question-text>............. key deletes the characters to the right of the insertion point.</question-text>
+<answer0>Delete</answer0>
+<answer1>Backspace</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Delete</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010041</questionID>
+<question-text>The user in the ........... mode, if the text existing to the right of the insertion disappears, while typing a new text,</question-text>
+<answer0>insert</answer0>
+<answer1>type-over</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>type-over</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010042</questionID>
+<question-text>The user can toggle between type-over mode and the insert mode by using the ............. key.</question-text>
+<answer0>del</answer0>
+<answer1>insert</answer1>
+<answer2>backspace</answer2>
+<answer3>ctrl</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>insert</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010043</questionID>
+<question-text>............. gives the information about the current mode(insert or type-over mode)</question-text>
+<answer0>Menu bar</answer0>
+<answer1>Title bar</answer1>
+<answer2>Tool bar</answer2>
+<answer3>Status bar</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Status bar</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010044</questionID>
+<question-text>The ............. mouse button should be clicked, held down and dragged across the text to be selected.</question-text>
+<answer0>right</answer0>
+<answer1>left</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>left</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010045</questionID>
+<question-text>To unselect the wrongly selected text a ............. should be made outside the selected text.</question-text>
+<answer0>click</answer0>
+<answer1>drag</answer1>
+<answer2>double click</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>click</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010046</questionID>
+<question-text>The ............. key is pressed down and the movement keys are used to highlight the required text.</question-text>
+<answer0>shift</answer0>
+<answer1>ctrl</answer1>
+<answer2>both a and b</answer2>
+<answer3>back space</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>shift</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010047</questionID>
+<question-text>To select a word ............. click is to be made.</question-text>
+<answer0>single</answer0>
+<answer1>double</answer1>
+<answer2>thrice</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>double</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010048</questionID>
+<question-text>............. key is used to select the entire document.</question-text>
+<answer0>Ctrl + A</answer0>
+<answer1>Ctrl + C</answer1>
+<answer2>Ctrl + E</answer2>
+<answer3>Ctrl + J</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + A</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010049</questionID>
+<question-text>............. set of keys can be used to move a text.</question-text>
+<answer0>Ctrl + X</answer0>
+<answer1>Ctrl + V</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010050</questionID>
+<question-text>............. set of keys can be used to copy a text.</question-text>
+<answer0>Ctrl + C</answer0>
+<answer1>Ctrl + V</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010051</questionID>
+<question-text>In the............. box, type the text that you want to find your document.</question-text>
+<answer0>find</answer0>
+<answer1>replace with</answer1>
+<answer2>search for</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>search for</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010052</questionID>
+<question-text>In the ........... box, enter the replacement word or phrase.</question-text>
+<answer0>find</answer0>
+<answer1>replace with</answer1>
+<answer2>search for</answer2>
+<answer3>none of these</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>replace with</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010053</questionID>
+<question-text>To skip the current occurrence of a word found ............. to be pressed.</question-text>
+<answer0>find</answer0>
+<answer1>find all</answer1>
+<answer2>replace</answer2>
+<answer3>replace all</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>find</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010054</questionID>
+<question-text>To replace the current occurrence of a word found ............. to be pressed.</question-text>
+<answer0>find</answer0>
+<answer1>find all</answer1>
+<answer2>replace</answer2>
+<answer3>replace all</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>replace</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01010055</questionID>
+<question-text>To replace all the occurrence of a word found ............. to be pressed.</question-text>
+<answer0>find</answer0>
+<answer1>find all</answer1>
+<answer2>replace</answer2>
+<answer3>replace all</answer3>
+<grouping>01</grouping>
+<weightage>8</weightage>
+<correctAnswer>replace all</correctAnswer>
+</question>
+</chapter>
+
+
+<chapter name = "TEXT FORMATTING" number="02">
+<question>
+<questionID>TNHSCS01020001</questionID>
+<question-text>A text without any special formatting can have a ........... appearance.</question-text>
+<answer0>monotonous</answer0>
+<answer1>quotations</answer1>
+<answer2>highlight</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>monotonous</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020002</questionID>
+<question-text>Bold, italic or ........... are the most common types of text formatting.</question-text>
+<answer0>font</answer0>
+<answer1>underlined</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>underlined</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020003</questionID>
+<question-text>Bold, italic or underlined option can be selected by activating the ........... option in the character dialog box.</question-text>
+<answer0>typeface</answer0>
+<answer1>font</answer1>
+<answer2>size</answer2>
+<answer3>languages</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>typeface</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020004</questionID>
+<question-text>........... is the short cut key for activating bold.</question-text>
+<answer0>Ctrl + B</answer0>
+<answer1>Ctrl + I</answer1>
+<answer2>Ctrl + U</answer2>
+<answer3>Ctrl + A .... 1</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + B</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020005</questionID>
+<question-text>........... is the short cut key for activating italic.</question-text>
+<answer0>Ctrl + B</answer0>
+<answer1>Ctrl + I</answer1>
+<answer2>Ctrl + U</answer2>
+<answer3>Ctrl + A</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + I</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020006</questionID>
+<question-text>........... is the short cut key for activating underline.</question-text>
+<answer0>Ctrl + B</answer0>
+<answer1>Ctrl + I</answer1>
+<answer2>Ctrl + U</answer2>
+<answer3>Ctrl + A</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + U</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020007</questionID>
+<question-text>........... fonts look professional and are suited for business document.</question-text>
+<answer0>Time New Roman</answer0>
+<answer1>Fajita</answer1>
+<answer2>Wingdings</answer2>
+<answer3>Arial</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Time New Roman</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020008</questionID>
+<question-text>........... fonts are decorative.</question-text>
+<answer0>Time New Roman</answer0>
+<answer1>Fajita</answer1>
+<answer2>Wingdings</answer2>
+<answer3>Arial</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Fajita</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020009</questionID>
+<question-text>........... fonts look like symbols.</question-text>
+<answer0>Symbol</answer0>
+<answer1>Fajita</answer1>
+<answer2>Wingdings</answer2>
+<answer3>Symbol and wingdings</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Symbol and wingdings</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020010</questionID>
+<question-text>........... of the font is measured in points.</question-text>
+<answer0>Size</answer0>
+<answer1>Style</answer1>
+<answer2>Color</answer2>
+<answer3>None of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Size</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020011</questionID>
+<question-text>There are ........... points to an inch.</question-text>
+<answer0>70</answer0>
+<answer1>71</answer1>
+<answer2>72</answer2>
+<answer3>73</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>72</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020012</questionID>
+<question-text>Documents will be printed as shades of gray on a ........... printer.</question-text>
+<answer0>colour printer</answer0>
+<answer1>black-and-white</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>black-and-white</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020013</questionID>
+<question-text>........... can be used to call attention to key ideas or pointers in a document</question-text>
+<answer0>Selection</answer0>
+<answer1>Highlighting</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Highlighting</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020014</questionID>
+<question-text>When reading something important in a book, a magazine, a report, or any document, the reader takes a ........... highlighter pen and drag across it.</question-text>
+<answer0>red</answer0>
+<answer1>blue</answer1>
+<answer2>green</answer2>
+<answer3>yellow</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>yellow</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020015</questionID>
+<question-text>To remove the highlighting , select the text and select the ........... from the colour palette.</question-text>
+<answer0>no fill</answer0>
+<answer1>white</answer1>
+<answer2>black</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>no fill</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020016</questionID>
+<question-text>A hard return is inserted every time when ......... is pressed.</question-text>
+<answer0>backspace</answer0>
+<answer1>delete</answer1>
+<answer2>insert</answer2>
+<answer3>enter</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>enter</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020017</questionID>
+<question-text>The paragraphs in a document is ........... line spaced, by default.</question-text>
+<answer0>single</answer0>
+<answer1>double</answer1>
+<answer2>half</answer2>
+<answer3>atleast</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>single</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020018</questionID>
+<question-text>When typing in star office writer, all text is ........... aligned, and the right margin is ragged or uneven.</question-text>
+<answer0>right</answer0>
+<answer1>center</answer1>
+<answer2>left</answer2>
+<answer3>justify</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>left</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020019</questionID>
+<question-text>There are alignments of paragraph in a document.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>four</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020020</questionID>
+<question-text>The text in a paragraphs can be ........... to keep both the margins even.</question-text>
+<answer0>left</answer0>
+<answer1>right</answer1>
+<answer2>center</answer2>
+<answer3>justified</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>justified</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020021</questionID>
+<question-text>........... is the shortcut key to align the text in left.</question-text>
+<answer0>Ctrl + E</answer0>
+<answer1>Ctrl + J</answer1>
+<answer2>Ctrl + R</answer2>
+<answer3>Ctrl + L</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + L</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020022</questionID>
+<question-text>.......... is the shortcut key to align the text in right.</question-text>
+<answer0>Ctrl + E</answer0>
+<answer1>Ctrl + J</answer1>
+<answer2>Ctrl + R</answer2>
+<answer3>Ctrl + L</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + R</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020023</questionID>
+<question-text>........... is the shortcut key to align the text in center.</question-text>
+<answer0>Ctrl + E</answer0>
+<answer1>Ctrl + J</answer1>
+<answer2>Ctrl + R</answer2>
+<answer3>Ctrl + L</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + E</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020024</questionID>
+<question-text>........... is the shortcut key to align the text in justify option.</question-text>
+<answer0>Ctrl + E</answer0>
+<answer1>Ctrl + J</answer1>
+<answer2>Ctrl + R</answer2>
+<answer3>Ctrl + L</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + J</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020025</questionID>
+<question-text>.....  is a special kind of indent, for numbered list.</question-text>
+<answer0>Positive indent</answer0>
+<answer1>Hanging indent</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Negative indent</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>Hanging indent</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020026</questionID>
+<question-text>By pressing the increase indent the text will move ........... inches from left.</question-text>
+<answer0>1/2</answer0>
+<answer1>1</answer1>
+<answer2>1/3</answer2>
+<answer3>1/4</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>1/2</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020027</questionID>
+<question-text>One wants to undo the indent, the ..... icon is to be clicked.</question-text>
+<answer0>increase indent</answer0>
+<answer1>negative indent</answer1>
+<answer2>decrease indent</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>decrease indent</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020028</questionID>
+<question-text>For the purpose of indenting, if we use the paragraph dialogbox should be used to make increase indent.</question-text>
+<answer0>before text spin box</answer0>
+<answer1>after text spin box</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>before text spin box</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020029</questionID>
+<question-text>For the purpose of indenting, if we use the paragraph dialogbox ........... should be used to make decrease indent.</question-text>
+<answer0>before text spin box</answer0>
+<answer1>after text spin box</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>after text spin box</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020030</questionID>
+<question-text>A ........... value will result in a hanging indent.</question-text>
+<answer0>positive</answer0>
+<answer1>negative</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>negative</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020031</questionID>
+<question-text>........ number of line spacing options available in the star office writer.</question-text>
+<answer0>4</answer0>
+<answer1>5</answer1>
+<answer2>6</answer2>
+<answer3>7</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>7</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020032</questionID>
+<question-text>One way to set off a list of points or topics in a document is to create a ........</question-text>
+<answer0>bulleted list</answer0>
+<answer1>numbered list</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>both a and b</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01020033</questionID>
+<question-text>Various styles of bullets and numbering can be selected by using ........... menu.</question-text>
+<answer0>format bullets and numbering</answer0>
+<answer1>format -> character</answer1>
+<answer2>format -> styles</answer2>
+<answer3>none of these</answer3>
+<grouping>02</grouping>
+<weightage>8</weightage>
+<correctAnswer>format bullets and numbering</correctAnswer>
+</question>
+</chapter>
+
+
+<chapter name = "CORRECTING SPELLING MISTAKES" number="03">
+<question>
+<questionID>TNHSCS01030001</questionID>
+<question-text>Star Office writer includes a dictionary and ...........</question-text>
+<answer0>spelling</answer0>
+<answer1>spell-check program</answer1>
+<answer2>auto correct program</answer2>
+<answer3>none of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>spell-check program</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030002</questionID>
+<question-text>StarOffice writer can identify the ..... mistakes.</question-text>
+<answer0>parallax</answer0>
+<answer1>transpose</answer1>
+<answer2>spelling</answer2>
+<answer3>none of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>spelling</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030003</questionID>
+<question-text>When feature is ON, star office writer compares each word typed with the words in the dictionary.</question-text>
+<answer0>spell-check program</answer0>
+<answer1>auto spell check</answer1>
+<answer2>dictionary</answer2>
+<answer3>none</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>auto spell check</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030004</questionID>
+<question-text>The misspelled word is underlined by squiggly ..... line.</question-text>
+<answer0>red</answer0>
+<answer1>green</answer1>
+<answer2>blue</answer2>
+<answer3>yellow</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>red</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030005</questionID>
+<question-text>If the right spelling is not known, staroffice writer can help with some choices by clicking word by clicking.</question-text>
+<answer0>left</answer0>
+<answer1>right</answer1>
+<answer2>center</answer2>
+<answer3>none of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>right</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030006</questionID>
+<question-text>........... key is to be pressed to activate the spelling command after the document is typed</question-text>
+<answer0>F5</answer0>
+<answer1>F6</answer1>
+<answer2>F7</answer2>
+<answer3>F4</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>F7</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030007</questionID>
+<question-text>............ text area displays the misspelled word in the spelling check dialog box.</question-text>
+<answer0>Not in dictionary</answer0>
+<answer1>Suggestions</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>Not in dictionary</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030008</questionID>
+<question-text>........... list displays any alternative spellings in the spelling check dialog box.</question-text>
+<answer0>Not in dictionary</answer0>
+<answer1>Suggestions</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>Suggestions</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030009</questionID>
+<question-text>........... button is, clicked to add the word to the dictionary.</question-text>
+<answer0>Insert</answer0>
+<answer1>Add</answer1>
+<answer2>Both a and b</answer2>
+<answer3>New</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>Add</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030010</questionID>
+<question-text>AutoCorrect Dialog box can be opened by activating the menu ...........</question-text>
+<answer0>tools -> autocorrect</answer0>
+<answer1>tools -> spelling check</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>tools -> autocorrect</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030011</questionID>
+<question-text>Spelling check dialog box can be opened by activating the menu ..........</question-text>
+<answer0>tools -> autocorrect</answer0>
+<answer1>tools -> spelling -> check</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>tools -> spelling -> check</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030012</questionID>
+<question-text>There are _________ tabs in Autocorrect dialog box window.</question-text>
+<answer0>4</answer0>
+<answer1>5</answer1>
+<answer2>6</answer2>
+<answer3>7</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>5</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01030013</questionID>
+<question-text>There are _________ check boxes in Autocorrect dialog box window.</question-text>
+<answer0>1</answer0>
+<answer1>2</answer1>
+<answer2>3</answer2>
+<answer3>4</answer3>
+<grouping>03</grouping>
+<weightage>8</weightage>
+<correctAnswer>1</correctAnswer>
+</question>
+
+</chapter>
+
+
+<chapter name = "WORKING WITH TABLES" number="04">
+<question>
+<questionID>TNHSCS01040001</questionID>
+<question-text>Star Office writer displays the ......  as a grid with specified number of rows and columns.</question-text>
+<answer0>equation</answer0>
+<answer1>table</answer1>
+<answer2>document</answer2>
+<answer3>none of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>table</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040002</questionID>
+<question-text>Insert table dialog box can be opened by selecting the menu ..... ></question-text>
+<answer0>table -> insert-> table</answer0>
+<answer1>table -> insert-> rows</answer1>
+<answer2>table.insert-> columns</answer2>
+<answer3>none of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>table -> insert-> table</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040003</questionID>
+<question-text>Floating tool bar for inserting function has the INSERT TABLE icon in the ........... place.</question-text>
+<answer0>fourth</answer0>
+<answer1>third</answer1>
+<answer2>second</answer2>
+<answer3>first</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>first</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040004</questionID>
+<question-text>Once the table is created, StarOffice Writer places in the insertion point in the ......... cell of the table.</question-text>
+<answer0>first</answer0>
+<answer1>second</answer1>
+<answer2>third</answer2>
+<answer3>fourth</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>first</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040005</questionID>
+<question-text>.......... is the intersection of a column and a row.</question-text>
+<answer0>Cell</answer0>
+<answer1>Text</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Cell</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040006</questionID>
+<question-text>.......... key is used to move forward through cells.</question-text>
+<answer0>Tab</answer0>
+<answer1>Shift + tab</answer1>
+<answer2>Right arrow</answer2>
+<answer3>Left arrow</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Tab</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040007</questionID>
+<question-text>.......... key is used to move backward through cells.</question-text>
+<answer0>Tab</answer0>
+<answer1>Shift + tab</answer1>
+<answer2>Right arrow</answer2>
+<answer3>Left arrow</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Shift + tab</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040008</questionID>
+<question-text>If the entry in a cell is long, it automatically increases ........</question-text>
+<answer0>height</answer0>
+<answer1>width</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>height</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040009</questionID>
+<question-text>The simplest way to add a row is to press ........... in the last row of the table.</question-text>
+<answer0>ctrl</answer0>
+<answer1>tab</answer1>
+<answer2>shift</answer2>
+<answer3>delete</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>tab</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040010</questionID>
+<question-text>To insert more than one row in a table ......  to be clicked.</question-text>
+<answer0>table->insert-> row</answer0>
+<answer1>table-> insert -> column</answer1>
+<answer2>tabled insert</answer2>
+<answer3>insert-> table</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>tableinsert-> row</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040011</questionID>
+<question-text>By pressing the tab key in the last row of the table __ rows to be inserted.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>one</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040012</questionID>
+<question-text>By pressing the delete key after selecting the table, it will erase ..........</question-text>
+<answer0>contents of the table</answer0>
+<answer1>entire table</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>contents of the table</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040013</questionID>
+<question-text>To resize a column, place the cursor in a table cell, hold down  ......  and then press the left or right arrow.</question-text>
+<answer0>ctrl</answer0>
+<answer1>delete</answer1>
+<answer2>alt</answer2>
+<answer3>shift</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>alt</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040014</questionID>
+<question-text>To resize the column without changing the width of the table, hold down _________ and then press the left or right arrows.</question-text>
+<answer0>shift + ctrl</answer0>
+<answer1>alt + ctrl</answer1>
+<answer2>ctrl + alt</answer2>
+<answer3>ctrl + end</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>alt + ctrl</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040015</questionID>
+<question-text>To resize a row, place the cursor in a table cell, hold down  ..... and then press the up or down arrow.</question-text>
+<answer0>ctrl</answer0>
+<answer1>delete</answer1>
+<answer2>alt</answer2>
+<answer3>shift</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>alt</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040016</questionID>
+<question-text>To make all column even, ........... dick inside the table and select column space equally in the pop-up menu.</question-text>
+<answer0>alt</answer0>
+<answer1>right</answer1>
+<answer2>center</answer2>
+<answer3>none of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>right</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040017</questionID>
+<question-text>To make all rows even, ......  click inside the table and select rows space equally in the pop-up menu.</question-text>
+<answer0>left</answer0>
+<answer1>right</answer1>
+<answer2>center</answer2>
+<answer3>none of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>right</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040018</questionID>
+<question-text>.......... lcon is used to combine two or more cell into a single cell.</question-text>
+<answer0>Merge cells</answer0>
+<answer1>Split cells</answer1>
+<answer2>Optimize</answer2>
+<answer3>B orders</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Merge cells</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040019</questionID>
+<question-text>........... icon is used to split a cell into two or more cells.</question-text>
+<answer0>Merge cells</answer0>
+<answer1>Split cells</answer1>
+<answer2>Optimize</answer2>
+<answer3>B orders</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Split cells</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040020</questionID>
+<question-text>........... icon is used to insert a row below the current row.</question-text>
+<answer0>Inserting row</answer0>
+<answer1>Inserting column</answer1>
+<answer2>Delete row</answer2>
+<answer3>Delete column</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Inserting row</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040021</questionID>
+<question-text>........... icon is used to insert a column after the current column.</question-text>
+<answer0>Inserting row</answer0>
+<answer1>Inserting column</answer1>
+<answer2>Delete row</answer2>
+<answer3>Delete column</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Inserting column</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040022</questionID>
+<question-text>........... icon is used to deletes the current row from the table.</question-text>
+<answer0>Delete row</answer0>
+<answer1>Delete column</answer1>
+<answer2>Insert row</answer2>
+<answer3>Insert column</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Delete row</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040023</questionID>
+<question-text>........... icon is used to deletes the current column from the table.</question-text>
+<answer0>Delete row</answer0>
+<answer1>Delete column</answer1>
+<answer2>Insert row</answer2>
+<answer3>Insert column</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Delete column</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040024</questionID>
+<question-text>___________icon displays a floating toolbar with different border option for the table.</question-text>
+<answer0>Borders</answer0>
+<answer1>Line style</answer1>
+<answer2>Border colour</answer2>
+<answer3>None of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Borders</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040025</questionID>
+<question-text>........... icon is used to choose the style of line to be used for the border.</question-text>
+<answer0>Line style</answer0>
+<answer1>Borders</answer1>
+<answer2>Border colour</answer2>
+<answer3>None of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Line style</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040026</questionID>
+<question-text>........... icon displays a palette of colours that can be used as a border colour of the table,</question-text>
+<answer0>Line style</answer0>
+<answer1>Borders</answer1>
+<answer2>Border colour</answer2>
+<answer3>None of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Border colour</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040027</questionID>
+<question-text>___________dialog can be used to set the width of the column to an exact size.</question-text>
+<answer0>Character</answer0>
+<answer1>Paragraph</answer1>
+<answer2>Table format</answer2>
+<answer3>None of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Table format</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040028</questionID>
+<question-text>........... tool bar is used to change the borders of the table.</question-text>
+<answer0>Table formatting</answer0>
+<answer1>Standard</answer1>
+<answer2>Formatting</answer2>
+<answer3>None of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>Table formatting</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040029</questionID>
+<question-text>Every table should be identified by a specific .......!</question-text>
+<answer0>field</answer0>
+<answer1>record</answer1>
+<answer2>name</answer2>
+<answer3>none of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>name</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01040030</questionID>
+<question-text>To resize a table column, we can activate the menu</question-text>
+<answer0>table insert</answer0>
+<answer1>table -> table properties</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>04</grouping>
+<weightage>8</weightage>
+<correctAnswer>table -> table properties</correctAnswer>
+</question>
+</chapter>
+
+
+<chapter name = "PAGE FORMATTING" number="05">
+<question>
+<questionID>TNHSCS01050001</questionID>
+<question-text>The default margins are  ....... inch top and bottom margins and  ........ inches left and right margins.</question-text>
+<answer0>1, 1.25</answer0>
+<answer1>1.25, 1</answer1>
+<answer2>1, 1 •</answer2>
+<answer3>1, 0.5</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>1, 1.25</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050002</questionID>
+<question-text>We can change the margins by selecting ...........</question-text>
+<answer0>ruler</answer0>
+<answer1>tool bar</answer1>
+<answer2>status bar</answer2>
+<answer3>title bar</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>ruler</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050003</questionID>
+<question-text>Page style dialog box can be activated by using the menu</question-text>
+<answer0>format -> character</answer0>
+<answer1>format -> table</answer1>
+<answer2>format -> page</answer2>
+<answer3>none of these</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>format -> page</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050004</questionID>
+<question-text>.........  option in the File menu can be used to see the change.</question-text>
+<answer0>Page preview</answer0>
+<answer1>Page view</answer1>
+<answer2>Preview</answer2>
+<answer3>None of these</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>Page preview</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050005</questionID>
+<question-text>The ruler can be displayed by activating the menu</question-text>
+<answer0>view-> ruler</answer0>
+<answer1>tools -> view</answer1>
+<answer2>file -> open</answer2>
+<answer3>none of these</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>view ->ruler</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050006</questionID>
+<question-text>The gray area of the ruler indicates the margin’s ...... area.</question-text>
+<answer0>bottom</answer0>
+<answer1>center</answer1>
+<answer2>top</answer2>
+<answer3>none of these</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>top</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050007</questionID>
+<question-text>The length of a document is more than the width, this orientation is called ........</question-text>
+<answer0>portrait</answer0>
+<answer1>landscape</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>portrait</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050008</questionID>
+<question-text>The width of a document is more than the length, this orientation is called ........</question-text>
+<answer0>portrait</answer0>
+<answer1>landscape</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>landscape</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050009</questionID>
+<question-text>There are ........... types of orientation in staroffice.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050010</questionID>
+<question-text>........... is an area at the top of page.</question-text>
+<answer0>Footer</answer0>
+<answer1>Header</answer1>
+<answer2>Header and footer</answer2>
+<answer3>None of these</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>Header</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050011</questionID>
+<question-text>......... Is an area at the bottom of a page.</question-text>
+<answer0>Header</answer0>
+<answer1>Footer</answer1>
+<answer2>Header and footer</answer2>
+<answer3>None of these</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>Footer</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050012</questionID>
+<question-text>In the header tab of the page style dialog box, there are _________ spin boxes.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>four</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050013</questionID>
+<question-text>Most documents are printed in  ..... inch by ........... inch paper.</question-text>
+<answer0>11,8.5</answer0>
+<answer1>8.5, 11</answer1>
+<answer2>8.0,10.0</answer2>
+<answer3>10.0,11.0</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>8.5,11</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050014</questionID>
+<question-text>........... menu is used to give the page numbers for all pages of a document.</question-text>
+<answer0>Insert -> fields</answer0>
+<answer1>Insert -> fields -> page numbers</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert -> fields -> page numbers</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01050015</questionID>
+<question-text>Once the page numbers have been inserted, their format can be changed using the ........... dialog box.</question-text>
+<answer0>page style</answer0>
+<answer1>format style</answer1>
+<answer2>table format</answer2>
+<answer3>none of these</answer3>
+<grouping>05</grouping>
+<weightage>8</weightage>
+<correctAnswer>page style</correctAnswer>
+</question>
+</chapter>
+
+
+<chapter name = "SPREADSHEET" number="06">
+<question>
+<questionID>TNHSCS01060001</questionID>
+<question-text>The personal computer first appeared in ...........</question-text>
+<answer0>1972</answer0>
+<answer1>1973</answer1>
+<answer2>1974</answer2>
+<answer3>1975</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>1975</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060002</questionID>
+<question-text>In the year .........  the pcs became more popular and attracted by the wider population.</question-text>
+<answer0>1974</answer0>
+<answer1>1976</answer1>
+<answer2>1975</answer2>
+<answer3>1977</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>1977</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060003</questionID>
+<question-text>Visi calc is developed in the year ...........</question-text>
+<answer0>1976</answer0>
+<answer1>1977</answer1>
+<answer2>1978</answer2>
+<answer3>1979</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>1979</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060004</questionID>
+<question-text>Visicalc is developed by ........</question-text>
+<answer0>Dan Bricklin</answer0>
+<answer1>Bon Frankston</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060005</questionID>
+<question-text>...........was the first electronic spreadsheet.</question-text>
+<answer0>Lotus 1-2-3</answer0>
+<answer1>Ms excel</answer1>
+<answer2>Visible calculator</answer2>
+<answer3>Quatro pro</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Visible calculator</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060006</questionID>
+<question-text>.....  tool could save time, help avoid endless and brain-numbering arithmetic and eliminate mathematical errors.</question-text>
+<answer0>Visible calculator</answer0>
+<answer1>Star office writer</answer1>
+<answer2>Star office base</answer2>
+<answer3>Star office impress</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Visible calculator</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060007</questionID>
+<question-text>Spread sheets are made up of rows and ...........</question-text>
+<answer0>rows</answer0>
+<answer1>columns</answer1>
+<answer2>rows and columns</answer2>
+<answer3>none of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>columns</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060008</questionID>
+<question-text>The intersection of rows and columns creates ...........</question-text>
+<answer0>rows</answer0>
+<answer1>columns</answer1>
+<answer2>cells</answer2>
+<answer3>none of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>cells</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060009</questionID>
+<question-text>The ........ are addressed in terms of the row and column labels.</question-text>
+<answer0>row</answer0>
+<answer1>column</answer1>
+<answer2>cells</answer2>
+<answer3>none of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>cells</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060010</questionID>
+<question-text>In star office calc, there are ..... rows.</question-text>
+<answer0>256</answer0>
+<answer1>63</answer1>
+<answer2>64</answer2>
+<answer3>32000</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>32000</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060011</questionID>
+<question-text>The formula appears in the input line of the ...........</question-text>
+<answer0>menu bar</answer0>
+<answer1>formula bar</answer1>
+<answer2>object bar</answer2>
+<answer3>status bar</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>formula bar</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060012</questionID>
+<question-text>A  ..is like a grid of cells with a programmable calculator attached to each cell.</question-text>
+<answer0>table</answer0>
+<answer1>spread sheet</answer1>
+<answer2>document</answer2>
+<answer3>data base</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>spread sheet</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060013</questionID>
+<question-text>In staroffice calc the formula must starts with ...........</question-text>
+<answer0>&</answer0>
+<answer1>:</answer1>
+<answer2>=</answer2>
+<answer3>!</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>=</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060014</questionID>
+<question-text>......... refers to the files that you create with spreadsheet software.</question-text>
+<answer0>Spreadsheet</answer0>
+<answer1>Worksheet</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Database</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Worksheet</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060015</questionID>
+<question-text>Work sheet data can be viewed in the form of_________</question-text>
+<answer0>graphs or charts</answer0>
+<answer1>pie charts</answer1>
+<answer2>bar charts</answer2>
+<answer3>none of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>graphs or charts</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060016</questionID>
+<question-text>Spreadsheet package developed for  .........  in 1979.</question-text>
+<answer0>Super computer</answer0>
+<answer1>Main frame computer</answer1>
+<answer2>Micro computer</answer2>
+<answer3>None of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Micro computer</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060017</questionID>
+<question-text>Visible calculator contained .... columns and ..... rows.</question-text>
+<answer0>254, 63</answer0>
+<answer1>63, 254</answer1>
+<answer2>63, 32000</answer2>
+<answer3>64, 254</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>63, 254</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060018</questionID>
+<question-text>Lotus development corporation introduced lotus 1-2-3 in ......</question-text>
+<answer0>1981</answer0>
+<answer1>1980</answer1>
+<answer2>1982</answer2>
+<answer3>1983</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>1982</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060019</questionID>
+<question-text>Lotus 1-2-3 developed by ...........</question-text>
+<answer0>Sun micro systems</answer0>
+<answer1>Borland international</answer1>
+<answer2>Microsoft corporation</answer2>
+<answer3>Lotus development corporation</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Lotus development corporation</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060020</questionID>
+<question-text>Quattro pro developed by .........</question-text>
+<answer0>Sun micro systems</answer0>
+<answer1>Borland international</answer1>
+<answer2>Microsoft corporation</answer2>
+<answer3>Lotus development corporation</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Borland international</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060021</questionID>
+<question-text>Lotus corporation developed the software ...........</question-text>
+<answer0>improve</answer0>
+<answer1>star office calc</answer1>
+<answer2>ms-excel</answer2>
+<answer3>quattro pro</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>improve</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060022</questionID>
+<question-text>Star office calc developed by ...........</question-text>
+<answer0>Sun micro systems</answer0>
+<answer1>Borland international</answer1>
+<answer2>Lotus development corporation</answer2>
+<answer3>Microsoft corporation</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Sun micro systems</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060023</questionID>
+<question-text>Microsoft developed the software ...........</question-text>
+<answer0>quattro pro</answer0>
+<answer1>lotus 1-2-3</answer1>
+<answer2>star office calc</answer2>
+<answer3>excel</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>excel</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060024</questionID>
+<question-text>..........bar is used to display the current cell and its contents.</question-text>
+<answer0>Menu bar</answer0>
+<answer1>Object bar</answer1>
+<answer2>Function bar</answer2>
+<answer3>Formula bar</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Formula bar</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060025</questionID>
+<question-text>...... is a rectangular box covering the cell.</question-text>
+<answer0>Cell pointer</answer0>
+<answer1>Active cell</answer1>
+<answer2>Mouse pointer</answer2>
+<answer3>None of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Cell pointer</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060026</questionID>
+<question-text>Default cell pointer in cell .........</question-text>
+<answer0>A2</answer0>
+<answer1>A1</answer1>
+<answer2>A3</answer2>
+<answer3>A4</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>A1</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060027</questionID>
+<question-text>If the data entered is a word, the program recognizes it as a ...........</question-text>
+<answer0>number</answer0>
+<answer1>date</answer1>
+<answer2>equation</answer2>
+<answer3>label</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>label</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060028</questionID>
+<question-text>The default format of entering date should be ...........</question-text>
+<answer0>mm/yy/dd</answer0>
+<answer1>dd/mm/yy</answer1>
+<answer2>mm/dd/yy</answer2>
+<answer3>mm-dd-yy</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>mm/dd/yy</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060029</questionID>
+<question-text>The default format for entering time should be ........</question-text>
+<answer0>hh:mm:ss</answer0>
+<answer1>hh/mm/ss</answer1>
+<answer2>ss:mm:hh</answer2>
+<answer3>hh-mm-ss</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>hh:mm:ss</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060030</questionID>
+<question-text>In order to close the worksheet, go to file menu and select the ........... option.</question-text>
+<answer0>exit</answer0>
+<answer1>close</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>close</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060031</questionID>
+<question-text>Width of the column is not enough to hold the data, Star office calc indicates this with small ..... triangle.</question-text>
+<answer0>red</answer0>
+<answer1>blue</answer1>
+<answer2>black</answer2>
+<answer3>gray</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>red</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060032</questionID>
+<question-text>We can edit the contents of the cell in .......... ways.</question-text>
+<answer0>one</answer0>
+<answer1>four</answer1>
+<answer2>three</answer2>
+<answer3>two</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+</chapter>
+<question>
+<questionID>TNHSCS01060033</questionID>
+<question-text>How many cells are available in worksheet C1:E2?</question-text>
+<answer0>4</answer0>
+<answer1>6</answer1>
+<answer2>8</answer2>
+<answer3>10</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>6</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060034</questionID>
+<question-text>Fill command in star office calc is available under the menu </question-text>
+<answer0>Edit</answer0>
+<answer1>Format</answer1>
+<answer2>File</answer2>
+<answer3>View</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Edit</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060035</questionID>
+<question-text>The bar used to display the current call and its contents in star office is</question-text>
+<answer0>Menu</answer0>
+<answer1>Object</answer1>
+<answer2>Formula</answer2>
+<answer3>Function</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Formula</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060036</questionID>
+<question-text>To do the calculations for different worksheets in a particular sheet , we use</question-text>
+<answer0>2D formula</answer0>
+<answer1>Function</answer1>
+<answer2>3D formula</answer2>
+<answer3>Selection</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>3D formula</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060037</questionID>
+<question-text>Which of the following data acn be typed into a spreadsheet?.</question-text>
+<answer0>Numbers</answer0>
+<answer1>Text</answer1>
+<answer2>Formulae</answer2>
+<answer3>All of these</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060038</questionID>
+<question-text>Which reference operator is named .</question-text>
+<answer0>!</answer0>
+<answer1>:</answer1>
+<answer2>=</answer2>
+<answer3>&</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>!</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060039</questionID>
+<question-text>To draw in spreadsheet click</question-text>
+<answer0>color icon </answer0>
+<answer1>show draw function icon</answer1>
+<answer2>draw</answer2>
+<answer3>insert picture icon</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>show draw function icon</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060040</questionID>
+<question-text>Which of the following formulae calculates the sum of the number in the cell A1 of sheet 1 and A2 of sheet 2?</question-text>
+<answer0>=Sum(Sheet1.A1+Sheet2.A2)</answer0>
+<answer1>=Sum(Sheet1:A1:Sheet2:A2)</answer1>
+<answer2>=Sum(Sheet1.A1:Sheet2.A2)</answer2>
+<answer3>=Sum(Sheet1.A1:Sheet2.A2)</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>=Sum(Sheet1.A1:Sheet2.A2)</correctAnswer>  
+</question>
+<question>
+<questionID>TNHSCS01060041</questionID>
+<question-text>The cells A4, A5, A6, B4, B5 & B6 are referred in a worksheet as</question-text>
+<answer0>A4:B6</answer0>
+<answer1>A1:B6</answer1>
+<answer2>A1:A6;B1:B6</answer2>
+<answer3>A4:A6;B4:B6</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>A4:B6</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060042</questionID>
+<question-text>Which facility of the staroffice calc helps to format the worksheet with differnt predefined styles and colours.</question-text>
+<answer0>Autocorrect</answer0>
+<answer1>Format</answer1>
+<answer2>Autostyles/autocolors</answer2>
+<answer3>Auto format</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Auto format</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060043</questionID>
+<question-text>A continuous group of cell in a worksheet is calles as</question-text>
+<answer0>Group</answer0>
+<answer1>Set of cells</answer1>
+<answer2>Range</answer2>
+<answer3>Set of rows</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Range</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060044</questionID>
+<question-text>Which have shortcut icons for frequently done tasks?.</question-text>
+<answer0>Status bar</answer0>
+<answer1>Scroll bar</answer1>
+<answer2>Menu bar</answer2>
+<answer3>Function bar & object bar</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Function bar & object bar</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060045</questionID>
+<question-text>Which combines cell areas?</question-text>
+<answer0>Reference operator</answer0>
+<answer1>Function operator</answer1>
+<answer2>Pointer</answer2>
+<answer3>Operator</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Reference operator</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060046</questionID>
+<question-text>Which icon provides to generate a scrolling screen within a worksheet?</question-text>
+<answer0>Insert floating frame</answer0>
+<answer1>Insert Plug - In</answer1>
+<answer2>Insert OLE object</answer2>
+<answer3>None</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert floating frame</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060047</questionID>
+<question-text>Which of the following bar are used to display the current cell and its contents?</question-text>
+<answer0>Function bar</answer0>
+<answer1>Object bar</answer1>
+<answer2>Main tool bar</answer2>
+<answer3>Formula bar</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Formula bar</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060048</questionID>
+<question-text>Which of the following function are useed to find square root of a given number in staroffice calc?</question-text>
+<answer0>SQR()</answer0>
+<answer1>SQRT()</answer1>
+<answer2>SQT()</answer2>
+<answer3>SQUARE()</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>SQRT()</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060049</questionID>
+<question-text>Which option is used to quit from staroffice?.</question-text>
+<answer0>open</answer0>
+<answer1>close</answer1>
+<answer2>exit</answer2>
+<answer3>insert</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>exit</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060050</questionID>
+<question-text>Predefined formula available in staroffice calc is _______</question-text>
+<answer0>Options</answer0>
+<answer1>Functions</answer1>
+<answer2>Buttons</answer2>
+<answer3>Formulae</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Functions</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060051</questionID>
+<question-text>The operator <> is used to check ________</question-text>
+<answer0>Equal</answer0>
+<answer1>Greater than</answer1>
+<answer2>Inequality</answer2>
+<answer3>Less than</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Inequality</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060052</questionID>
+<question-text>Which helps to format the worksheet with predefined styles and colors?</question-text>
+<answer0>Autostyle sheet</answer0>
+<answer1>Auto sheet</answer1>
+<answer2>Auto color sheet</answer2>
+<answer3>Auto format sheet</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>Auto format sheet</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060053</questionID>
+<question-text>The operator that combines two texts as a single text is</question-text>
+<answer0>=</answer0>
+<answer1>&</answer1>
+<answer2>+</answer2>
+<answer3>!</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>&</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060054</questionID>
+<question-text>How many columns are there in Visicalc spreadsheet?.</question-text>
+<answer0>53</answer0>
+<answer1>63</answer1>
+<answer2>62</answer2>
+<answer3>64</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>63</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060055</questionID>
+<question-text>The active cell is identified in starcalc by</question-text>
+<answer0>cell pointer</answer0>
+<answer1>insertion point</answer1>
+<answer2>cell address</answer2>
+<answer3>column name</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>cell pointer</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01060056</questionID>
+<question-text>In order to edit data in a worksheet, which key is used?.</question-text>
+<answer0>F1</answer0>
+<answer1>F2</answer1>
+<answer2>F4</answer2>
+<answer3>F7</answer3>
+<grouping>06</grouping>
+<weightage>8</weightage>
+<correctAnswer>F2</correctAnswer>
+</question>
+</chapter>
+
+
+<chapter name = "DATABASE" number="07">
+<question>
+<questionID>TNHSCS01070001</questionID>
+<question-text>...........fall under the category of data processing.</question-text>
+<answer0>Banking</answer0>
+<answer1>Pay roll</answer1>
+<answer2>Budget preparation</answer2>
+<answer3>All of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070002</questionID>
+<question-text>The term data comes from the word ..........</question-text>
+<answer0>data</answer0>
+<answer1>information</answer1>
+<answer2>fact</answer2>
+<answer3>datum</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>datum</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070003</questionID>
+<question-text>The term ........... refers to the name of a memory location.</question-text>
+<answer0>constant</answer0>
+<answer1>variable</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>variable</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070004</questionID>
+<question-text>........... data type can be integer, float, double precision, date, time etc.</question-text>
+<answer0>Numeric</answer0>
+<answer1>Date</answer1>
+<answer2>Boolean</answer2>
+<answer3>Character</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Numeric</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070005</questionID>
+<question-text>The data defined by the user itself is called...........data type.</question-text>
+<answer0>built-in ,</answer0>
+<answer1>user-defined</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>user-defined</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070006</questionID>
+<question-text>...........is defined as a set of processed data.</question-text>
+<answer0>Data</answer0>
+<answer1>Datum</answer1>
+<answer2>Information</answer2>
+<answer3>Date</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Information</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070007</questionID>
+<question-text>Data processing involves ...........</question-text>
+<answer0>data collection</answer0>
+<answer1>verification</answer1>
+<answer2>validation</answer2>
+<answer3>all of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>all of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070008</questionID>
+<question-text>The work has been carried out by long-hand effort is..........</question-text>
+<answer0>computerised data processing</answer0>
+<answer1>manual data processing</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>manual data processing</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070009</questionID>
+<question-text>...........method takes more time,</question-text>
+<answer0>Manual</answer0>
+<answer1>Computerized</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Manual</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070010</questionID>
+<question-text>Human beings are liable to make computational and '..... errors.</question-text>
+<answer0>parallax</answer0>
+<answer1>transpose</answer1>
+<answer2>over write</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>parallax</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070011</questionID>
+<question-text>........... data processing involves use of papers.</question-text>
+<answer0>Computer</answer0>
+<answer1>Manual</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Manual</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070012</questionID>
+<question-text>Implementation of corrections, changes and modifications are tedious in ........... data processing.</question-text>
+<answer0>manual</answer0>
+<answer1>computer</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>manual</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070013</questionID>
+<question-text>........... are so common that we can share data and resources from one computer system to the other at a very fast speed or facts.</question-text>
+<answer0>word processing</answer0>
+<answer1>spread sheet</answer1>
+<answer2>data base</answer2>
+<answer3>Computer networks</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Computer networks</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070014</questionID>
+<question-text>A screen that displays data for a sigle record is called as_____</question-text>
+<answer0>form</answer0>
+<answer1>flatfile database</answer1>
+<answer2>report</answer2>
+<answer3>query</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>form</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070015</questionID>
+<question-text>The entire collection of related data in one table is referred to as a ...........</question-text>
+<answer0>record</answer0>
+<answer1>field</answer1>
+<answer2>file</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>file</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070016</questionID>
+<question-text>Each row in a table represents ........... in a database.</question-text>
+<answer0>field</answer0>
+<answer1>record</answer1>
+<answer2>file</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>record</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070017</questionID>
+<question-text>Each table column represents a .......  in database.</question-text>
+<answer0>field</answer0>
+<answer1>table</answer1>
+<answer2>record</answer2>
+<answer3>file</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>field</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070018</questionID>
+<question-text>...........is a process to select a desired specific data from a database.</question-text>
+<answer0>Sorting</answer0>
+<answer1>Merging</answer1>
+<answer2>Filtering</answer2>
+<answer3>Searching</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Searching</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070019</questionID>
+<question-text>...........is the process of arranging the data in a table in some order.</question-text>
+<answer0>Searching</answer0>
+<answer1>Sorting</answer1>
+<answer2>Merging</answer2>
+<answer3>Filtering</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Sorting</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070020</questionID>
+<question-text>...........is the process of joining data from two or more table of the same or different databases.</question-text>
+<answer0>Merging</answer0>
+<answer1>Sorting</answer1>
+<answer2>Filtering</answer2>
+<answer3>Searching</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Merging</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070021</questionID>
+<question-text>........... are a feature for displaying and browsing a selected list or subset of records from a table.</question-text>
+<answer0>Searching</answer0>
+<answer1>Sorting</answer1>
+<answer2>Merging</answer2>
+<answer3>Filtering</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Filtering</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070022</questionID>
+<question-text>...........is the process of performing corrections on the existing data.</question-text>
+<answer0>Sorting</answer0>
+<answer1>Merging</answer1>
+<answer2>Editing</answer2>
+<answer3>Searching</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Editing</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070023</questionID>
+<question-text>Based on the conceptual structures, the databases can be classified as ...........</question-text>
+<answer0>1</answer0>
+<answer1>2</answer1>
+<answer2>4</answer2>
+<answer3>5</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>5</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070024</questionID>
+<question-text>A database file that consists of a single data table is a</question-text>
+<answer0>flat-fiie</answer0>
+<answer1>relational</answer1>
+<answer2>hierarchical</answer2>
+<answer3>network</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>flat-file</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070025</questionID>
+<question-text>....... database' do'not allow for more complex requests.</question-text>
+<answer0>Flat-file</answer0>
+<answer1>Relational</answer1>
+<answer2>Hierarchical</answer2>
+<answer3>Network</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Flat-file</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070026</questionID>
+<question-text>........... structure represents a database made up of a set of related tables.</question-text>
+<answer0>Hierarchical</answer0>
+<answer1>Relational</answer1>
+<answer2>Network</answer2>
+<answer3>Object oriented</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Relational</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070027</questionID>
+<question-text>In relational database, common field or fields are called the ...........</question-text>
+<answer0>table</answer0>
+<answer1>record</answer1>
+<answer2>field</answer2>
+<answer3>keys</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>keys</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070028</questionID>
+<question-text>A  ...... is a' key that uniquely identifies a record in a database table.</question-text>
+<answer0>field</answer0>
+<answer1>record</answer1>
+<answer2>primary key</answer2>
+<answer3>table</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>primary key</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070029</questionID>
+<question-text>Hierarchical database structures were primarily used on ........... computers.</question-text>
+<answer0>micro</answer0>
+<answer1>super</answer1>
+<answer2>main frame</answer2>
+<answer3>notepad</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>main frame</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070030</questionID>
+<question-text>In ........... any child type relates only to a single parent type.</question-text>
+<answer0>network</answer0>
+<answer1>hierarchical</answer1>
+<answer2>flat file</answer2>
+<answer3>object oriented</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>hierarchical</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070031</questionID>
+<question-text>In...........any one record type can relate to any number of other record type.</question-text>
+<answer0>hierachical</answer0>
+<answer1>network</answer1>
+<answer2>relational</answer2>
+<answer3>object oriented</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>network</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070032</questionID>
+<question-text>The ........... structure group the data items and their associated characteristics, attributes, and procedures into complex items called objects.</question-text>
+<answer0>hierachical</answer0>
+<answer1>network</answer1>
+<answer2>relational</answer2>
+<answer3>object oriented</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>object oriented</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070033</questionID>
+<question-text>An ........ ... is defined by its characteristics, attributes and procedures.</question-text>
+<answer0>field</answer0>
+<answer1>record</answer1>
+<answer2>table</answer2>
+<answer3>object</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>object</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070034</questionID>
+<question-text>A ........... is a program or collection of programs that allows any number of users to access data, modify and construct records.</question-text>
+<answer0>DBA</answer0>
+<answer1>SQL</answer1>
+<answer2>DBMS</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>DBMS</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070035</questionID>
+<question-text>The data management tasks in a DBMS fall into ..... general categories.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>three</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070036</questionID>
+<question-text>The left pane is the<database> pane that displays Tables</question-text>
+<answer0>queries</answer0>
+<answer1>forms</answer1>
+<answer2>reports</answer2>
+<answer3>all of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>all of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070037</questionID>
+<question-text>Star office allows, ............ different fields types.</question-text>
+<answer0>10</answer0>
+<answer1>20</answer1>
+<answer2>30</answer2>
+<answer3>40</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>20</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070038</questionID>
+<question-text>...........data type accepts only whole numbers.</question-text>
+<answer0>Integer</answer0>
+<answer1>Float</answer1>
+<answer2>Double</answer2>
+<answer3>Memo</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Integer</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070039</questionID>
+<question-text>Smallint accepts small integer values up to a few...........</question-text>
+<answer0>thousands</answer0>
+<answer1>lakhs</answer1>
+<answer2>crores</answer2>
+<answer3>billions</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>thousands</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070040</questionID>
+<question-text>Single and double means ........... point numbers .</question-text>
+<answer0>integer</answer0>
+<answer1>text</answer1>
+<answer2>image</answer2>
+<answer3>floating</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>floating</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070041</questionID>
+<question-text>Single precession holds ............ places of decimal values.</question-text>
+<answer0>5</answer0>
+<answer1>7</answer1>
+<answer2>9</answer2>
+<answer3>11</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>7</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070042</questionID>
+<question-text>Double precession holds ........... places of decimal values.</question-text>
+<answer0>12</answer0>
+<answer1>11</answer1>
+<answer2>13</answer2>
+<answer3>14</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>14</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070043</questionID>
+<question-text>In the table design view, the lower part of the window, the ........... pane is displayed.</question-text>
+<answer0>field properties</answer0>
+<answer1>creating new table</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>field properties</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070044</questionID>
+<question-text>........... allows you to specify the number format and alignment of the text or number within the column of table design view.</question-text>
+<answer0>Default value</answer0>
+<answer1>Format example</answer1>
+<answer2>Length</answer2>
+<answer3>Entry required</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Format example</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070045</questionID>
+<question-text>A small ........... key appears to the left of the field , to mark it as the primary key.</question-text>
+<answer0>red</answer0>
+<answer1>green</answer1>
+<answer2>blue</answer2>
+<answer3>yellow</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>yellow</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070046</questionID>
+<question-text>The ........... is a small triangle on the left most column of the table.</question-text>
+<answer0>mouse pointer</answer0>
+<answer1>record pointer</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>record pointer</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070047</questionID>
+<question-text>.........menu can be used to delete the selected record, when you click the record pointer by making the right click.</question-text>
+<answer0>Table format</answer0>
+<answer1>Row height</answer1>
+<answer2>Delete rows</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Delete rows</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070048</questionID>
+<question-text>To view or modify the design of an existing table, click the ........... from the <Database> pane.</question-text>
+<answer0>queries</answer0>
+<answer1>forms</answer1>
+<answer2>tables</answer2>
+<answer3>Report</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>tables</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070049</questionID>
+<question-text>Click on the ........... icon, the records in the table are displayed in the ascending order of the specified field.</question-text>
+<answer0>sort ascending</answer0>
+<answer1>sort descending</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>sort ascending</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070050</questionID>
+<question-text>Every DBMS supports a language that is similar to a programming language called ...........</question-text>
+<answer0>C++</answer0>
+<answer1>C</answer1>
+<answer2>SQL</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>SQL</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070051</questionID>
+<question-text>...........are special view of the data in a table.</question-text>
+<answer0>Reports</answer0>
+<answer1>Forms</answer1>
+<answer2>Queries</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Queries</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070052</questionID>
+<question-text>In the field selection window of the query wizard ........... to be clicked to get all the fields.</question-text>
+<answer0><</answer0>
+<answer1>></answer1>
+<answer2>< <</answer2>
+<answer3>> ></answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>>></correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070053</questionID>
+<question-text>A ........... is a type of query.</question-text>
+<answer0>tables</answer0>
+<answer1>forms</answer1>
+<answer2>filter</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>filter</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070054</questionID>
+<question-text>........... can be saved for later use.</question-text>
+<answer0>Filter</answer0>
+<answer1>Queries</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Queries</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070055</questionID>
+<question-text>Star Office Base allows ........... types of filters.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070056</questionID>
+<question-text>............ icon to display only the records, which match the value of the current field.</question-text>
+<answer0>Auto filter</answer0>
+<answer1>Standard filter</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Auto filter</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070057</questionID>
+<question-text>Filter used with a condition called ...........</question-text>
+<answer0>auto filter</answer0>
+<answer1>default filter</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>default filter</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070058</questionID>
+<question-text>To remove the filter, click on ...........</question-text>
+<answer0>auto filter</answer0>
+<answer1>default filter</answer1>
+<answer2>remove filter/sort</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>remove filter/sort</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070059</questionID>
+<question-text>A ........... is simply screen that displays the fields of records in a well-spaced out manner.</question-text>
+<answer0>reports</answer0>
+<answer1>tables</answer1>
+<answer2>queries</answer2>
+<answer3>forms</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>forms</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070060</questionID>
+<question-text>...........option can be used to insert another form in a form.</question-text>
+<answer0>Field selection</answer0>
+<answer1>Apply styles</answer1>
+<answer2>Set up a subform</answer2>
+<answer3>Set name</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Set up a subform</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070061</questionID>
+<question-text>A........... is a printed information that is assembled by gathering data based on user supplied criteria,</question-text>
+<answer0>form</answer0>
+<answer1>tables</answer1>
+<answer2>report</answer2>
+<answer3>queries</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>report</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070062</questionID>
+<question-text>...........window is used to specify the fields based on which the records can be grouped together,</question-text>
+<answer0>Grouping</answer0>
+<answer1>Choose layout</answer1>
+<answer2>Sort options</answer2>
+<answer3>Create report</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Grouping</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070063</questionID>
+<question-text>To insert a text outline into a presentation ........... menu should be selected.</question-text>
+<answer0>file -> send-> outline to presentation</answer0>
+<answer1>edit copy</answer1>
+<answer2>file -> send~> auto abstract</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>file -> send-> outline to presentation</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070064</questionID>
+<question-text>To transfer each heading and its content into a presentation ........... menu should be clicked.</question-text>
+<answer0>file -> send -> outline to presentation</answer0>
+<answer1>file -> send auto abstract</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>file -> send auto abstract</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070065</questionID>
+<question-text>If you want to edit the contents of a copied cell in the presentation , ........... the cell.</question-text>
+<answer0>click</answer0>
+<answer1>double-click</answer1>
+<answer2>right click</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>double-click</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070066</questionID>
+<question-text>...........key combinations is used to save a table.</question-text>
+<answer0>Ctrl + S</answer0>
+<answer1>Ctrl + V</answer1>
+<answer2>Ctrl + C</answer2>
+<answer3>None of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl + S</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01070067</questionID>
+<question-text>The two types of reports are static and ...........</question-text>
+<answer0>report</answer0>
+<answer1>dynamic</answer1>
+<answer2>static</answer2>
+<answer3>none of these</answer3>
+<grouping>07</grouping>
+<weightage>8</weightage>
+<correctAnswer>dynamic</correctAnswer>
+</question>
+</chapter>
+
+
+<chapter name = "INTRODUCTION TO MULTIMEDIA" number="08">
+<question>
+<questionID>TNHSCS01080001</questionID>
+<question-text>........... is a computer-based presentation technique that incorporates text, graphics,sound,animations and video elements.</question-text>
+<answer0>Word processor</answer0>
+<answer1>Database</answer1>
+<answer2>Multimedia</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Multimedia</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080002</questionID>
+<question-text>In the field of entertainment, ........... is widely used to add special effects to movies.</question-text>
+<answer0>word processor</answer0>
+<answer1>database</answer1>
+<answer2>multimedia</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>multimedia</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080003</questionID>
+<question-text>Identify the animated films given below.</question-text>
+<answer0>finding nemo</answer0>
+<answer1>polar express</answer1>
+<answer2>ice age</answer2>
+<answer3>all of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>all of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080004</questionID>
+<question-text>...........is an application that allows to send and receive messages over cell phones.</question-text>
+<answer0>MMS</answer0>
+<answer1>SMS</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MMS</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080005</questionID>
+<question-text>CBT/WBT are the example of ........... packages.</question-text>
+<answer0>e-shopping</answer0>
+<answer1>e-marketing</answer1>
+<answer2>e-learning</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>e-learning</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080006</questionID>
+<question-text>The expandable form of CBT is ...........</question-text>
+<answer0>computer based tutorials</answer0>
+<answer1>web based tutorials</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>computer based tutorials</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080007</questionID>
+<question-text>The expandable form WBT is ...........</question-text>
+<answer0>computer based tutorials</answer0>
+<answer1>web based tutorials</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>web based tutorials</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080008</questionID>
+<question-text>........... access to information definitely speeds-up the learning process and makes it more rewarding</question-text>
+<answer0>Linear</answer0>
+<answer1>Non-linear</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Non-linear</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080009</questionID>
+<question-text>........... provide an environment which is experienced by users similar to reality.</question-text>
+<answer0>Virtual reality</answer0>
+<answer1>Imagine reality</answer1>
+<answer2>Reality</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Virtual reality</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080010</questionID>
+<question-text>Identify the image format given below.</question-text>
+<answer0>GIF</answer0>
+<answer1>JPG</answer1>
+<answer2>MPEG</answer2>
+<answer3>All of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080011</questionID>
+<question-text>..... and ..... images are formats compress static bitmap</question-text>
+<answer0>GIF, JPG</answer0>
+<answer1>MP3,MPEG</answer1>
+<answer2>AVI,SND</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>GIF, JPG</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080012</questionID>
+<question-text>A........... file uses much more complex technique than GIF compress images.</question-text>
+<answer0>JPG</answer0>
+<answer1>MP3</answer1>
+<answer2>AVI</answer2>
+<answer3>SND</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>JPG</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080013</questionID>
+<question-text>A..........file creates a perfect reproduction of the original.</question-text>
+<answer0>JPG</answer0>
+<answer1>GIF</answer1>
+<answer2>SND</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>GIF</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080014</questionID>
+<question-text>GIF is limited to an ........... bit palette.</question-text>
+<answer0>5</answer0>
+<answer1>6</answer1>
+<answer2>7</answer2>
+<answer3>8</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>8</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080015</questionID>
+<question-text>........... is not well fitted for photographic works.</question-text>
+<answer0>GIF</answer0>
+<answer1>JPG</answer1>
+<answer2>SND</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>GIF</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080016</questionID>
+<question-text>...........files are a lossy format.</question-text>
+<answer0>JPEG</answer0>
+<answer1>GIF</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>JPEG</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080017</questionID>
+<question-text>Digital cameras have the option to save images in ........... format.</question-text>
+<answer0>JPEG</answer0>
+<answer1>GIF</answer1>
+<answer2>AVI</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>JPEG</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080018</questionID>
+<question-text>The JPEG format supports full color and produces relatively ........... file sizes.</question-text>
+<answer0>small</answer0>
+<answer1>big</answer1>
+<answer2>very big</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>small</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080019</questionID>
+<question-text>There are ...........categories of image file compression.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080020</questionID>
+<question-text>......... help in rendering the image effectively on the screen.</question-text>
+<answer0>Vector graphics</answer0>
+<answer1>Adaptor</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Vector graphics</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080021</questionID>
+<question-text>Two attributes control the characteristics of sound - amplitude and ...........</question-text>
+<answer0>frequency</answer0>
+<answer1>sampling</answer1>
+<answer2>pitch</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>frequency</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080022</questionID>
+<question-text>........... is the distance between the crests of the wave.</question-text>
+<answer0>Pitch</answer0>
+<answer1>Sampling</answer1>
+<answer2>Amplitude</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Pitch</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080023</questionID>
+<question-text>...........also, called as the pitch.</question-text>
+<answer0>Amplitude</answer0>
+<answer1>Frequency</answer1>
+<answer2>Sampling</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Frequency</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080024</questionID>
+<question-text>The conversion of analog sound waves to a digital format is called ...........</question-text>
+<answer0>sampling</answer0>
+<answer1>amplitude</answer1>
+<answer2>frequency</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>sampling</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080025</questionID>
+<question-text>........... is a program to add special effects , such as echo, fade in , fade out effects.</question-text>
+<answer0>Sound forge</answer0>
+<answer1>Finding nemo</answer1>
+<answer2>Polar express</answer2>
+<answer3>All of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Sound forge</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080026</questionID>
+<question-text>Animations can be classified into</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080027</questionID>
+<question-text>2-D animations are classifieds into categories.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>two</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080028</questionID>
+<question-text>...... animations consists of multiple drawings, each one a little different from the others,</question-text>
+<answer0>Cell based animations</answer0>
+<answer1>Object-based animations</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Cell based animations</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080029</questionID>
+<question-text>........... animations also referred to as slide or path animations, are created by moving an object across a screen.</question-text>
+<answer0>Cel- based animations</answer0>
+<answer1>Object-based animations</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Object-based animations</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080030</questionID>
+<question-text>...........animations are usually seen in computer games.</question-text>
+<answer0>Cel- based animations</answer0>
+<answer1>Object-based animations</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Object-based animations</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080031</questionID>
+<question-text>...........is one of steps in 3-D animation.</question-text>
+<answer0>Modeling</answer0>
+<answer1>Animating</answer1>
+<answer2>Rendering</answer2>
+<answer3>All of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080032</questionID>
+<question-text>......... is a technique by which you can blend two or more images to form a new image</question-text>
+<answer0>Morphing</answer0>
+<answer1>Warping</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Morphing</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080033</questionID>
+<question-text>...........is the technique of distorting a single image to represent something else.</question-text>
+<answer0>Morphing</answer0>
+<answer1>Warping</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Warping</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080034</questionID>
+<question-text>.....:...... determines the size of the video files.</question-text>
+<answer0>Frame rate</answer0>
+<answer1>Image size</answer1>
+<answer2>Color depth</answer2>
+<answer3>All of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>All of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080035</questionID>
+<question-text>Reducing the color depth to less than ........... colours results in the image looking murky.</question-text>
+<answer0>244</answer0>
+<answer1>255</answer1>
+<answer2>256</answer2>
+<answer3>258</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>256</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080036</questionID>
+<question-text>Reducing the frame count to less than ........... frames per second.</question-text>
+<answer0>13</answer0>
+<answer1>14</answer1>
+<answer2>15</answer2>
+<answer3>16</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>15</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080037</questionID>
+<question-text>........... is a technique by which a recurring set of information is identified and replaced by a single piece of information.</question-text>
+<answer0>Compression</answer0>
+<answer1>Depression</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Compression</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080038</questionID>
+<question-text>..... retains the exact image throughout the compression</question-text>
+<answer0>Lossy compression</answer0>
+<answer1>Lossless compression</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Lossless compression</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080039</questionID>
+<question-text>...........results in some loss of quality.</question-text>
+<answer0>Lossless compression</answer0>
+<answer1>Lossy compression</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Lossy compression</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080040</questionID>
+<question-text>........... is commonly used for transferring music information between electronic devices,</question-text>
+<answer0>MIDI</answer0>
+<answer1>AIFF f</answer1>
+<answer2>SND</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MIDI</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080041</questionID>
+<question-text>MIDI was developed in</question-text>
+<answer0>1981</answer0>
+<answer1>1982</answer1>
+<answer2>1983</answer2>
+<answer3>1984</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>1982</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080042</questionID>
+<question-text>The ........... format cannot contain sounds-it contains only digital notes.</question-text>
+<answer0>MIDI</answer0>
+<answer1>AIFF</answer1>
+<answer2>SND</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MIDI</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080043</questionID>
+<question-text>MIDI file that plays for approximately 5 minutes may have the file size ...........</question-text>
+<answer0>10 kb</answer0>
+<answer1>20 kb</answer1>
+<answer2>25 kb</answer2>
+<answer3>15 kb</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>25 kb</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080044</questionID>
+<question-text>Musical Instrument Digital Interface format have the extension ...........</question-text>
+<answer0>MID</answer0>
+<answer1>MIDI</answer1>
+<answer2>MID or MIDI</answer2>
+<answer3>AIFF</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MID or MIDI</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080045</questionID>
+<question-text>The Real Audio/Real Video format was developed by</question-text>
+<answer0>Micro soft</answer0>
+<answer1>Apple</answer1>
+<answer2>Sun micro systemss</answer2>
+<answer3>Real networks</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Real networks</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080046</questionID>
+<question-text>Real Audio/Real Video developed in the year</question-text>
+<answer0>1992</answer0>
+<answer1>1993</answer1>
+<answer2>1994</answer2>
+<answer3>1995</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>1995</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080047</questionID>
+<question-text>..... format more popular for transfer of data over the Internet.</question-text>
+<answer0>MIDI</answer0>
+<answer1>RM or RAM</answer1>
+<answer2>SND</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>RM or RAM</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080048</questionID>
+<question-text>........... allows you to stream files even over internet connections with low bandwidths.</question-text>
+<answer0>MIDI</answer0>
+<answer1>AIFF</answer1>
+<answer2>.rm or ram</answer2>
+<answer3>AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.rm or ram</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080049</questionID>
+<question-text>Real audio format has the extension</question-text>
+<answer0>.rm</answer0>
+<answer1>.ram</answer1>
+<answer2>.rm or .ram</answer2>
+<answer3>.au</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.rm or .ram</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080050</questionID>
+<question-text>The AIFF format was developed by ...........</question-text>
+<answer0>Micro soft</answer0>
+<answer1>Apple</answer1>
+<answer2>Sun micro systems</answer2>
+<answer3>Real networks</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Apple</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080051</questionID>
+<question-text>Audio Interchange File Format have the extension</question-text>
+<answer0>.aif</answer0>
+<answer1>.aiff</answer1>
+<answer2>.aiff or .aif</answer2>
+<answer3>,au .</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.aiff or .aif</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080052</questionID>
+<question-text>The SND format was developed by ...........</question-text>
+<answer0>Micro soft</answer0>
+<answer1>Apple</answer1>
+<answer2>Sun micro systems</answer2>
+<answer3>Real networks</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Apple</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080053</questionID>
+<question-text>The WAVE format was developed by ....</question-text>
+<answer0>IBM</answer0>
+<answer1>Microsoft</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Apple</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080054</questionID>
+<question-text>........... format was developed for video files.</question-text>
+<answer0>MPEG</answer0>
+<answer1>MP3</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MPEG</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080055</questionID>
+<question-text>........... format is used to store sounds(music).</question-text>
+<answer0>MPEG</answer0>
+<answer1>MP3</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>MP3</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080056</questionID>
+<question-text>The main reason for the popularity of the ........... format offer good compression and high quality.</question-text>
+<answer0>MPEG</answer0>
+<answer1>MP3</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080057</questionID>
+<question-text>MP3 format have the extension ...........</question-text>
+<answer0>.mp3</answer0>
+<answer1>.mpga</answer1>
+<answer2>mp3 or .mpga</answer2>
+<answer3>.mpeg</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>mp3 or .mpga</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080058</questionID>
+<question-text>The Audio Video Interleave format was developed by</question-text>
+<answer0>IBM</answer0>
+<answer1>Microsoft</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Apple</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Microsoft</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080059</questionID>
+<question-text>The AVI format was developed in the year...........</question-text>
+<answer0>1990</answer0>
+<answer1>1991</answer1>
+<answer2>1992</answer2>
+<answer3>1993</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>1992</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080060</questionID>
+<question-text>The windows media format was developed by ...........</question-text>
+<answer0>IBM</answer0>
+<answer1>Microsoft</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Apple</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Microsoft</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080061</questionID>
+<question-text>format requires the installation of an additional component in non-windows computers.</question-text>
+<answer0>.WMV</answer0>
+<answer1>.MPEG</answer1>
+<answer2>.MPGA</answer2>
+<answer3>.AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.WMV</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080062</questionID>
+<question-text>Files in the Windows video format have the extension</question-text>
+<answer0>.WMV</answer0>
+<answer1>.MPEG</answer1>
+<answer2>.MPGA</answer2>
+<answer3>.AVI</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.WMV</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080063</questionID>
+<question-text>The quick time format was developed by</question-text>
+<answer0>IBM</answer0>
+<answer1>Microsoft</answer1>
+<answer2>Both a and b</answer2>
+<answer3>Apple</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Apple</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080064</questionID>
+<question-text>Files in the Quick Time Format have the extension</question-text>
+<answer0>.mov</answer0>
+<answer1>.wmv</answer1>
+<answer2>.swf</answer2>
+<answer3>.mp3</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.mov</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080065</questionID>
+<question-text>The shockwave format was developed by ...........</question-text>
+<answer0>Sun micro systems</answer0>
+<answer1>Apple</answer1>
+<answer2>Macromedia</answer2>
+<answer3>IBM</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Macromedia</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080066</questionID>
+<question-text>The shockwave format used to store multimedia components created-using ...........</question-text>
+<answer0>maya</answer0>
+<answer1>starofficelmpress</answer1>
+<answer2>flash</answer2>
+<answer3>c-f +</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>flash</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080067</questionID>
+<question-text>The shock wave format have the extension ...........</question-text>
+<answer0>.mov</answer0>
+<answer1>.wmv</answer1>
+<answer2>.swf</answer2>
+<answer3>.mp3</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>.swf</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080068</questionID>
+<question-text>Multimedia content can be created using the softwares</question-text>
+<answer0>flash</answer0>
+<answer1>dreamweaver</answer1>
+<answer2>maya</answer2>
+<answer3>all of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>all of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080069</questionID>
+<question-text>When sound or video is included as part of a web page, then it is called as .......</question-text>
+<answer0>inline sound</answer0>
+<answer1>inline video</answer1>
+<answer2>inline sound or inline video</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>inline sound or inline video</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080070</questionID>
+<question-text>You can add inline sound to a web page by using the tag ...........</question-text>
+<answer0><bgsound></answer0>
+<answer1><img></answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer><bgsound></correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080071</questionID>
+<question-text>You can add inline image to a web. page, by using the tag ...........</question-text>
+<answer0><bgsound></answer0>
+<answer1><img></answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer><img></correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080072</questionID>
+<question-text>Helper application can be-launched using the ....... tags.</question-text>
+<answer0><embed></answer0>
+<answer1><applet></answer1>
+<answer2><object></answer2>
+<answer3>all of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>all of these</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080073</questionID>
+<question-text>........... to be considered before deciding to include multimedia elements.</question-text>
+<answer0>Size</answer0>
+<answer1>Type</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Both a and b</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080074</questionID>
+<question-text>During a regular ............ transfer, the entire file is downloaded to the user’s computer</question-text>
+<answer0>FTP -</answer0>
+<answer1>HTTP</answer1>
+<answer2>TCP</answer2>
+<answer3>None of these</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>HTTP</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01080075</questionID>
+<question-text>........... a feature would be very popular with viewers viewing the content for a second time or third time</question-text>
+<answer0>Viewer control</answer0>
+<answer1>Dreamweaver</answer1>
+<answer2>Maya</answer2>
+<answer3>Flash</answer3>
+<grouping>08</grouping>
+<weightage>8</weightage>
+<correctAnswer>Viewer control</correctAnswer>
+</question>
+</chapter>
+
+
+<chapter name = "PRESENTATION" number="09">
+<question>
+<questionID>TNHSCS01090001</questionID>
+<question-text>You can enhance appearance of the...........by inserting charts and tables, adding background images, slide animation and transition effects,</question-text>
+<answer0>presentation</answer0>
+<answer1>spread sheet</answer1>
+<answer2>database</answer2>
+<answer3>wordprocessor</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>presentation</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090002</questionID>
+<question-text>...........is the staroffice application that allows you create and attractive and professional-looking presentations,</question-text>
+<answer0>Star Office Writer</answer0>
+<answer1>Star Office Base</answer1>
+<answer2>Star Office Draw</answer2>
+<answer3>Star Office Impress</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Star Office Impress</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090003</questionID>
+<question-text>You can create a new impress presentation from within any staroffice application by choosing ...........</question-text>
+<answer0>file new presentations</answer0>
+<answer1>start all programs star officeS star office impress</answer1>
+<answer2>file new -> text document</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>file new presentations</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090004</questionID>
+<question-text>The first page of the presentation wizard displays........... options.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>three</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090005</questionID>
+<question-text>In the second page,the left side of the presentation wizard provides ........... categories of presentation backgrounds.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>three</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090006</questionID>
+<question-text>........... option allows you to specify the duration for each slide and will automatically flip through the slides at the specified speed</question-text>
+<answer0>Manual</answer0>
+<answer1>Automatic</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Automatic</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090007</questionID>
+<question-text>Checking the...........checkbox will display the message, “Created with star office” during the pause between each presentation.</question-text>
+<answer0>create</answer0>
+<answer1>duration of page</answer1>
+<answer2>show logo</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>show logo</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090008</questionID>
+<question-text>...........command is used to create a new presentation using template.</question-text>
+<answer0>File -> new -> templates and documents</answer0>
+<answer1>File new presentations</answer1>
+<answer2>Start -> all programs -> star office 8 star office impress</answer2>
+<answer3>File new text document</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>File -> new -> templates and documents</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090009</questionID>
+<question-text>...........is the short cut key to create new presentation using template.</question-text>
+<answer0>Shift + ctrl + N</answer0>
+<answer1>Ctrl -fn</answer1>
+<answer2>Shift + n</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Shift + ctrl + N</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090010</questionID>
+<question-text>The slide pane on the ........... displays a thumbnail image of the slide and allows you to rename, delete, or rearrange them.</question-text>
+<answer0>left</answer0>
+<answer1>right</answer1>
+<answer2>top</answer2>
+<answer3>ottomb</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>left</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090011</questionID>
+<question-text>Which of the following views allows to reorder slides, edit slide titles and headings?</question-text>
+<answer0>Normal view</answer0>
+<answer1>Notes view</answer1>
+<answer2>Handous views</answer2>
+<answer3>Outline view</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Outline view</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090012</questionID>
+<question-text>To rename slide choose slide --- ></question-text>
+<answer0>rename slide</answer0>
+<answer1>new slide</answer1>
+<answer2>rename</answer2>
+<answer3>slide rename</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>rename slide</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090013</questionID>
+<question-text>Which button is used to start the slide show in staroffice impress?</question-text>
+<answer0>F1</answer0>
+<answer1>F3</answer1>
+<answer2>F5</answer2>
+<answer3>F7</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>F5</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090014</questionID>
+<question-text>Which one of the following displays various transition effects that can be attached to a slide?</question-text>
+<answer0>Custom animation</answer0>
+<answer1>Slide translation</answer1>
+<answer2>Animation effects</answer2>
+<answer3>Slide sorter</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Slide translation</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090015</questionID>
+<question-text>Which is not a background fill option? </question-text>
+<answer0>Color</answer0>
+<answer1>Gradient</answer1>
+<answer2>Picture</answer2>
+<answer3>Hatch</nganswer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Picture</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090016</questionID>
+<question-text>........... allows you to view miniature images of all the slides in the presentation.</question-text>
+<answer0>Slide sorter view</answer0>
+<answer1>Outline view</answer1>
+<answer2>Notes view</answer2>
+<answer3>Handouts view</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Slide sorter view</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090017</questionID>
+<question-text>For rearranging the slides, ........... can be used.</question-text>
+<answer0>outline view</answer0>
+<answer1>slide sorter view</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>slide sorter view</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090018</questionID>
+<question-text>........... page can be used to specify basic background information that needs to be included in all the slides,</question-text>
+<answer0>Layouts</answer0>
+<answer1>Master page</answer1>
+<answer2>Custom animation</answer2>
+<answer3>Slide transition</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Master page</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090019</questionID>
+<question-text>...........page displays various options that allow you to add or modify animation effects to elements of a slide,</question-text>
+<answer0>Master page</answer0>
+<answer1>.Custom animation</answer1>
+<answer2>Slide transition</answer2>
+<answer3>Layouts</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>.Custom animation</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090020</questionID>
+<question-text>...........page displays various transition effects that can be attracted to a slide.</question-text>
+<answer0>Custom animation</answer0>
+<answer1>Slide transition</answer1>
+<answer2>Master page</answer2>
+<answer3>Layouts</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Master page</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090021</questionID>
+<question-text>...........key can be used to start a presentation.</question-text>
+<answer0>F1</answer0>
+<answer1>F2</answer1>
+<answer2>F3</answer2>
+<answer3>F5</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>F5</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090022</questionID>
+<question-text>........... key can be used to end the presentation.</question-text>
+<answer0>Escape</answer0>
+<answer1>Enter</answer1>
+<answer2>Backspace</answer2>
+<answer3>Ctrl</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Escape</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090023</questionID>
+<question-text>........... command can be used to run the custom slide show.</question-text>
+<answer0>Slide show slide show</answer0>
+<answer1>Slide show custom slide show</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Slide show custom slide show</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090024</questionID>
+<question-text>...........option can be used to insert a picture in a slide.</question-text>
+<answer0>Insert -> picture -> from file</answer0>
+<answer1>Insert -> slide</answer1>
+<answer2>Insert -> movie and sound</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert -> picture -> from file</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090025</questionID>
+<question-text>...........option can be used to insert a movie or a sound into a presentation.</question-text>
+<answer0>Insert -> picture -> from file</answer0>
+<answer1>Insert -> slide</answer1>
+<answer2>Insert -> movie and sound</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert -> movie and sound</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090026</questionID>
+<question-text>........... tools for inserting objects like charts, formula etc. in a presentation.</question-text>
+<answer0>Insert object</answer0>
+<answer1>Insert ole object</answer1>
+<answer2>Insert -> movie and sound</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert object</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090027</questionID>
+<question-text>........... option is used to import objects from other application into a presentation.</question-text>
+<answer0>Insert -> object</answer0>
+<answer1>Insert -> OLE object</answer1>
+<answer2>Insert -> movie and sound</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert -> OLE object</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090028</questionID>
+<question-text>...........is used to import applets into the presentation.</question-text>
+<answer0>Insert -> object</answer0>
+<answer1>Insert -> applet</answer1>
+<answer2>Insert -> movie and sound</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Insert -> applet</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090029</questionID>
+<question-text>...........command can be used to change the slide view with different columns of slides.</question-text>
+<answer0>View -> toolbars slide view</answer0>
+<answer1>Insert slide</answer1>
+<answer2>Insert applet</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>View -> toolbars slide view</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090030</questionID>
+<question-text>There are  .......... tabs in custom animation window.</question-text>
+<answer0>one</answer0>
+<answer1>two</answer1>
+<answer2>three</answer2>
+<answer3>four</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>four</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090031</questionID>
+<question-text>........... menu can be used to change the background colour or background fill of the slides.</question-text>
+<answer0>Format -> page -> background</answer0>
+<answer1>View -> toolbars -> slide view</answer1>
+<answer2>Insert -> slide</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Format -> page -> background</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090032</questionID>
+<question-text>We can change the appearance of the master slide by applying a new slide design by selecting the menu</question-text>
+<answer0>format -> slide design</answer0>
+<answer1>format page background</answer1>
+<answer2>insert slide</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>format -> slide design</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090033</questionID>
+<question-text>To apply the slide design to all of the slides in your presentation , select the ........... check box.</question-text>
+<answer0>exchange background page</answer0>
+<answer1>delete unused backgrounds</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>exchange background page</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090034</questionID>
+<question-text>The stylist can be opened by pressing the key...........</question-text>
+<answer0>exchange background page</answer0>
+<answer1>delete unused backgrounds</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>both a and b</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090035</questionID>
+<question-text>By pressing the key you move the line down one level,</question-text>
+<answer0>F8</answer0>
+<answer1>F1O</answer1>
+<answer2>Fll</answer2>
+<answer3>F12</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+</question>
+<question>
+<questionID>TNHSCS01090036</questionID>
+<question-text>By pressing the key you move the line one level up.</question-text>
+<answer0>tab</answer0>
+<answer1>shift + tab</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>shift + tab</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090037</questionID>
+<question-text>...........to select a range of slides.</question-text>
+<answer0>tab</answer0>
+<answer1>shift+ tab</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>shift+ tab</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090038</questionID>
+<question-text>...........to select multiple slides.</question-text>
+<answer0>Ctrl</answer0>
+<answer1>Shift</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Ctrl</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090039</questionID>
+<question-text>...........command can be used to hide/ show the slides.</question-text>
+<answer0>Ctrl</answer0>
+<answer1>Shift</answer1>
+<answer2>slide show->show/hide slide</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>slide show->show/hide slide</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090040</questionID>
+<question-text>...........command has recorded the display time for each slide.</question-text>
+<answer0>Slide show -> show/hide slide</answer0>
+<answer1>Slide show -> rehearse timings</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Slide show -> rehearse timings</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090041</questionID>
+<question-text>To set the default printing options for star office impress, choose  ........</question-text>
+<answer0>Tools->options->staroffice impress->print</answer0>
+<answer1>Slide show -> rehearse timings</answer1>
+<answer2>Both a and b</answer2>
+<answer3>None of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Tools->options->staroffice impress->print</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090042</questionID>
+<question-text>We can reduce the size of a slide when you print, so that a slide can fit on a printed page by selecting...........</question-text>
+<answer0>file print</answer0>
+<answer1>tools -> options -> staroffice impress -> print</answer1>
+<answer2>both a and b</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>file print</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090043</questionID>
+<question-text>Using the navigator, you can move from slide to slide quickly by activating the navigating button by selecting the menu ...........</question-text>
+<answer0>format page</answer0>
+<answer1>file -> print</answer1>
+<answer2>tools -> options</answer2>
+<answer3>Edit - > Navigator</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>Edit - > Navigator</correctAnswer>
+</question>
+<question>
+<questionID>TNHSCS01090044</questionID>
+<question-text>Sending the presentation as HTML page by selecting the menu ...........</question-text>
+<answer0>file -> export</answer0>
+<answer1>tools -> options</answer1>
+<answer2>edit -> navigator</answer2>
+<answer3>none of these</answer3>
+<grouping>09</grouping>
+<weightage>8</weightage>
+<correctAnswer>file -> export</correctAnswer>
+</question>
+</chapter>
+</chapter-questions>
