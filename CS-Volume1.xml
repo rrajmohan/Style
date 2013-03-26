@@ -1,3 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- test -->
 <chapter-questions>
 <chapter name = "AN INTRODUCTION TO STAROFFICE WRITER" number="01">
 <question>
@@ -17,7 +19,7 @@
 <answer0>Star office writer</answer0>
 <answer1>Notepad</answer1>
 <answer2>Word pad</answer2>
-<answer3>C+ +</answer3>
+<answer3>C++</answer3>
 <grouping>01</grouping>
 <weightage>8</weightage>
 <correctAnswer>Star office writer</correctAnswer>
@@ -1762,7 +1764,7 @@
 <question>
 <questionID>TNHSCS01060013</questionID>
 <question-text>In staroffice calc the formula must starts with ...........</question-text>
-<answer0>&</answer0>
+<answer0>&amp;</answer0>
 <answer1>:</answer1>
 <answer2>=</answer2>
 <answer3>!</answer3>
@@ -1979,7 +1981,6 @@
 <weightage>8</weightage>
 <correctAnswer>two</correctAnswer>
 </question>
-</chapter>
 <question>
 <questionID>TNHSCS01060033</questionID>
 <question-text>How many cells are available in worksheet C1:E2?</question-text>
@@ -2041,7 +2042,7 @@
 <answer0>!</answer0>
 <answer1>:</answer1>
 <answer2>=</answer2>
-<answer3>&</answer3>
+<answer3>&amp;</answer3>
 <grouping>06</grouping>
 <weightage>8</weightage>
 <correctAnswer>!</correctAnswer>
@@ -2070,7 +2071,7 @@
 </question>
 <question>
 <questionID>TNHSCS01060041</questionID>
-<question-text>The cells A4, A5, A6, B4, B5 & B6 are referred in a worksheet as</question-text>
+<question-text>The cells A4, A5, A6, B4, B5 &amp; B6 are referred in a worksheet as</question-text>
 <answer0>A4:B6</answer0>
 <answer1>A1:B6</answer1>
 <answer2>A1:A6;B1:B6</answer2>
@@ -2107,10 +2108,10 @@
 <answer0>Status bar</answer0>
 <answer1>Scroll bar</answer1>
 <answer2>Menu bar</answer2>
-<answer3>Function bar & object bar</answer3>
+<answer3>Function bar &amp; object bar</answer3>
 <grouping>06</grouping>
 <weightage>8</weightage>
-<correctAnswer>Function bar & object bar</correctAnswer>
+<correctAnswer>Function bar &amp; object bar</correctAnswer>
 </question>
 <question>
 <questionID>TNHSCS01060045</questionID>
@@ -2180,7 +2181,7 @@
 </question>
 <question>
 <questionID>TNHSCS01060051</questionID>
-<question-text>The operator <> is used to check ________</question-text>
+<question-text>The operator &lt; &gt; is used to check ________</question-text>
 <answer0>Equal</answer0>
 <answer1>Greater than</answer1>
 <answer2>Inequality</answer2>
@@ -2204,12 +2205,12 @@
 <questionID>TNHSCS01060053</questionID>
 <question-text>The operator that combines two texts as a single text is</question-text>
 <answer0>=</answer0>
-<answer1>&</answer1>
+<answer1>&amp;</answer1>
 <answer2>+</answer2>
 <answer3>!</answer3>
 <grouping>06</grouping>
 <weightage>8</weightage>
-<correctAnswer>&</correctAnswer>
+<correctAnswer>&amp;</correctAnswer>
 </question>
 <question>
 <questionID>TNHSCS01060054</questionID>
@@ -2349,7 +2350,7 @@
 </question>
 <question>
 <questionID>TNHSCS01070010</questionID>
-<question-text>Human beings are liable to make computational and '..... errors.</question-text>
+<question-text>Human beings are liable to make computational and ..... errors.</question-text>
 <answer0>parallax</answer0>
 <answer1>transpose</answer1>
 <answer2>over write</answer2>
@@ -2635,7 +2636,7 @@
 </question>
 <question>
 <questionID>TNHSCS01070036</questionID>
-<question-text>The left pane is the<database> pane that displays Tables</question-text>
+<question-text>The left pane is the &lt; database &gt; pane that displays Tables</question-text>
 <answer0>queries</answer0>
 <answer1>forms</answer1>
 <answer2>reports</answer2>
@@ -2767,7 +2768,7 @@
 </question>
 <question>
 <questionID>TNHSCS01070048</questionID>
-<question-text>To view or modify the design of an existing table, click the ........... from the <Database> pane.</question-text>
+<question-text>To view or modify the design of an existing table, click the ........... from the &lt; Database &gt; pane.</question-text>
 <answer0>queries</answer0>
 <answer1>forms</answer1>
 <answer2>tables</answer2>
@@ -2812,10 +2813,10 @@
 <question>
 <questionID>TNHSCS01070052</questionID>
 <question-text>In the field selection window of the query wizard ........... to be clicked to get all the fields.</question-text>
-<answer0><</answer0>
-<answer1>></answer1>
-<answer2>< <</answer2>
-<answer3>> ></answer3>
+<answer0>&lt;</answer0>
+<answer1>&gt;</answer1>
+<answer2> &lt; &lt; </answer2>
+<answer3> &gt; &gt; </answer3>
 <grouping>07</grouping>
 <weightage>8</weightage>
 <correctAnswer>>></correctAnswer>
@@ -3751,31 +3752,31 @@
 <question>
 <questionID>TNHSCS01080070</questionID>
 <question-text>You can add inline sound to a web page by using the tag ...........</question-text>
-<answer0><bgsound></answer0>
-<answer1><img></answer1>
+<answer0> &lt;bgsound&gt; </answer0>
+<answer1> &lt;img&gt;</answer1>
 <answer2>both a and b</answer2>
 <answer3>none of these</answer3>
 <grouping>08</grouping>
 <weightage>8</weightage>
-<correctAnswer><bgsound></correctAnswer>
+<correctAnswer>&lt;bgsound&gt;</correctAnswer>
 </question>
 <question>
 <questionID>TNHSCS01080071</questionID>
 <question-text>You can add inline image to a web. page, by using the tag ...........</question-text>
-<answer0><bgsound></answer0>
-<answer1><img></answer1>
+<answer0>&lt;bgsound&gt;</answer0>
+<answer1>&lt;img&gt;</answer1>
 <answer2>both a and b</answer2>
 <answer3>none of these</answer3>
 <grouping>08</grouping>
 <weightage>8</weightage>
-<correctAnswer><img></correctAnswer>
+<correctAnswer>&lt;img&gt;</correctAnswer>
 </question>
 <question>
 <questionID>TNHSCS01080072</questionID>
 <question-text>Helper application can be-launched using the ....... tags.</question-text>
-<answer0><embed></answer0>
-<answer1><applet></answer1>
-<answer2><object></answer2>
+<answer0>&lt;embed&gt;</answer0>
+<answer1>&lt;applet&gt;</answer1>
+<answer2>&lt;object&gt;</answer2>
 <answer3>all of these</answer3>
 <grouping>08</grouping>
 <weightage>8</weightage>
@@ -3978,7 +3979,7 @@
 <answer0>Color</answer0>
 <answer1>Gradient</answer1>
 <answer2>Picture</answer2>
-<answer3>Hatch</nganswer3>
+<answer3>Hatch</answer3>
 <grouping>09</grouping>
 <weightage>8</weightage>
 <correctAnswer>Picture</correctAnswer>
