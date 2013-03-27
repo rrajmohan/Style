@@ -1465,7 +1465,7 @@
 <question-text>The default margins are  ....... inch top and bottom margins and  ........ inches left and right margins.</question-text>
 <answer0>1, 1.25</answer0>
 <answer1>1.25, 1</answer1>
-<answer2>1, 1 •</answer2>
+<answer2>1, 1.5</answer2>
 <answer3>1, 0.5</answer3>
 <grouping>05</grouping>
 <weightage>8</weightage>
@@ -1517,7 +1517,7 @@
 </question>
 <question>
 <questionID>TNHSCS01050006</questionID>
-<question-text>The gray area of the ruler indicates the margin’s ...... area.</question-text>
+<question-text>The gray area of the ruler indicates the margins ...... area.</question-text>
 <answer0>bottom</answer0>
 <answer1>center</answer1>
 <answer2>top</answer2>
@@ -3795,7 +3795,7 @@
 </question>
 <question>
 <questionID>TNHSCS01080074</questionID>
-<question-text>During a regular ............ transfer, the entire file is downloaded to the user’s computer</question-text>
+<question-text>During a regular ............ transfer, the entire file is downloaded to the users computer</question-text>
 <answer0>FTP -</answer0>
 <answer1>HTTP</answer1>
 <answer2>TCP</answer2>
@@ -3887,7 +3887,7 @@
 </question>
 <question>
 <questionID>TNHSCS01090007</questionID>
-<question-text>Checking the...........checkbox will display the message, “Created with star office” during the pause between each presentation.</question-text>
+<question-text>Checking the...........checkbox will display the message, Created with star office during the pause between each presentation.</question-text>
 <answer0>create</answer0>
 <answer1>duration of page</answer1>
 <answer2>show logo</answer2>
