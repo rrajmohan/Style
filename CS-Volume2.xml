@@ -199,15 +199,11 @@
 <correctAnswer>object</correctAnswer>
 </question>
 </chapter>
-
-
-
-
 <chapter name = "IMPACT OF COMPUTERS ON SOCIETY" number = "10">
 <question>
 <questionID>TNHSCS02100001</questionID>
 <question-text>What will be the 85% usage of computer?</question-text>
-<answer0>CWord Processing</answer0>
+<answer0>Word Processing</answer0>
 <answer1>Power point</answer1>
 <answer2>Spreadsheet</answer2>
 <answer3>Database</answer3>
@@ -468,6 +464,7 @@
 <grouping>01</grouping>
 <weightage>8</weightage>
 </question>
+<question>
 <questionID>TNHSCS02100010</questionID>
 <question-text>The device that converts speech into letter is</question-text>
 <answer0>Speaker</answer0>
@@ -479,12 +476,7 @@
 <weightage>8</weightage>
 </question>
 </chapter>
-
-
-
-
-
-<chapter name = "IT ENABLED SERVICES 1. Information technology that helps in improving the quality of service to the users is called" number = "11">
+<chapter name = "IT ENABLED SERVICES" number = "11">
 <question>
 <questionID>TNHSCS02110001</questionID>
 <question-text>Information technology that helps in improving the quality of service to the users is called</question-text>
@@ -584,7 +576,8 @@
 <grouping>01</grouping>
 <weightage>8</weightage>
 </question>
-<questionID>TNHSCS02110009</questionID>
+<question>
+<questionID>TNHSCS02110010</questionID>
 <question-text>Which is a permanent, legal document that formally states the result of a medical investigation?</question-text>
 <answer0>Medical anatomy</answer0>
 <answer1>Medical document</answer1>
@@ -594,8 +587,8 @@
 <grouping>01</grouping>
 <weightage>8</weightage>
 </question>
-
-<questionID>TNHSCS02110009</questionID>
+<question>
+<questionID>TNHSCS02110011</questionID>
 <question-text>ITES Stands for?</question-text>
 <answer0>IT Enabled services</answer0>
 <answer1>IT Evolution studies</answer1>
@@ -605,8 +598,8 @@
 <grouping>01</grouping>
 <weightage>8</weightage>
 </question>
-
-<questionID>TNHSCS02110009</questionID>
+<question>
+<questionID>TNHSCS02110012</questionID>
 <question-text>Expand BPO?</question-text>
 <answer0>Business process outsourcing</answer0>
 <answer1>Business process outsource</answer1>
@@ -616,8 +609,8 @@
 <grouping>01</grouping>
 <weightage>8</weightage>
 </question>
-
-<questionID>TNHSCS02110009</questionID>
+<question>
+<questionID>TNHSCS02110013</questionID>
 <question-text>Which of the following is not an It enabled services?</question-text>
 <answer0>Call Centres</answer0>
 <answer1>E-Governance</answer1>
@@ -627,8 +620,8 @@
 <grouping>01</grouping>
 <weightage>8</weightage>
 </question>
-
-questionID>TNHSCS02110009</questionID>
+<question>
+<questionID>TNHSCS02110014</questionID>
 <question-text>The facility that allows the user to speak into special device called _______ and then convert speech into letter</question-text>
 <answer0>Gramaphone</answer0>
 <answer1>Autophone</answer1>
@@ -638,7 +631,8 @@ questionID>TNHSCS02110009</questionID>
 <grouping>01</grouping>
 <weightage>8</weightage>
 </question>
-questionID>TNHSCS02110009</questionID>
+<question>
+<questionID>TNHSCS02110015</questionID>
 <question-text>Collection, digitization and processing of data is basic function of</question-text>
 <answer0>Data management</answer0>
 <answer1>Data collection</answer1>
@@ -648,7 +642,8 @@ questionID>TNHSCS02110009</questionID>
 <grouping>01</grouping>
 <weightage>8</weightage>
 </question>
-questionID>TNHSCS02110009</questionID>
+<question>
+<questionID>TNHSCS021100016</questionID>
 <question-text>How many steps involved in medical transcription?</question-text>
 <answer0>3</answer0>
 <answer1>2</answer1>
@@ -659,10 +654,6 @@ questionID>TNHSCS02110009</questionID>
 <weightage>8</weightage>
 </question>
 </chapter>
-
-
-
-
 <chapter name = "COMPUTER ETHICS" number = "12">
 <question>
 <questionID>TNHSCS02120001</questionID>
@@ -699,7 +690,7 @@ questionID>TNHSCS02110009</questionID>
 </question>
 <question>
 <questionID>TNHSCS02120002</questionID>
-<question-text>In mid 1960’s ........... began to examine unethical and illegal use of computers</question-text>
+<question-text>In mid 1960s ........... began to examine unethical and illegal use of computers</question-text>
 <answer0>Donn Parker</answer0>
 <answer1>Norbert Wiener</answer1>
 <answer2>Bjarne Stroustrup</answer2>
@@ -785,6 +776,7 @@ questionID>TNHSCS02110009</questionID>
 <weightage>8</weightage>
 <correctAnswer>piracy</correctAnswer>
 </question>
+<question>
 <questionID>TNHSCS02120009</questionID>
 <question-text>Which of the following is not a way of protection?</question-text>
 <answer0>physical security</answer0>
@@ -795,7 +787,8 @@ questionID>TNHSCS02110009</questionID>
 <weightage>8</weightage>
 <correctAnswer>piracy</correctAnswer>
 </question>
-questionID>TNHSCS02120009</questionID>
+<question>
+<questionID>TNHSCS02120009</questionID>
 <question-text>Cracking comes under</question-text>
 <answer0>Data security</answer0>
 <answer1>Computer crime</answer1>
@@ -806,10 +799,6 @@ questionID>TNHSCS02120009</questionID>
 <correctAnswer>Computer crime</correctAnswer>
 </question>
 </chapter>
-
-
-
-
 <chapter name = "OVERVIEW OF C++" number = "02">
 <question>
 <questionID>TNHSCS02020001</questionID>
@@ -1025,14 +1014,14 @@ questionID>TNHSCS02120009</questionID>
 <question>
 <questionID>TNHSCS02020025</questionID>
 <question-text>........... marks the end of the string.</question-text>
-<answer0>70&apos; ,</answer0>
-<answer1>&apos;\0&apos;</answer1>
+<answer0>\\0</answer0>
+<answer1>/0</answer1>
 <answer2>Both a and b</answer2>
 <answer3>None of these</answer3>
 <grouping>01</grouping>
 <weightage>8</weightage>
 <feedback> TNHSCS02020025 => Answer choice messed up</feedback>
-<correctAnswer>&apos;\0&apos;</correctAnswer>
+<correctAnswer>\\0</correctAnswer>
 </question>
 <question>
 <questionID>TNHSCS02020026</questionID>
@@ -1566,7 +1555,7 @@ questionID>TNHSCS02120009</questionID>
 </question>
 <question>
 <questionID>TNHSCS02020007</questionID>
-<question-text>........... have special;meaning*!©.:the language compiler.</question-text>
+<question-text>........... have special meaning the language compiler.</question-text>
 <answer0>Identifiers</answer0>
 <answer1>Constants</answer1>
 <answer2>Punctuators</answer2>
@@ -2847,7 +2836,7 @@ questionID>TNHSCS02120009</questionID>
 </question>
 <question>
 <questionID>TNHSCS02050022</questionID>
-<question-text>Strlen(“kannan”) returns the result as</question-text>
+<question-text>Strlen("kannan") returns the result as</question-text>
 <answer0>5</answer0>
 <answer1>7</answer1>
 <answer2>6</answer2>
@@ -2858,7 +2847,7 @@ questionID>TNHSCS02120009</questionID>
 </question>
 <question>
 <questionID>TNHSCS02050023</questionID>
-<question-text>Strcmp(“abc”,”abc”) returns the result as</question-text>
+<question-text>Strcmp("abc","abc") returns the result as</question-text>
 <answer0>0</answer0>
 <answer1>+ve</answer1>
 <answer2>-ve</answer2>
@@ -3701,6 +3690,7 @@ questionID>TNHSCS02120009</questionID>
 <grouping>01</grouping>
 <weightage>8</weightage>
 </question>
+<question>
 <questionID>TNHSCS02070008</questionID>
 <question-text>Which of the following terms means a name having two or more distinct meanings?</question-text>
 <answer0>Encapsulation</answer0>
@@ -3711,6 +3701,7 @@ questionID>TNHSCS02120009</questionID>
 <grouping>01</grouping>
 <weightage>8</weightage>
 </question>
+<question>
 <questionID>TNHSCS02070008</questionID>
 <question-text>In C++ Polymorphism is achieved through </question-text>
 <answer0>Encapsulation</answer0>
