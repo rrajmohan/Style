@@ -2515,7 +2515,7 @@
 </question>
 <question>
 <questionID>TNHSCS01070025</questionID>
-<question-text>....... database' do'not allow for more complex requests.</question-text>
+<question-text>....... database do not allow for more complex requests.</question-text>
 <answer0>Flat-file</answer0>
 <answer1>Relational</answer1>
 <answer2>Hierarchical</answer2>
@@ -2548,7 +2548,7 @@
 </question>
 <question>
 <questionID>TNHSCS01070028</questionID>
-<question-text>A  ...... is a' key that uniquely identifies a record in a database table.</question-text>
+<question-text>A  ...... is a key that uniquely identifies a record in a database table.</question-text>
 <answer0>field</answer0>
 <answer1>record</answer1>
 <answer2>primary key</answer2>
